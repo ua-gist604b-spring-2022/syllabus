@@ -10,7 +10,7 @@ This class is logically divided into nine units to be completed over a seven-wee
 
 | Name | Start Date | End Date | Points |
 | :--- | --- | --- | ---: |
-| **Module 0: Community Building - Week 1** | **3/16** | **3/16**  |   |
+| **Module 0: Community Building** | **3/16** | **3/16**  |   |
 | [0-1 Slack] | 3/16 | 3/19 | 10 |
 | [0-2 Introductions] | 3/16 | 3/19 | 20 |
 | **Module 1: Open Source GIS and Git** | **3/17** | **3/19**  |   |
