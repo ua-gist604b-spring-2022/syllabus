@@ -1,7 +1,7 @@
 
 ## Class Schedule
 
-This class is logically divided into nine units to be completed over a seven-week time frame. All homework is due exactly one week after it is assigned. Note that the class builds on itself and content from early modules will be used in later modules.
+This class is logically divided into units to be completed over a seven-week time frame. All homework is due exactly one week after it is assigned. Note that the class builds on itself and content from early modules will be used in later modules.
 
 ### Key Dates
 - Class Begins	March 16, 2020
