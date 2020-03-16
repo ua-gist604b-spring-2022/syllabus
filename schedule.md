@@ -11,8 +11,8 @@ This class is logically divided into units to be completed over a seven-week tim
 | Name | Start Date | End Date | Points |
 | :--- | --- | --- | ---: |
 | **Module 0: Community Building** | **3/16** | **3/16**  |   |
-| [0-1 Slack] | 3/16 | 3/19 | 10 |
-| [0-2 Introductions] | 3/16 | 3/19 | 20 |
+| [0-1 Slack](https://classroom.github.com/a/d3jQsMpu) | 3/16 | 3/19 | 10 |
+| [0-2 Introductions] | 3/17 | 3/20 | 20 |
 | **Module 1: Open Source GIS and Git** | **3/17** | **3/19**  |   |
 | [1-1 GitHub Hello] | 3/17 | 3/20 | 10 |
 | [1-2 Open Source Discovery] | 3/17 | 3/24 | 20 |
