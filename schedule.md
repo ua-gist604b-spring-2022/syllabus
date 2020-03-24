@@ -11,20 +11,23 @@ This class is logically divided into units to be completed over a seven-week tim
 | Name | Start Date | End Date | Points |
 | :--- | --- | --- | ---: |
 | **Module 0: Community Building** | **3/16** | **3/16**  |   |
-| [0-1 Slack](https://classroom.github.com/a/d3jQsMpu) | 3/17 | 3/22 | 10 |
-| [0-2 Introductions](https://classroom.github.com/a/57ynkNwY) | 3/19 | 3/22 | 20 |
+| - [Introduction](https://d2l.arizona.edu/d2l/le/content/893792/viewContent/8597273/View) | | | |
+| - [Class Overview](https://d2l.arizona.edu/d2l/le/content/893792/viewContent/8597275/View) | | | |
+| [0-1 Slack](https://classroom.github.com/a/d3jQsMpu) | 3/17 | 3/24 | 10 |
+| [0-2 Introductions](https://classroom.github.com/a/57ynkNwY) | 3/19 | 3/24 | 20 |
 | **Module 1: Open Source GIS and Git** | **3/17** | **3/19**  |   |
-| [1-1 GitHub Hello](https://classroom.github.com/a/GUzmkAqG) | 3/23 | 3/27 | 10 |
-| [1-2 Open Source Discovery](https://classroom.github.com/a/VBEDN3AN)| 3/23 | 3/27 | 20 |
-| [1-3 Open Source Jobs](https://classroom.github.com/a/eTm728A7) | 3/23 | 3/24 | 20 |
-| [1-4 GitHub Branches/Merge](https://classroom.github.com/a/MLGJcTud) | 3/19 | 3/26 | 20 |
-| [1-5 GitHub Desktop](https://classroom.github.com/a/JwuOL-xe) | 3/19 | 3/26 | 10 |
+| - [GitHub Lecture](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=88642490-a6df-4c1e-bc37-ab88004b6144#)  ([Slides](https://d2l.arizona.edu/d2l/le/content/893792/viewContent/8611424/View)) | | | | 
+| [1-1 GitHub Hello](https://classroom.github.com/a/GUzmkAqG) | 3/23 | 3/29 | 10 |
+| [1-2 Open Source Discovery](https://classroom.github.com/a/VBEDN3AN)| 3/23 | 3/29 | 20 |
+| [1-3 Open Source Jobs](https://classroom.github.com/a/eTm728A7) | 3/23 | 3/29 | 20 |
+| [1-4 GitHub Branches/Merge](https://classroom.github.com/a/MLGJcTud) | 3/23 | 3/29 | 20 |
+| [1-5 GitHub Desktop](https://classroom.github.com/a/JwuOL-xe) | 3/23 | 3/29 | 10 |
 | **Module 2: QGIS** | **3/23** | **3/27** | |
-| [2-1 QGIS Tutorials (Intro)] | 3/23 | 3/30 | 30 |
-| [2-2 QGIS Hurricane Sergio] | 3/24 | 3/31  | 40 |
-| [2-3 QGIS Tutorials (Intermediate)]  | 3/25 | 4/1 | 30 |
-| [2-4 QGIS Tutorials (Advanced)] | 3/26 |4/2 | 30 |
-| [2-5 QGIS Secret Mutant Hero Team] | 3/27 | 4/3 | 40 |
+| [2-1 QGIS Tutorials (Intro)] | 3/27 | 3/30 | 30 |
+| [2-2 QGIS Hurricane Sergio] | 3/28 | 3/31  | 40 |
+| [2-3 QGIS Tutorials (Intermediate)]  | 3/29 | 4/1 | 30 |
+| [2-4 QGIS Tutorials (Advanced)] | 3/30 |4/2 | 30 |
+| [2-5 QGIS Secret Mutant Hero Team] | 3/31 | 4/3 | 40 |
 | **Module 3: Python** | **3/30** | **4/3** |  |
 | [3-1 Python GIS Part 1] | 3/30 | 4/6 | 40 |
 | [3-2 Python GIS Part 2] | 4/1 | 4/8 | 40 |
