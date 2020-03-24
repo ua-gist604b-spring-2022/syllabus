@@ -11,8 +11,8 @@ This class is logically divided into units to be completed over a seven-week tim
 | Name | Start Date | End Date | Points |
 | :--- | --- | --- | ---: |
 | **Module 0: Community Building** | **3/16** | **3/16**  |   |
-| - [Introduction](https://d2l.arizona.edu/d2l/le/content/893792/viewContent/8597273/View) | | | |
-| - [Class Overview](https://d2l.arizona.edu/d2l/le/content/893792/viewContent/8597275/View) | | | |
+| - [Introduction](https://d2l.arizona.edu/d2l/le/content/893792/viewContent/8591306/View) ([Slides](https://d2l.arizona.edu/d2l/le/content/893792/viewContent/8597273/View)) | | | |
+| - [Class Overview](https://d2l.arizona.edu/d2l/le/content/893792/viewContent/8597280/View) ([Slides](https://d2l.arizona.edu/d2l/le/content/893792/viewContent/8597275/View)) | | | |
 | [0-1 Slack](https://classroom.github.com/a/d3jQsMpu) | 3/17 | 3/24 | 10 |
 | [0-2 Introductions](https://classroom.github.com/a/57ynkNwY) | 3/19 | 3/24 | 20 |
 | **Module 1: Open Source GIS and Git** | **3/17** | **3/19**  |   |
