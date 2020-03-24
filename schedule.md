@@ -14,11 +14,11 @@ This class is logically divided into units to be completed over a seven-week tim
 | [0-1 Slack](https://classroom.github.com/a/d3jQsMpu) | 3/17 | 3/22 | 10 |
 | [0-2 Introductions](https://classroom.github.com/a/57ynkNwY) | 3/19 | 3/22 | 20 |
 | **Module 1: Open Source GIS and Git** | **3/17** | **3/19**  |   |
-| [1-1 GitHub Hello] | 3/17 | 3/20 | 10 |
-| [1-2 Open Source Discovery] | 3/17 | 3/24 | 20 |
-| [1-3 Open Source Jobs] | 3/17 | 3/24 | 20 |
-| [1-4 GitHub Branches/Merge] | 3/19 | 3/26 | 20 |
-| [1-5 GitHub Desktop] | 3/19 | 3/26 | 10 |
+| [1-1 GitHub Hello](https://classroom.github.com/a/GUzmkAqG) | 3/17 | 3/20 | 10 |
+| [1-2 Open Source Discovery](https://classroom.github.com/a/VBEDN3AN)| 3/17 | 3/24 | 20 |
+| [1-3 Open Source Jobs](https://classroom.github.com/a/eTm728A7) | 3/17 | 3/24 | 20 |
+| [1-4 GitHub Branches/Merge](https://classroom.github.com/a/MLGJcTud) | 3/19 | 3/26 | 20 |
+| [1-5 GitHub Desktop](https://classroom.github.com/a/JwuOL-xe) | 3/19 | 3/26 | 10 |
 | **Module 2: QGIS** | **3/23** | **3/27** | |
 | [2-1 QGIS Tutorials (Intro)] | 3/23 | 3/30 | 30 |
 | [2-2 QGIS Hurricane Sergio] | 3/24 | 3/31  | 40 |
