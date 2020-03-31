@@ -23,11 +23,11 @@ This class is logically divided into units to be completed over a seven-week tim
 | [1-4 GitHub Branches/Merge](https://classroom.github.com/a/MLGJcTud) | 3/23 | 3/29 | 20 |
 | [1-5 GitHub Desktop](https://classroom.github.com/a/JwuOL-xe) | 3/23 | 3/29 | 10 |
 | **Module 2: QGIS** | **3/23** | **3/27** | |
-| [2-1 QGIS Tutorials (Intro)] | 3/27 | 3/30 | 30 |
-| [2-2 QGIS Hurricane Sergio] | 3/28 | 3/31  | 40 |
-| [2-3 QGIS Tutorials (Intermediate)]  | 3/29 | 4/1 | 30 |
-| [2-4 QGIS Tutorials (Advanced)] | 3/30 |4/2 | 30 |
-| [2-5 QGIS Secret Mutant Hero Team] | 3/31 | 4/3 | 40 |
+| [2-1 QGIS Tutorials (Intro)](https://classroom.github.com/a/tRAYMRQi) | 3/27 | 3/30 | 30 |
+| [2-2 QGIS Hurricane Sergio](https://classroom.github.com/a/OKs3NRl2) | 3/28 | 3/31  | 40 |
+| [2-3 QGIS Tutorials (Intermediate)](https://classroom.github.com/a/CeY-7W1l)  | 3/29 | 4/1 | 30 |
+| [2-4 QGIS Tutorials (Advanced)](https://classroom.github.com/a/rdc3dPx1) | 3/30 |4/2 | 30 |
+| [2-5 QGIS Secret Mutant Hero Team](https://classroom.github.com/a/ExKi-ArO) | 3/31 | 4/3 | 40 |
 | **Module 3: Python** | **3/30** | **4/3** |  |
 | [3-1 Python GIS Part 1] | 3/30 | 4/6 | 40 |
 | [3-2 Python GIS Part 2] | 4/1 | 4/8 | 40 |
