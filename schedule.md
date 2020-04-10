@@ -29,9 +29,9 @@ This class is logically divided into units to be completed over a seven-week tim
 | [2-4 QGIS Tutorials (Advanced)](https://classroom.github.com/a/rdc3dPx1) | 3/30 |4/5 | 30 |
 | [2-5 QGIS Secret Mutant Hero Team](https://classroom.github.com/a/ExKi-ArO) | 3/30 | 4/5 | 40 |
 | **Module 3: Python** | **4/3** | **4/11** |  |
-| [3-1 Python GIS Part 1] | 4/3 | 4/9 | 40 |
-| [3-2 Python GIS Part 2] | 4/4 | 4/10 | 40 |
-| [3-3 Jupyter Notebooks] | 4/5 | 4/11 | 50 |
+| [3-1 Python GIS Part 1](https://classroom.github.com/a/QMibDc4O) | 4/10 | 4/16 | 40 |
+| [3-2 Python GIS Part 2](https://classroom.github.com/a/ZeGVlLlU) | 4/10 | 4/16 | 40 |
+| [3-3 Jupyter Notebooks](https://classroom.github.com/a/s8S_d86M) | 4/10 | 4/16 | 50 |
 | **Module 4: Geoserver** | **4/6** | **4/8** | |
 | [4-1 Geoserver I] | 4/6 | 4/12 | 30 |
 | [4-1 Geoserver II] | 4/8 | 4/14 | 30 |
