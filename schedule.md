@@ -33,8 +33,8 @@ This class is logically divided into units to be completed over a seven-week tim
 | [3-2 Python GIS Part 2](https://classroom.github.com/a/ZeGVlLlU) | 4/10 | 4/16 | 40 |
 | [3-3 Jupyter Notebooks](https://classroom.github.com/a/s8S_d86M) | 4/10 | 4/16 | 50 |
 | **Module 4: Geoserver** | **4/20** | **4/27** | |
-| [4-1 Geoserver I](https://classroom.github.com/a/fiqrtswu) | 4/20 | 4/27 | 30 |
-| [4-1 Geoserver II](https://classroom.github.com/a/fiqrtswu) | 4/20 | 4/17 | 30 |
+| [4-1 Geoserver I](https://classroom.github.com/a/wP7BHnD4) | 4/20 | 4/27 | 30 |
+| [4-1 Geoserver II](https://classroom.github.com/a/cufgByMy) | 4/20 | 4/17 | 30 |
 | **Module 5: GDAL/OGR** | **4/22** | **4/29** | |
 | [5-1 GDAL/OGR](https://classroom.github.com/a/_J8GXneW) | 4/22 | 4/29 | 60 |
 | **Module 6: PostGIS** | **4/24** | **5/2** | |
