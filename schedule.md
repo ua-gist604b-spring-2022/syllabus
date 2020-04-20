@@ -32,35 +32,32 @@ This class is logically divided into units to be completed over a seven-week tim
 | [3-1 Python GIS Part 1](https://classroom.github.com/a/QMibDc4O) | 4/10 | 4/16 | 40 |
 | [3-2 Python GIS Part 2](https://classroom.github.com/a/ZeGVlLlU) | 4/10 | 4/16 | 40 |
 | [3-3 Jupyter Notebooks](https://classroom.github.com/a/s8S_d86M) | 4/10 | 4/16 | 50 |
-| **Module 4: Geoserver** | **4/6** | **4/8** | |
-| [4-1 Geoserver I] | 4/6 | 4/12 | 30 |
-| [4-1 Geoserver II] | 4/8 | 4/14 | 30 |
-| **Module 5: GDAL/OGR** | **4/10** | **4/10** | |
-| [5-1 GDAL/OGR] | 4/10 | 4/17 | 60 |
-| **Module 6: PostGIS** | **4/13** | **4/17** | |
-| [6-1 PostGIS Tutorial] | 4/13 | 4/20 | 40 |
-| [6-2 PostGIS OSM Load] | 4/15 | 4/22 | 50 |
-| [6-3 PostGIS OSM Geoserver] | 4/17 | 4/24 | 40 |
-| **Module 7: WebGIS** | **4/20** | **4/24** | |
-| [7-1 WebGIS - Leaflet] | 4/20 | 4/27 | 30 |
-| [7-2 WebGIS - OpenLayers] | 4/22 | 4/29 | 30 |
-| [7-3 WebGIS - QGIS Plugin] | 4/24 | 5/1 | 30 |
-| **Module 8: R** | **4/27** | **4/29** |  |
-| [8-1 R Part 1] | 4/27 | 5/4 | 40 |
-| [8-2 R Part 2] | 4/29 | 5/6 | 40 |
-| **Module 9: Spatial indexing** | **5/4** | **5/6** |  |
-| [9-1 Mapbox Tiles] | 5/4 | 5/11 | 40 |
-| [9-2 Uber H3] | 5/6 | 5/13 | 40 |
+| **Module 4: Geoserver** | **4/20** | **4/27** | |
+| [4-1 Geoserver I](https://classroom.github.com/a/fiqrtswu) | 4/20 | 4/27 | 30 |
+| [4-1 Geoserver II](https://classroom.github.com/a/fiqrtswu) | 4/20 | 4/17 | 30 |
+| **Module 5: GDAL/OGR** | **4/22** | **4/29** | |
+| [5-1 GDAL/OGR](https://classroom.github.com/a/_J8GXneW) | 4/22 | 4/29 | 60 |
+| **Module 6: PostGIS** | **4/24** | **5/2** | |
+| [6-1 PostGIS Tutorial](https://classroom.github.com/a/8Vcidrsz) | 4/24 | 4/30 | 40 |
+| [6-2 PostGIS OSM Load](https://classroom.github.com/a/zQZlhdRr) | 4/25 | 5/1 | 50 |
+| [6-3 PostGIS OSM Geoserver](https://classroom.github.com/a/rT9sCPRt) | 4/26 | 5/2 | 40 |
+| **Module 7: WebGIS (EXTRA)** | |  | |
+| [7-1 WebGIS - Leaflet] |  | | 30 |
+| [7-2 WebGIS - OpenLayers] |  |  | 30 |
+| [7-3 WebGIS - QGIS Plugin] |  |  | 30 |
+| **Module 8: R (EXTRA)** | | |  |
+| [8-1 R Part 1 - sp, raster, rgdal ](https://classroom.github.com/a/mB2ikgic) |  | | 40 |
+| [8-2 R Part 2 - sf (Simple Features)] |  |  | 40 |
 
 ## Project Schedule
 The class project encourage you to investigate a new open source software program or package in more detail than
 is used in this class. Details are described in [project.md](project.md).
 
-Accept the Class Project
+[Accept the Class Project](https://classroom.github.com/a/fiqrtswu)
 
 | Name | Due Date | Points |
 | :--- | --- | ---: |
-| Project Proposal | 3/30  50  |
-| Project Update | 4/20 | 50  |
+| Project Proposal | 4/27  50  |
+| Project Update | 5/3 | 50  |
 | Final Report | 5/8 | 50  |
 | Lightning Talks | 5/8 | 50  |
