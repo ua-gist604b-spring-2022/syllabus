@@ -79,6 +79,8 @@ is used in this class. Details are described in [project.md](project.md).
 | Lightning Talks | 12/1 to 12/8 | 50  |
 
 ## Official Dates
+See https://www.registrar.arizona.edu/dates-and-deadlines
+
 |  DATE | STANDARD CLASS DATES: FALL 2020 - GRADUATE - SEVEN WEEK - SECOND |
 | --- | --- |
 |  10/14/2020 | Last day for students to add to or drop from a waitlist |
