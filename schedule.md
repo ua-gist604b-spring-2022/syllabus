@@ -19,7 +19,7 @@ This class is logically divided into units to be completed over a seven-week tim
 | --- | --- | --- | --- |
 |  Module 0: Introduction and Open Source |  |  |  |
 |  _Lecture (Introduction and Open Source)_ |  |  |  |
-|  0-1 Slack | 10/15 | 10/22 | 10 |
+|  [0-1 Slack](https://classroom.github.com/a/O8NFfZkp) | 10/15 | 10/22 | 10 |
 |  0-2 Introductions | 10/15 | 10/22 | 20 |
 |  1-1 Open Source Discovery | 10/15 | 10/22 | 20 |
 |  **Module 1: Git and SCM** |  |  |  |
@@ -77,3 +77,28 @@ is used in this class. Details are described in [project.md](project.md).
 | Project Check-in | 11/12 | 50  |
 | Final Report | 12/8 | 50  |
 | Lightning Talks | 12/1 to 12/8 | 50  |
+
+## Official Dates
+|  DATE | STANDARD CLASS DATES: FALL 2020 - GRADUATE - SEVEN WEEK - SECOND |
+| --- | --- |
+|  10/14/2020 | Last day for students to add to or drop from a waitlist |
+|  10/15/2020 | FIRST DAY OF 7 WEEK - SECOND CLASSES |
+|  | UAccess still available for registration |
+|  | First day to add classes for audit; instructor signature is required |
+|  10/18/2020 | Last day to use UAccess for adding classes, changing classes, or changing sections |
+|  10/19/2020 | Instructor approval required on a Change of Schedule form to ADD or CHANGE classes |
+|  10/22/2020 | Last day for a refund |
+|  10/29/2020 | Last day to drop without a grade of W (withdraw) Classes dropped on or before this date will remain on your UAccess academic record with a status of dropped, but will not appear on your transcript |
+|  10/30/2020 | Instructor's and dean's signatures are required on a Change of Schedule form to change from pass/fail to regular grades or vice versa |
+|  10/30/2020 | W period begins A penalty grade of W will be awarded for each withdrawal and the class(es) will appear on your transcript |
+|  11/12/2020 | Last day to make registration changes without the dean's signature |
+|  11/13/2020 | Instructor's and dean's signatures are required on all Change of Schedule forms to ADD or CHANGE classes |
+|  11/19/2020 |  |
+|  | Last day for students to withdraw from a class online through UAccess |
+|  | Last day for students to change to/from audit with only instructor approval |
+|  | Last day for instructors to administratively drop students |
+|  11/20/2020 |  |
+|  | Instructor's and Graduate College dean's permission required on a Change of Schedule form to withdraw from a class--penalty grade of W will be awarded and the class will appear on your transcript |
+|  | Instructor's and dean's permission required on a Change of Schedule form to change to/from audit |
+|  11/26/2020 | Thanksgiving recess begins today with no classes until Monday |
+|  12/9/2020 | Last day of class--no registration changes can be made after the last day of class |
