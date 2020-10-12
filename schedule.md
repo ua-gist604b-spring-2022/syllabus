@@ -20,13 +20,12 @@ This class is logically divided into units to be completed over a seven-week tim
 |  Module 0: Introduction and Open Source |  |  |  |
 |  _Lecture (Introduction and Open Source)_ |  |  |  |
 |  [0-1 Slack](https://classroom.github.com/a/O8NFfZkp) | 10/15 | 10/22 | 10 |
-|  0-2 Introductions | 10/15 | 10/22 | 20 |
-|  1-1 Open Source Discovery | 10/15 | 10/22 | 20 |
+|  1-1 GitHub Hello | 10/15 | 10/27 | 10 |
+|  1-2 Open Source Discovery | 10/15 | 10/27 | 20 |
 |  **Module 1: Git and SCM** |  |  |  |
 |  _Lecture (Git and SCM)_ |  |  |  |
-|  1-1 GitHub Hello | 10/20 | 10/27 | 10 |
-|  1-4 GitHub Branches/Merge | 10/20 | 10/27 | 20 |
-|  1-5 GitHub Desktop | 10/20 | 10/27 | 10 |
+|  1-3 GitHub Branches/Merge | 10/20 | 10/27 | 20 |
+|  1-4 GitHub Desktop | 10/20 | 10/27 | 10 |
 |  * Project Proposal | 10/20 | 10/27 |  |
 |  **Module 2: QGIS** |  |  |  |
 |  _Lecture (QGIS)_ |  |  |  |
@@ -44,25 +43,28 @@ This class is logically divided into units to be completed over a seven-week tim
 |  _Lecture (Jupyter Notebooks)_ |  |  |  |
 |  * Project Check-in | 11/5 | 11/12 |  |
 |  3-3 Jupyter Notebooks | 11/5 | 11/12 | 50 |
+|  **Module 4: Docker** |  |  |  |
+|  _Lecture (Docker)_ |  |  |  |
+|  4-1 Docker | 11/10 | 11/17 | 60 |
 |  **Module 4: GDAL/OGR** |  |  |  |
 |  _Lecture (GDAL/OGR)_ |  |  |  |
-|  4-1 GDAL/OGR | 11/10 | 11/17 | 60 |
-|  **Module 5: Geoserver** |  |  |  |
+|  5-1 GDAL/OGR | 11/10 | 11/17 | 60 |
+|  **Module 6: Geoserver** |  |  |  |
 |  _Lecture (Geoserver)_ |  |  |  |
-|  5-1 Geoserver I | 11/12 | 11/19 | 30 |
-|  5-1 Geoserver II | 11/12 | 11/19 | 30 |
-|  **Module 6: PostGIS** |  |  |  |
+|  6-1 Geoserver I | 11/12 | 11/19 | 30 |
+|  6-2 Geoserver II | 11/12 | 11/19 | 30 |
+|  **Module 7: PostGIS** |  |  |  |
 |  _Lecture (PostGIS)_ |  |  |  |
-|  6-1 PostGIS Tutorial | 11/17 | 11/24 | 40 |
+|  7-1 PostGIS Tutorial | 11/17 | 11/24 | 40 |
 |  _Lecture (OSM)_ |  |  |  |
-|  6-2 PostGIS OSM Load | 11/19 | 11/26 | 50 |
+|  7-2 PostGIS OSM Load | 11/19 | 11/26 | 50 |
 |  _Lecture (PostGIS OSM Geoserver)_ |  |  |  |
-|  6-3 PostGIS OSM Geoserver | 11/24 | 12/1 | 40 |
-|  **Module 7: WebGIS** |  |  |  |
+|  7-3 PostGIS OSM Geoserver | 11/24 | 12/1 | 40 |
+|  **Module 8: WebGIS** |  |  |  |
 |  _Lecture (OpenLayers)_ |  |  |  |
-|  7-1 WebGIS - OpenLayers | 12/1 | 12/8 | 30 |
+|  8-1 WebGIS - OpenLayers | 12/1 | 12/8 | 30 |
 |  _Lecture (Mapbox)_ |  |  |  |
-|  7-2 WebGIS - Mapbox | 12/3 | 12/10 | 30 |
+|  8-2 WebGIS - Mapbox | 12/3 | 12/10 | 30 |
 |  * Project Presentations | 12/1 | 12/8 | 40 |
 |  * Project Due |  | 12/8 |  |
 
