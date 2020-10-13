@@ -23,7 +23,7 @@ on Monday and Tuesday from 6pm to 9:20pm (AZT) from Mon Oct 19 to Monday Dec 9. 
 |  **Name** | **Start Date** | **End Date** | **Points** |
 | --- | --- | --- | --- |
 |  Module 0: Introduction and Open Source |  |  |  |
-|  _Lecture (Introduction and Open Source)_ [zoom](https://arizona.zoom.us/j/84715427326)|  |  |  |
+|  _Lecture (Introduction and Open Source)_ ([zoom](https://arizona.zoom.us/j/84715427326)) |  |  |  |
 |  [0-1 Slack](https://classroom.github.com/a/O8NFfZkp) | 10/19 | 10/26 | 10 |
 |  [1-1 GitHub Hello]() | 10/19 | 10/26 | 10 |
 |  [1-2 Open Source Discovery]() | 10/19 | 10/26 | 20 |
