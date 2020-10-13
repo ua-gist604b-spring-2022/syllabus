@@ -51,7 +51,7 @@ on Monday and Tuesday from 6pm to 9:20pm (AZT) from Mon Oct 19 to Monday Dec 9. 
 |  **Module 4: Docker** |  |  |  |
 |  _Lecture (Docker)_ |  |  |  |
 |  4-1 Docker | 11/10 | 11/17 | 60 |
-|  **Module 4: GDAL/OGR** |  |  |  |
+|  **Module 5: GDAL/OGR** |  |  |  |
 |  _Lecture (GDAL/OGR)_ |  |  |  |
 |  5-1 GDAL/OGR | 11/10 | 11/17 | 60 |
 |  **Module 6: Geoserver** |  |  |  |
