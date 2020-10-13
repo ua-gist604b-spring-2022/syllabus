@@ -16,9 +16,9 @@ on Monday and Tuesday from 6pm to 9:20pm (AZT) from Mon Oct 19 to Monday Dec 9. 
 
 ### Project Dates
 - Proposal Due: October 27
-- Proposal Check-in: November 12
-- Proposal Presentations: December 1-8
-- Final Project Due: December 8
+- Proposal Check-in: November 16
+- Proposal Presentations: December 2-9
+- Final Project Due: December 9
 
 |  **Name** | **Start Date** | **End Date** | **Points** |
 | --- | --- | --- | --- |
