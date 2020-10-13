@@ -31,7 +31,7 @@ on Monday and Tuesday from 6pm to 9:20pm (AZT) from Mon Oct 19 to Monday Dec 9. 
 |  _Lecture (Git and SCM)_ |  |  |  |
 |  1-3 GitHub Branches/Merge | 10/20 | 10/27 | 20 |
 |  1-4 GitHub Desktop | 10/20 | 10/27 | 10 |
-|  * Project Proposal | 10/20 | 10/27 |  |
+|  * Project Proposal | 10/20 | 10/27 | 50 |
 |  **Module 2: QGIS** |  |  |  |
 |  _Lecture (QGIS)_ |  |  |  |
 |  2-1 QGIS Tutorials (Intro) | 10/26 | 11/2 | 30 |
@@ -46,7 +46,7 @@ on Monday and Tuesday from 6pm to 9:20pm (AZT) from Mon Oct 19 to Monday Dec 9. 
 |  _Lecture (Python GIS)_ |  |  |  |
 |  3-2 Python GIS Part 2 | 11/3 | 11/10 | 40 |
 |  _Lecture (Jupyter Notebooks)_ |  |  |  |
-|  * Project Check-in | 11/9 | 11/16 |  |
+|  * Project Check-in | 11/9 | 11/16 | 50 |
 |  3-3 Jupyter Notebooks | 11/9 | 11/16 | 50 |
 |  **Module 4: Docker** |  |  |  |
 |  _Lecture (Docker)_ |  |  |  |
@@ -68,10 +68,10 @@ on Monday and Tuesday from 6pm to 9:20pm (AZT) from Mon Oct 19 to Monday Dec 9. 
 |  **Module 8: WebGIS** |  |  |  |
 |  _Lecture (OpenLayers)_ |  |  |  |
 |  8-1 WebGIS - OpenLayers | 12/2 | 12/8 | 30 |
-|  * Project Presentations | 12/2 | 12/9 | 40 |
+|  * Project Presentations | 12/2 | 12/9 | 50 |
 |  _Lecture (Mapbox)_ |  |  |  |
 |  8-2 WebGIS - Mapbox | 12/3 | 12/10 | 30 |
-|  * Project Due |  | 12/9 |  |
+|  * Project Due |  | 12/9 | 50 |
 
 
 ## Project Schedule
