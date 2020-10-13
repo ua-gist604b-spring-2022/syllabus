@@ -4,7 +4,7 @@
 This class is logically divided into units to be completed over a seven-week time frame. All homework is due exactly one week after it is assigned. Note that the class builds on itself and content from early modules will be used in later modules.
 
 ### Key Dates
-- Class begins:	December 7, 2020
+- Class begins:	October 19, 2020
 - Last day of classes:	December 9, 2020
 - Veteran's Day: November 11, 2020
 - Thanksgiving: November 26, 2020
