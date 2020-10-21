@@ -28,7 +28,7 @@ on Monday and Tuesday from 6pm to 9:20pm (AZT) from Mon Oct 19 to Monday Dec 9. 
 |  [1-1 GitHub Hello](https://classroom.github.com/a/2ypA1ZJF) | 10/19 | 10/26 | 10 |
 |  [1-2 Open Source Discovery](https://classroom.github.com/a/hP0IXEjJ) | 10/19 | 10/26 | 20 |
 |  **Module 1: Git and SCM** |  |  |  |
-|  _Lecture (Git and SCM)_ |  |  |  |
+|  _Lecture (Git and SCM)_ [lecture starts at 1:58](https://arizona.zoom.us/rec/share/-noFXEo_L33dmgCiIPjTpoeTarK-1byr0dRzU0xhfX54dEFyoS_qr5HL-NQFeqQs.sDvZPCHTOs8t8SBc) |  |  |  |
 |  [1-3 GitHub Branches/Merge](https://classroom.github.com/a/e8767ypo) | 10/20 | 10/27 | 20 |
 |  [1-4 GitHub Desktop](https://classroom.github.com/a/f7vEXoDp) | 10/20 | 10/27 | 10 |
 |  * [Project Proposal](https://classroom.github.com/a/EOArQFXu) | 10/20 | 10/27 | 50 |
