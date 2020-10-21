@@ -31,15 +31,15 @@ on Monday and Tuesday from 6pm to 9:20pm (AZT) from Mon Oct 19 to Monday Dec 9. 
 |  _Lecture (Git and SCM)_ |  |  |  |
 |  [1-3 GitHub Branches/Merge](https://classroom.github.com/a/e8767ypo) | 10/20 | 10/27 | 20 |
 |  [1-4 GitHub Desktop](https://classroom.github.com/a/f7vEXoDp) | 10/20 | 10/27 | 10 |
-|  * Project Proposal | 10/20 | 10/27 | 50 |
+|  * [Project Proposal](https://classroom.github.com/a/EOArQFXu) | 10/20 | 10/27 | 50 |
 |  **Module 2: QGIS** |  |  |  |
 |  _Lecture (QGIS)_ |  |  |  |
-|  2-1 QGIS Tutorials (Intro) | 10/26 | 11/2 | 30 |
-|  2-2 QGIS Hurricane Sergio | 10/26 | 11/2 | 40 |
-|  2-3 QGIS Tutorials (Intermediate) | 10/26 | 11/2 | 30 |
+|  [2-1 QGIS Tutorials (Intro)](https://classroom.github.com/a/XGQqkW7v) | 10/26 | 11/2 | 30 |
+|  [2-2 QGIS Hurricane Sergio](https://classroom.github.com/a/TffLIpll) | 10/26 | 11/2 | 40 |
+|  [2-3 QGIS Tutorials (Intermediate)](https://classroom.github.com/a/ihfb_OeO) | 10/26 | 11/2 | 30 |
 |  _Lecture (QGIS)_ |  |  |  |
-|  2-4 QGIS Tutorials (Advanced) | 10/27 | 11/3 | 30 |
-|  2-5 QGIS Secret Mutant Hero Team | 10/27 | 11/3 | 40 |
+|  [2-4 QGIS Tutorials (Advanced)](https://classroom.github.com/a/uafQ7M87) | 10/27 | 11/3 | 30 |
+|  [2-5 QGIS Secret Mutant Hero Team](https://classroom.github.com/a/MnqimXW8) | 10/27 | 11/3 | 40 |
 |  **Module 3: Python** |  |  |  |
 |  _Lecture (Python GIS)_ |  |  |  |
 |  3-1 Python GIS Part 1 | 11/2 | 11/9 | 40 |
