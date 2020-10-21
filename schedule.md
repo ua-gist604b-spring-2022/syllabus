@@ -29,15 +29,15 @@ on Monday and Tuesday from 6pm to 9:20pm (AZT) from Mon Oct 19 to Monday Dec 9. 
 |  [1-2 Open Source Discovery](https://classroom.github.com/a/hP0IXEjJ) | 10/19 | 10/26 | 20 |
 |  **Module 1: Git and SCM** |  |  |  |
 |  [_Lecture (Git and SCM - starts at 1:58)_](https://arizona.zoom.us/rec/share/-noFXEo_L33dmgCiIPjTpoeTarK-1byr0dRzU0xhfX54dEFyoS_qr5HL-NQFeqQs.sDvZPCHTOs8t8SBc) |  |  |  |
-|  [1-3 GitHub Branches/Merge](https://classroom.github.com/a/e8767ypo) | 10/20 | 10/27 | 20 |
-|  [1-4 GitHub Desktop](https://classroom.github.com/a/f7vEXoDp) | 10/20 | 10/27 | 10 |
-|  * [Project Proposal](https://classroom.github.com/a/EOArQFXu) | 10/20 | 10/27 | 50 |
+|  [1-3 GitHub Branches/Merge](https://classroom.github.com/a/e8767ypo) | 10/19 | 10/27 | 20 |
+|  [1-4 GitHub Desktop](https://classroom.github.com/a/f7vEXoDp) | 10/19 | 10/27 | 10 |
+|  * [Project Proposal](https://classroom.github.com/a/EOArQFXu) | 10/19 | 10/27 | 50 |
 |  **Module 2: QGIS** |  |  |  |
+|  [_Lecture (QGIS)_](https://arizona.zoom.us/rec/share/QTBlyTZBniPqKYbkPGF7UnjpUIgN33yhXy7JmrYKpIwoMIVcZkjZQD9YPRNmTKPY.e8Jk8fFNAtg1tc8K) |  |  |  |
+|  [2-1 QGIS Tutorials (Intro)](https://classroom.github.com/a/XGQqkW7v) | 10/20 | 11/2 | 30 |
+|  [2-2 QGIS Hurricane Sergio](https://classroom.github.com/a/TffLIpll) | 10/20 | 11/2 | 40 |
 |  _Lecture (QGIS)_ |  |  |  |
-|  [2-1 QGIS Tutorials (Intro)](https://classroom.github.com/a/XGQqkW7v) | 10/26 | 11/2 | 30 |
-|  [2-2 QGIS Hurricane Sergio](https://classroom.github.com/a/TffLIpll) | 10/26 | 11/2 | 40 |
 |  [2-3 QGIS Tutorials (Intermediate)](https://classroom.github.com/a/ihfb_OeO) | 10/26 | 11/2 | 30 |
-|  _Lecture (QGIS)_ |  |  |  |
 |  [2-4 QGIS Tutorials (Advanced)](https://classroom.github.com/a/uafQ7M87) | 10/27 | 11/3 | 30 |
 |  [2-5 QGIS Secret Mutant Hero Team](https://classroom.github.com/a/MnqimXW8) | 10/27 | 11/3 | 40 |
 |  **Module 3: Python** |  |  |  |
