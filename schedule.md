@@ -40,17 +40,17 @@ on Monday and Tuesday from 6pm to 9:20pm (AZT) from Mon Oct 19 to Monday Dec 9. 
 |  [2-3 QGIS Tutorials (Intermediate)](https://classroom.github.com/a/ihfb_OeO) | 10/26 | 11/2 | 30 |
 |  [2-4 QGIS Tutorials (Advanced)](https://classroom.github.com/a/uafQ7M87) | 10/27 | 11/3 | 30 |
 |  [2-5 QGIS Secret Mutant Hero Team](https://classroom.github.com/a/MnqimXW8) | 10/27 | 11/3 | 40 |
-|  **Module 3: Python** |  |  |  |
-|  _Lecture (Python GIS)_ |  |  |  |
-|  3-1 Python GIS Part 1 | 11/2 | 11/9 | 40 |
-|  _Lecture (Python GIS)_ |  |  |  |
-|  3-2 Python GIS Part 2 | 11/3 | 11/10 | 40 |
-|  _Lecture (Jupyter Notebooks)_ |  |  |  |
-|  * Project Check-in | 11/9 | 11/16 | 50 |
-|  3-3 Jupyter Notebooks | 11/9 | 11/16 | 50 |
-|  **Module 4: Docker** |  |  |  |
+|  **Module 3: Docker** |  |  |  |
 |  _Lecture (Docker)_ |  |  |  |
-|  4-1 Docker | 11/10 | 11/17 | 60 |
+|  3-1 Docker | 11/2 | 11/9 | 60 |
+|  **Module 4: Python** |  |  |  |
+|  _Lecture (Python GIS)_ |  |  |  |
+|  4-1 Python GIS Part 1 | 11/3 | 11/10 | 40 |
+|  _Lecture (Python GIS)_ |  |  |  |
+|  4-2 Python GIS Part 2 | 11/9 | 11/16 | 40 |
+|  _Lecture (Jupyter Notebooks)_ |  |  |  |
+|  * Project Check-in | 11/10 | 11/17 | 50 |
+|  4-3 Jupyter Notebooks | 11/10 | 11/17 | 50 |
 |  **Module 5: GDAL/OGR** |  |  |  |
 |  _Lecture (GDAL/OGR)_ |  |  |  |
 |  5-1 GDAL/OGR | 11/10 | 11/17 | 60 |
