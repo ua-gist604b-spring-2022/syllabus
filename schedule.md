@@ -36,7 +36,7 @@ on Monday and Tuesday from 6pm to 9:20pm (AZT) from Mon Oct 19 to Monday Dec 9. 
 |  [_Lecture (QGIS)_](https://arizona.zoom.us/rec/share/QTBlyTZBniPqKYbkPGF7UnjpUIgN33yhXy7JmrYKpIwoMIVcZkjZQD9YPRNmTKPY.e8Jk8fFNAtg1tc8K) |  |  |  |
 |  [2-1 QGIS Tutorials (Intro)](https://classroom.github.com/a/XGQqkW7v) | 10/20 | 11/2 | 30 |
 |  [2-2 QGIS Hurricane Sergio](https://classroom.github.com/a/TffLIpll) | 10/20 | 11/2 | 40 |
-|  _Lecture (QGIS)_ |  |  |  |
+|  [_Lecture (QGIS)_](https://arizona.zoom.us/rec/share/4-n6wa0LgTWh2UzwksdzgvuPoiS64qcwdT42oatMu6P83bo9F3nT67LVmGDCBTuO.Jz58YsRWDpz8_Y0K) |  |  |  |
 |  [2-3 QGIS Tutorials (Intermediate)](https://classroom.github.com/a/ihfb_OeO) | 10/26 | 11/2 | 30 |
 |  [2-4 QGIS Tutorials (Advanced)](https://classroom.github.com/a/uafQ7M87) | 10/27 | 11/3 | 30 |
 |  [2-5 QGIS Secret Mutant Hero Team](https://classroom.github.com/a/MnqimXW8) | 10/27 | 11/3 | 40 |
