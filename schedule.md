@@ -42,7 +42,7 @@ on Monday and Tuesday from 6pm to 9:20pm (AZT) from Mon Oct 19 to Monday Dec 9. 
 |  [2-5 QGIS Secret Mutant Hero Team](https://classroom.github.com/a/MnqimXW8) | 10/27 | 11/3 | 40 |
 |  **Module 3: Docker** |  |  |  |
 |  _Lecture (Docker)_ |  |  |  |
-|  3-1 Docker | 11/2 | 11/9 | 60 |
+|  [3-1 Docker](https://classroom.github.com/classrooms/72710343-gist-604b-fall-2020/assignments/3-1-docker-intro) | 11/2 | 11/9 | 60 |
 |  **Module 4: Python** |  |  |  |
 |  _Lecture (Python GIS)_ |  |  |  |
 |  4-1 Python GIS Part 1 | 11/3 | 11/10 | 40 |
