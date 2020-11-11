@@ -50,7 +50,7 @@ on Monday and Tuesday from 6pm to 9:20pm (AZT) from Mon Oct 19 to Monday Dec 9. 
 |  [4-2 Python GIS Part 2](https://classroom.github.com/a/AUX651YB) | 11/9 | 11/16 | 40 |
 |  _Lecture (Jupyter Notebooks)_ |  |  |  |
 |  * Project Check-in | 11/10 | 11/17 | 50 |
-|  4-3 Jupyter Notebooks | 11/10 | 11/17 | 50 |
+|  [4-3 Jupyter Notebooks](https://classroom.github.com/a/0FpoxQ-G) | 11/10 | 11/17 | 50 |
 |  **Module 5: GDAL/OGR** |  |  |  |
 |  _Lecture (GDAL/OGR)_ |  |  |  |
 |  5-1 GDAL/OGR | 11/10 | 11/17 | 60 |
