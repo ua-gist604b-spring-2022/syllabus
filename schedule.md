@@ -44,27 +44,28 @@ on Monday and Tuesday from 6pm to 9:20pm (AZT) from Mon Oct 19 to Monday Dec 9. 
 |  [_Lecture (Docker)_](https://arizona.zoom.us/rec/play/ZAy8if2YZUllwfEi7GVpGuvEnT7Tr_x8McODYrWxosscjnBgiZOHPOstJ9Q5JRPBwfAJEFCUG6mLTaxL.Is5OCfgD1fWYXRor?continueMode=true&_x_zm_rtaid=5T-e11PdR7CxvZO5g41opQ.1604451457443.b5dc6142228d29b74e77fdb144ade207&_x_zm_rhtaid=51) |  |  |  |
 |  [3-1 Docker](https://classroom.github.com/a/r_xP-LA9) | 11/2 | 11/9 | 60 |
 |  **Module 4: Python** |  |  |  |
-|  _Lecture (Python GIS)_ |  |  |  |
+|  [_Lecture (Python GIS)_](https://arizona.zoom.us/rec/share/PpzH_uqI2W2bTCZ3rFlh2PTdTsp1pGJRbNOIPXQC1c-G-_CejXHZ4lNmgc8k50AI.9YgH4Nh7d7gy8zVm) |  |  |  |
 |  [4-1 Python GIS Part 1](https://classroom.github.com/a/J2qZZu2E) | 11/3 | 11/10 | 40 |
-|  _Lecture (Python GIS)_ |  |  |  |
+|  [_Lecture (Python GIS)_](https://arizona.zoom.us/rec/share/gACH4nNLi0mMHNwP42Pc0SW08-pIAzBJDqn9JWcRLO6MLE2auq9bO-oyqlnhs6UX.6itfAb60n8YV79Zp) |  |  |  |
 |  [4-2 Python GIS Part 2](https://classroom.github.com/a/AUX651YB) | 11/9 | 11/16 | 40 |
-|  _Lecture (Jupyter Notebooks)_ |  |  |  |
+|  [_Lecture (Jupyter Notebooks)_](https://arizona.zoom.us/rec/share/7wULZVvxE4kogmnG2SwZ5CHQ9uNxLYg-8gVz1rKDMw5mkonZBIzqnSg-DxEEM-o9.Nqvl-JaXLAGrFuft) |  |  |  
 |  * Project Check-in | 11/10 | 11/17 | 50 |
 |  [4-3 Jupyter Notebooks](https://classroom.github.com/a/0FpoxQ-G) | 11/10 | 11/17 | 50 |
-|  **Module 5: GDAL/OGR** |  |  |  |
-|  _Lecture (GDAL/OGR)_ |  |  |  |
-|  5-1 GDAL/OGR | 11/10 | 11/17 | 60 |
-|  **Module 6: Geoserver** |  |  |  |
+|  **Module 5: Geoserver** |  |  |  |
 |  _Lecture (Geoserver)_ |  |  |  |
-|  6-1 Geoserver I | 11/16 | 11/23 | 30 |
-|  6-2 Geoserver II | 11/16 | 11/23 | 30 |
-|  **Module 7: PostGIS** |  |  |  |
+|  5-1 Geoserver Docker | 11/16 | 11/23 | 30 |
+|  5-2 Geoserver I | 11/16 | 11/23 | 30 |
+|  5-3 Geoserver II | 11/16 | 11/23 | 30 |
+|  **Module 6: PostGIS** |  |  |  |
 |  _Lecture (PostGIS)_ |  |  |  |
-|  7-1 PostGIS Tutorial | 11/17 | 11/24 | 40 |
+|  6-1 PostGIS Tutorial | 11/17 | 11/24 | 40 |
 |  _Lecture (OSM)_ |  |  |  |
-|  7-2 PostGIS OSM Load | 11/23 | 11/30 | 50 |
+|  6-2 PostGIS OSM Load | 11/23 | 11/30 | 50 |
 |  _Lecture (PostGIS OSM Geoserver)_ |  |  |  |
-|  7-3 PostGIS OSM Geoserver | 11/24 | 12/1 | 40 |
+|  6-3 PostGIS OSM Geoserver | 11/24 | 12/1 | 40 |
+|  **Module ?: GDAL/OGR** |  |  |  |
+|  _Lecture (GDAL/OGR)_ |  |  |  |
+|  5-1 GDAL/OGR | ? | ? | 60 |
 |  **Module 8: WebGIS** |  |  |  |
 |  _Lecture (OpenLayers)_ |  |  |  |
 |  8-1 WebGIS - OpenLayers | 12/2 | 12/8 | 30 |
