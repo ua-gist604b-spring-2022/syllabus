@@ -53,7 +53,7 @@ on Monday and Tuesday from 6pm to 9:20pm (AZT) from Mon Oct 19 to Monday Dec 9. 
 |  [4-3 Jupyter Notebooks](https://classroom.github.com/a/0FpoxQ-G) | 11/10 | 11/17 | 50 |
 |  **Module 5: Geoserver** |  |  |  |
 |  _Lecture (Geoserver)_ |  |  |  |
-|  5-1 Geoserver Docker | 11/16 | 11/23 | 30 |
+|  [5-1 Geoserver Docker](https://classroom.github.com/a/zqDtvTrM) | 11/16 | 11/23 | 30 |
 |  5-2 Geoserver I | 11/16 | 11/23 | 30 |
 |  5-3 Geoserver II | 11/16 | 11/23 | 30 |
 |  **Module 6: PostGIS** |  |  |  |
