@@ -55,14 +55,14 @@ on Monday and Tuesday from 6pm to 9:20pm (AZT) from Mon Oct 19 to Monday Dec 9. 
 |  _Lecture (Geoserver)_ |  |  |  |
 |  [5-1 Geoserver Docker](https://classroom.github.com/a/zqDtvTrM) | 11/16 | 11/23 | 30 |
 |  [5-2 Geoserver I](https://classroom.github.com/a/K4X437Sa) | 11/16 | 11/23 | 30 |
-|  5-3 Geoserver II | 11/16 | 11/23 | 30 |
 |  **Module 6: PostGIS** |  |  |  |
 |  _Lecture (PostGIS)_ |  |  |  |
-|  6-1 PostGIS Tutorial | 11/17 | 11/24 | 40 |
+|  [6-1 PostGIS Docker](https://classroom.github.com/a/2Rssv4ns) | 11/17 | 11/24 | 40 |
+|  [6-2 PostGIS Tutorial](https://classroom.github.com/a/4nP6ys1d) | 11/17 | 11/24 | 40 |
 |  _Lecture (OSM)_ |  |  |  |
-|  6-2 PostGIS OSM Load | 11/23 | 11/30 | 50 |
+|  6-3 PostGIS OSM Load | 11/23 | 11/30 | 50 |
 |  _Lecture (PostGIS OSM Geoserver)_ |  |  |  |
-|  6-3 PostGIS OSM Geoserver | 11/24 | 12/1 | 40 |
+|  6-4 PostGIS OSM Geoserver | 11/24 | 12/1 | 40 |
 |  **Module ?: GDAL/OGR** |  |  |  |
 |  _Lecture (GDAL/OGR)_ |  |  |  |
 |  5-1 GDAL/OGR | ? | ? | 60 |
