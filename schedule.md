@@ -23,43 +23,43 @@ on Monday and Tuesday from 6pm to 9:20pm (AZT) from Mon Oct 19 to Monday Dec 9. 
 |  **Name** | **Start Date** | **Due Date** | **Points** |
 | --- | --- | --- | --- |
 |  Module 0: Introduction and Open Source |  |  |  |
-|  [_Lecture (Introduction and Open Source)_](https://arizona.zoom.us/rec/share/-noFXEo_L33dmgCiIPjTpoeTarK-1byr0dRzU0xhfX54dEFyoS_qr5HL-NQFeqQs.sDvZPCHTOs8t8SBc) |  |  |  |
+|  [_Lecture 1 (Introduction and Open Source)_](https://d2l.arizona.edu/d2l/le/content/968671/viewContent/9685637/View) |  |  |  |
 |  [0-1 Slack](https://classroom.github.com/a/O8NFfZkp) | 10/19 | 10/26 | 10 |
 |  [1-1 GitHub Hello](https://classroom.github.com/a/2ypA1ZJF) | 10/19 | 10/26 | 10 |
 |  [1-2 Open Source Discovery](https://classroom.github.com/a/hP0IXEjJ) | 10/19 | 10/26 | 20 |
 |  **Module 1: Git and SCM** |  |  |  |
-|  [_Lecture (Git and SCM - starts at 1:58)_](https://arizona.zoom.us/rec/share/-noFXEo_L33dmgCiIPjTpoeTarK-1byr0dRzU0xhfX54dEFyoS_qr5HL-NQFeqQs.sDvZPCHTOs8t8SBc) |  |  |  |
+|  [_Lecture 2 (Git and SCM)_](https://d2l.arizona.edu/d2l/le/content/968671/viewContent/9690596/View) |  |  |  |
 |  [1-3 GitHub Branches/Merge](https://classroom.github.com/a/e8767ypo) | 10/19 | 10/27 | 20 |
 |  [1-4 GitHub Desktop](https://classroom.github.com/a/f7vEXoDp) | 10/19 | 10/27 | 10 |
 |  * [Project Proposal](https://classroom.github.com/a/EOArQFXu) | 10/19 | 10/27 | 50 |
 |  **Module 2: QGIS** |  |  |  |
-|  [_Lecture (QGIS)_](https://arizona.zoom.us/rec/share/QTBlyTZBniPqKYbkPGF7UnjpUIgN33yhXy7JmrYKpIwoMIVcZkjZQD9YPRNmTKPY.e8Jk8fFNAtg1tc8K) |  |  |  |
+|  [_Lecture 3 (QGIS)_](https://d2l.arizona.edu/d2l/le/content/968671/viewContent/9711945/View) |  |  |  |
 |  [2-1 QGIS Tutorials (Intro)](https://classroom.github.com/a/XGQqkW7v) | 10/20 | 11/2 | 30 |
 |  [2-2 QGIS Hurricane Sergio](https://classroom.github.com/a/TffLIpll) | 10/20 | 11/2 | 40 |
-|  [_Lecture (QGIS)_](https://arizona.zoom.us/rec/share/4-n6wa0LgTWh2UzwksdzgvuPoiS64qcwdT42oatMu6P83bo9F3nT67LVmGDCBTuO.Jz58YsRWDpz8_Y0K) |  |  |  |
+|  [_Lecture 4 (QGIS)_](https://d2l.arizona.edu/d2l/le/content/968671/viewContent/9714791/View) |  |  |  |
 |  [2-3 QGIS Tutorials (Intermediate)](https://classroom.github.com/a/ihfb_OeO) | 10/26 | 11/2 | 30 |
 |  [2-4 QGIS Tutorials (Advanced)](https://classroom.github.com/a/uafQ7M87) | 10/27 | 11/3 | 30 |
 |  [2-5 QGIS Secret Mutant Hero Team](https://classroom.github.com/a/MnqimXW8) | 10/27 | 11/3 | 40 |
 |  **Module 3: Docker** |  |  |  |
-|  [_Lecture (Docker)_](https://arizona.zoom.us/rec/play/ZAy8if2YZUllwfEi7GVpGuvEnT7Tr_x8McODYrWxosscjnBgiZOHPOstJ9Q5JRPBwfAJEFCUG6mLTaxL.Is5OCfgD1fWYXRor?continueMode=true&_x_zm_rtaid=5T-e11PdR7CxvZO5g41opQ.1604451457443.b5dc6142228d29b74e77fdb144ade207&_x_zm_rhtaid=51) |  |  |  |
+|  [_Lecture 5 (Docker)_](https://d2l.arizona.edu/d2l/le/content/968671/viewContent/9733370/View) |  |  |  |
 |  [3-1 Docker](https://classroom.github.com/a/r_xP-LA9) | 11/2 | 11/9 | 60 |
 |  **Module 4: Python** |  |  |  |
-|  [_Lecture (Python GIS)_](https://arizona.zoom.us/rec/share/PpzH_uqI2W2bTCZ3rFlh2PTdTsp1pGJRbNOIPXQC1c-G-_CejXHZ4lNmgc8k50AI.9YgH4Nh7d7gy8zVm) |  |  |  |
+|  [_Lecture 6 (Python GIS)_](https://d2l.arizona.edu/d2l/le/content/968671/viewContent/9739182/View) |  |  |  |
 |  [4-1 Python GIS Part 1](https://classroom.github.com/a/J2qZZu2E) | 11/3 | 11/10 | 40 |
-|  [_Lecture (Python GIS)_](https://arizona.zoom.us/rec/share/gACH4nNLi0mMHNwP42Pc0SW08-pIAzBJDqn9JWcRLO6MLE2auq9bO-oyqlnhs6UX.6itfAb60n8YV79Zp) |  |  |  |
+|  [_Lecture 7 (Python GIS)_](https://d2l.arizona.edu/d2l/le/content/968671/viewContent/9760377/View) |  |  |  |
 |  [4-2 Python GIS Part 2](https://classroom.github.com/a/AUX651YB) | 11/9 | 11/16 | 40 |
-|  [_Lecture (Jupyter Notebooks)_](https://arizona.zoom.us/rec/share/7wULZVvxE4kogmnG2SwZ5CHQ9uNxLYg-8gVz1rKDMw5mkonZBIzqnSg-DxEEM-o9.Nqvl-JaXLAGrFuft) |  |  |  
+|  [_Lecture 8 (Jupyter Notebooks)_](https://d2l.arizona.edu/d2l/le/content/968671/viewContent/9767816/View) |  |  |  
 |  * Project Check-in | 11/10 | 11/17 | 50 |
 |  [4-3 Jupyter Notebooks](https://classroom.github.com/a/0FpoxQ-G) | 11/10 | 11/17 | 50 |
 |  **Module 5: Geoserver** |  |  |  |
-|  _Lecture (Geoserver)_ |  |  |  |
-|  [5-1 Geoserver Docker](https://classroom.github.com/a/zqDtvTrM) | 11/16 | 11/23 | 30 |
+|  [_Lecture 9 (Geoserver)_](https://d2l.arizona.edu/d2l/le/content/968671/viewContent/9798244/View) |  |  |  |
+|  [5-1 Geoserver Docker](https://classroom.github.com/a/zqDtvTrM) | 11/16 | 11/23 | 40 |
 |  [5-2 Geoserver I](https://classroom.github.com/a/K4X437Sa) | 11/16 | 11/23 | 30 |
 |  **Module 6: PostGIS** |  |  |  |
-|  _Lecture (PostGIS)_ |  |  |  |
+|  [_Lecture 10 (PostGIS)_](https://d2l.arizona.edu/d2l/le/content/968671/viewContent/9804829/View) |  |  |  |
 |  [6-1 PostGIS Docker](https://classroom.github.com/a/2Rssv4ns) | 11/17 | 11/24 | 40 |
 |  [6-2 PostGIS Tutorial](https://classroom.github.com/a/4nP6ys1d) | 11/17 | 11/24 | 40 |
-|  _Lecture (OSM)_ |  |  |  |
+|  _Lecture 11 (PostGIS+OSM+GeoServer)_ |  |  |  |
 |  6-3 PostGIS OSM Load | 11/23 | 11/30 | 50 |
 |  _Lecture (PostGIS OSM Geoserver)_ |  |  |  |
 |  6-4 PostGIS OSM Geoserver | 11/24 | 12/1 | 40 |
