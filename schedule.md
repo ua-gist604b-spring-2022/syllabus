@@ -59,11 +59,9 @@ on Monday and Tuesday from 6pm to 9:20pm (AZT) from Mon Oct 19 to Monday Dec 9. 
 |  [_Lecture 10 (PostGIS)_](https://d2l.arizona.edu/d2l/le/content/968671/viewContent/9804829/View) |  |  |  |
 |  [6-1 PostGIS Docker](https://classroom.github.com/a/2Rssv4ns) | 11/17 | 11/24 | 40 |
 |  [6-2 PostGIS Tutorial](https://classroom.github.com/a/4nP6ys1d) | 11/17 | 11/24 | 40 |
-|  _Lecture 11 (PostGIS+OSM+GeoServer)_ |  |  |  |
 |  [6-3 PostGIS OSM Load](https://classroom.github.com/a/c1Xwu4sH) | 11/23 | 11/30 | 50 |
 |  _Lecture (PostGIS OSM Geoserver)_ |  |  |  |
 |  [6-4 Docker Compose](https://classroom.github.com/a/83FsVnXo) | 11/24 | 12/1 | 40 |
-|  _Lecture (PostGIS OSM Geoserver)_ |  |  |  |
 |  [6-5 PostGIS OSM Geoserver](https://classroom.github.com/a/nerFQdAx) | 11/24 | 12/1 | 40 |
 |  **Module ?: GDAL/OGR** |  |  |  |
 |  _Lecture (GDAL/OGR)_ |  |  |  |
