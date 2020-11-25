@@ -63,6 +63,8 @@ on Monday and Tuesday from 6pm to 9:20pm (AZT) from Mon Oct 19 to Monday Dec 9. 
 |  [6-3 PostGIS OSM Load](https://classroom.github.com/a/c1Xwu4sH) | 11/23 | 11/30 | 50 |
 |  _Lecture (PostGIS OSM Geoserver)_ |  |  |  |
 |  6-4 PostGIS OSM Geoserver | 11/24 | 12/1 | 40 |
+|  _Lecture (PostGIS OSM Geoserver)_ |  |  |  |
+|  6-4 PostGIS OSM Geoserver | 11/24 | 12/1 | 40 |
 |  **Module ?: GDAL/OGR** |  |  |  |
 |  _Lecture (GDAL/OGR)_ |  |  |  |
 |  5-1 GDAL/OGR | ? | ? | 60 |
