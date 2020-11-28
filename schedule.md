@@ -63,15 +63,13 @@ on Monday and Tuesday from 6pm to 9:20pm (AZT) from Mon Oct 19 to Monday Dec 9. 
 |  _Lecture (PostGIS OSM Geoserver)_ |  |  |  |
 |  [6-4 Docker Compose](https://classroom.github.com/a/83FsVnXo) | 11/24 | 12/1 | 40 |
 |  [6-5 PostGIS OSM Geoserver](https://classroom.github.com/a/nerFQdAx) | 11/24 | 12/1 | 40 |
-|  **Module ?: GDAL/OGR** |  |  |  |
+|  **Module 7: WebGIS** |  |  |  |
+|  _Lecture (Leaflet)_ |  |  |  |
+|  [7-1 WebGIS - Leaflet](https://classroom.github.com/a/lW64HrOE) | 11/30 | 12/7 | 40 |
+|  **Module 8: GDAL/OGR** |  |  |  |
 |  _Lecture (GDAL/OGR)_ |  |  |  |
-|  5-1 GDAL/OGR | ? | ? | 60 |
-|  **Module 8: WebGIS** |  |  |  |
-|  _Lecture (OpenLayers)_ |  |  |  |
-|  8-1 WebGIS - OpenLayers | 12/2 | 12/8 | 30 |
+|  8-1 GDAL/OGR | 12/1 | 12/8 | 40 |
 |  * Project Presentations | 12/2 | 12/9 | 50 |
-|  _Lecture (Mapbox)_ |  |  |  |
-|  8-2 WebGIS - Mapbox | 12/3 | 12/10 | 30 |
 |  * Project Due |  | 12/9 | 50 |
 
 
