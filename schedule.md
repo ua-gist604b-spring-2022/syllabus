@@ -22,16 +22,16 @@ on Monday and Tuesday from 6pm to 9:20pm (AZT) from Mon Mar 11 to Monday May 3. 
 | --- | --- | --- | --- |
 |  Module 0: Introduction and Open Source |  |  |  |
 |  _Lecture 1 (Introduction and Open Source)_ |  |  |  |
-|  0-1 Slack | 3/15 | 3/22 | 10 |
-|  1-1 GitHub Hello | 3/15 | 3/22 | 10 |
-|  1-2 Open Source Discovery | 3/15 | 3/22 | 20 |
+|  [0-1 Slack](https://classroom.github.com/a/Opx-gjRk) | 3/15 | 3/22 | 10 |
+|  [1-1 GitHub Hello](https://classroom.github.com/a/mkuueFXg) | 3/15 | 3/22 | 10 |
+|  [1-2 Open Source Discovery](https://classroom.github.com/a/xIYhGgRH) | 3/15 | 3/22 | 20 |
 |  **Module 1: Git and SCM** |  |  |  |
 |  _Lecture 2 (Git and SCM)_ |  |  |  |
-|  1-3 GitHub Branches/Merge | 3/16 | 3/23 | 20 |
-|  1-4 GitHub Desktop | 3/16 | 3/23 | 10 |
+|  [1-3 GitHub Branch](ua-gist-open-source/github-branch) | 3/16 | 3/23 | 20 |
+|  [1-4 GitHub Desktop](https://classroom.github.com/a/WE6RYKjt) | 3/16 | 3/23 | 10 |
 |  * [Project Proposal | 3/16| 3/23 | 50 |
 |  **Module 2: QGIS** |  |  |  |
-|  _Lecture 3 (QGIS)_](h) |  |  |  |
+|  _Lecture 3 (QGIS)_]() |  |  |  |
 |  2-1 QGIS Tutorials (Intro) | 3/22 | 3/29 | 30 |
 |  2-2 QGIS Hurricane Sergio | 3/22 | 3/29 | 40 |
 |  _Lecture 4 (QGIS)_ |  |  |  |
