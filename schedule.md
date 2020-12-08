@@ -29,7 +29,7 @@ on Monday and Tuesday from 6pm to 9:20pm (AZT) from Mon Mar 11 to Monday May 3. 
 |  _Lecture 2 (Git and SCM)_ |  |  |  |
 |  [1-3 GitHub Branch](https://classroom.github.com/a/ymd19aRA) | 3/16 | 3/23 | 20 |
 |  [1-4 GitHub Desktop](https://classroom.github.com/a/WE6RYKjt) | 3/16 | 3/23 | 10 |
-|  * [Project Proposal | 3/16| 3/23 | 50 |
+|  * [Project Proposal](https://classroom.github.com/a/-ubj04VP) | 3/16| 3/23 | 50 |
 |  **Module 2: QGIS** |  |  |  |
 |  _Lecture 3 (QGIS)_]() |  |  |  |
 |  2-1 QGIS Tutorials (Intro) | 3/22 | 3/29 | 30 |
@@ -50,21 +50,22 @@ on Monday and Tuesday from 6pm to 9:20pm (AZT) from Mon Mar 11 to Monday May 3. 
 |  * Project Check-in | 4/6 | 4/13 | 50 |
 |  4-3 Jupyter Notebooks | 4/6 | 4/13 | 50 |
 |  **Module 5: Geoserver** |  |  |  |
-|  _Lecture 9 (Geoserver)_ |  |  |  |
+|  _Lecture 9 (Docker and Geoserver)_ |  |  |  |
 |  5-1 Geoserver Docker | 4/12 | 4/19 | 40 |
 |  5-2 Geoserver I | 4/12 | 4/19 | 30 |
 |  **Module 6: PostGIS** |  |  |  |
-|  _Lecture 10 (PostGIS)_ |  |  |  |
+|  _Lecture 10 (Docker and PostGIS)_ |  |  |  |
 |  6-1 PostGIS Docker | 4/13 | 4/20 | 40 |
 |  6-2 PostGIS Tutorial | 4/13 | 4/20 | 40 |
 |  **Module 7: Docker Compose** |  |  |  |
+|  _Lecture (Docker Compose and PostGIS OSM Load)_ |  |  |  |
 |  7-1 Docker Compose | 4/19 | 4/26 | 40 |
 |  **Module 8: Sevice Orchestration** |  |  |  |
 |  8-4 PostGIS OSM Load | 4/19 | 4/26 | 50 |
 |  _Lecture (PostGIS OSM Geoserver)_ |  |  |  |
 |  8-5 PostGIS OSM Geoserver | 4/20 | 4/27 | 40 |
 |  **Module 9: WebGIS** |  |  |  |
-|  _Lecture (Leaflet)_ |  |  |  |
+|  _Lecture (Docker Compose and Leaflet)_ |  |  |  |
 |  9-1 WebGIS - Leaflet | 4/26 | 5/3 | 40 |
 |  **Module 10: GDAL/OGR** |  |  |  |
 |  _Lecture (GDAL/OGR)_ |  |  |  |
