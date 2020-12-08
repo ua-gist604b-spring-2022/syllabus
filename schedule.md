@@ -13,62 +13,64 @@ on Monday and Tuesday from 6pm to 9:20pm (AZT) from Mon Mar 11 to Monday May 3. 
 - https://arizona.zoom.us/j/84715427326 (Update?)
 
 ### Project Dates
-- Proposal Due: Mar 30
+- Proposal Due: Mar 23
 - Proposal Check-in: Apr 13
 - Proposal Presentations: May 3-4
-- Final Project Due: Apr 30
+- Final Project Due: May 5
 
 |  **Name** | **Start Date** | **Due Date** | **Points** |
 | --- | --- | --- | --- |
 |  Module 0: Introduction and Open Source |  |  |  |
 |  [_Lecture 1 (Introduction and Open Source)_]() |  |  |  |
-|  [0-1 Slack]() | 10/19 | 10/26 | 10 |
-|  [1-1 GitHub Hello]() | 10/19 | 10/26 | 10 |
-|  [1-2 Open Source Discovery]() | 10/19 | 10/26 | 20 |
+|  [0-1 Slack]() | 3/15 | 3/22 | 10 |
+|  [1-1 GitHub Hello]() | 3/15 | 3/22 | 10 |
+|  [1-2 Open Source Discovery]() | 3/15 | 3/22 | 20 |
 |  **Module 1: Git and SCM** |  |  |  |
 |  [_Lecture 2 (Git and SCM)_]() |  |  |  |
-|  [1-3 GitHub Branches/Merge]() | 10/19 | 10/27 | 20 |
-|  [1-4 GitHub Desktop]() | 10/19 | 10/27 | 10 |
-|  * [Project Proposal]() | 10/19 | 10/27 | 50 |
+|  [1-3 GitHub Branches/Merge]() | 3/16 | 3/23 | 20 |
+|  [1-4 GitHub Desktop]() | 3/16 | 3/23 | 10 |
+|  * [Project Proposal]() | 3/16| 3/23 | 50 |
 |  **Module 2: QGIS** |  |  |  |
 |  [_Lecture 3 (QGIS)_](h) |  |  |  |
-|  [2-1 QGIS Tutorials (Intro)]() | 10/20 | 11/2 | 30 |
-|  [2-2 QGIS Hurricane Sergio]() | 10/20 | 11/2 | 40 |
+|  [2-1 QGIS Tutorials (Intro)]() | 3/22 | 3/29 | 30 |
+|  [2-2 QGIS Hurricane Sergio]() | 3/22 | 3/29 | 40 |
 |  [_Lecture 4 (QGIS)_]() |  |  |  |
-|  [2-3 QGIS Tutorials (Intermediate)]() | 10/26 | 11/2 | 30 |
-|  [2-4 QGIS Tutorials (Advanced)]() | 10/27 | 11/3 | 30 |
-|  [2-5 QGIS Secret Mutant Hero Team]() | 10/27 | 11/3 | 40 |
+|  [2-3 QGIS Tutorials (Intermediate)]() | 3/23 | 3/30 | 30 |
+|  [2-4 QGIS Tutorials (Advanced)]() | 3/23 | 3/30 | 30 |
+|  [2-5 QGIS Secret Mutant Hero Team]() | 3/23 | 3/30 | 40 |
 |  **Module 3: Docker** |  |  |  |
 |  [_Lecture 5 (Docker)_]() |  |  |  |
-|  [3-1 Docker]() | 11/2 | 11/9 | 60 |
+|  [3-1 Docker]() | 3/29 | 4/5 | 60 |
 |  **Module 4: Python** |  |  |  |
 |  [_Lecture 6 (Python GIS)_]() |  |  |  |
-|  [4-1 Python GIS Part 1]() | 11/3 | 11/10 | 40 |
+|  [4-1 Python GIS Part 1]() | 3/30 | 4/6 | 40 |
 |  [_Lecture 7 (Python GIS)_]() |  |  |  |
-|  [4-2 Python GIS Part 2]() | 11/9 | 11/16 | 40 |
+|  [4-2 Python GIS Part 2]() | 4/5 | 4/12 | 40 |
 |  [_Lecture 8 (Jupyter Notebooks)_]() |  |  |  
-|  * Project Check-in | 11/10 | 11/17 | 50 |
-|  [4-3 Jupyter Notebooks]() | 11/10 | 11/17 | 50 |
+|  * Project Check-in | 4/6 | 4/13 | 50 |
+|  [4-3 Jupyter Notebooks]() | 4/6 | 4/13 | 50 |
 |  **Module 5: Geoserver** |  |  |  |
 |  [_Lecture 9 (Geoserver)_]() |  |  |  |
-|  [5-1 Geoserver Docker]() | 11/16 | 11/23 | 40 |
-|  [5-2 Geoserver I]() | 11/16 | 11/23 | 30 |
+|  [5-1 Geoserver Docker]() | 4/12 | 4/19 | 40 |
+|  [5-2 Geoserver I]() | 4/12 | 4/19 | 30 |
 |  **Module 6: PostGIS** |  |  |  |
 |  [_Lecture 10 (PostGIS)_]() |  |  |  |
-|  [6-1 PostGIS Docker]() | 11/17 | 11/24 | 40 |
-|  [6-2 PostGIS Tutorial]() | 11/17 | 11/24 | 40 |
-|  [6-3 PostGIS OSM Load]() | 11/23 | 11/30 | 50 |
+|  [6-1 PostGIS Docker]() | 4/13 | 4/20 | 40 |
+|  [6-2 PostGIS Tutorial]() | 4/13 | 4/20 | 40 |
+|  **Module 7: Docker Compose** |  |  |  |
+|  [7-1 Docker Compose]() | 4/19 | 4/26 | 40 |
+|  **Module 8: Sevice Orchestration** |  |  |  |
+|  [8-4 PostGIS OSM Load]() | 4/19 | 4/26 | 50 |
 |  _Lecture (PostGIS OSM Geoserver)_ |  |  |  |
-|  [6-4 Docker Compose]() | 11/24 | 12/1 | 40 |
-|  [6-5 PostGIS OSM Geoserver]() | 11/24 | 12/1 | 40 |
-|  **Module 7: WebGIS** |  |  |  |
+|  [8-5 PostGIS OSM Geoserver]() | 4/20 | 4/27 | 40 |
+|  **Module 9: WebGIS** |  |  |  |
 |  _Lecture (Leaflet)_ |  |  |  |
-|  [7-1 WebGIS - Leaflet]() | 11/30 | 12/7 | 40 |
-|  **Module 8: GDAL/OGR** |  |  |  |
+|  [9-1 WebGIS - Leaflet]() | 4/21 | 4/28 | 40 |
+|  **Module 10: GDAL/OGR** |  |  |  |
 |  _Lecture (GDAL/OGR)_ |  |  |  |
 |  8-1 GDAL/OGR | 12/1 | 12/8 | 40 |
-|  * Project Presentations | 12/2 | 12/9 | 50 |
-|  * Project Due |  | 12/9 | 50 |
+|  * Project Presentations | 5/3 | 5/4 | 50 |
+|  * Project Due |  | 5/5 | 50 |
 
 
 ## Project Schedule
@@ -87,24 +89,27 @@ See https://www.registrar.arizona.edu/dates-and-deadlines
 
 |  DATE | STANDARD CLASS DATES: FALL 2020 - GRADUATE - SEVEN WEEK - SECOND |
 | --- | --- |
-|  10/14/2020 | Last day for students to add to or drop from a waitlist |
-|  10/15/2020 | FIRST DAY OF 7 WEEK - SECOND CLASSES |
+|  3/10/2021 | Last day for students to add to or drop from a waitlist |
+|  3/11/2021 | FIRST DAY OF 7 WEEK - SECOND CLASSES |
 |  | UAccess still available for registration |
 |  | First day to add classes for audit; instructor signature is required |
-|  10/18/2020 | Last day to use UAccess for adding classes, changing classes, or changing sections |
-|  10/19/2020 | Instructor approval required on a Change of Schedule form to ADD or CHANGE classes |
-|  10/22/2020 | Last day for a refund |
-|  10/29/2020 | Last day to drop without a grade of W (withdraw) Classes dropped on or before this date will remain on your UAccess academic record with a status of dropped, but will not appear on your transcript |
-|  10/30/2020 | Instructor's and dean's signatures are required on a Change of Schedule form to change from pass/fail to regular grades or vice versa |
-|  10/30/2020 | W period begins A penalty grade of W will be awarded for each withdrawal and the class(es) will appear on your transcript |
-|  11/12/2020 | Last day to make registration changes without the dean's signature |
-|  11/13/2020 | Instructor's and dean's signatures are required on all Change of Schedule forms to ADD or CHANGE classes |
-|  11/19/2020 |  |
+|  3/14/2021 | Last day to use UAccess for adding classes, changing classes, or changing sections |
+|  3/15/2021 | Instructor approval required on a Change of Schedule form to ADD or CHANGE classes |
+|  3/18/2021 | Last day for a refund |
+|  3/25/2021 | Last day for department staff to add or drop in UAccess |
+|  3/25/2021 | Last day to drop without a grade of W (withdraw) Classes dropped on or before this date will remain on your UAccess academic record with a status of dropped, but will not appear on your transcript |
+|  3/25/2021 | Last day to change from pass/fail to regular grading or vice versa with only instructor approval on a Change of Schedule form |
+|  3/26/2021 | Instructor's and dean's signatures are required on a Change of Schedule form to change from pass/fail to regular grades or vice versa |
+|  3/26/2021 | W period begins A penalty grade of W will be awarded for each withdrawal and the class(es) will appear on your transcript |
+|  4/2/2021| Reading day, no classes |
+|  4/8/2021| Last day to make registration changes without the dean's signature |
+|  4/9/2021 | Instructor's and dean's signatures are required on all Change of Schedule forms to ADD or CHANGE classes |
+|  4/15/2021 |  |
 |  | Last day for students to withdraw from a class online through UAccess |
 |  | Last day for students to change to/from audit with only instructor approval |
 |  | Last day for instructors to administratively drop students |
-|  11/20/2020 |  |
+|  4/16/2021 |  |
 |  | Instructor's and Graduate College dean's permission required on a Change of Schedule form to withdraw from a class--penalty grade of W will be awarded and the class will appear on your transcript |
 |  | Instructor's and dean's permission required on a Change of Schedule form to change to/from audit |
-|  11/26/2020 | Thanksgiving recess begins today with no classes until Monday |
-|  12/9/2020 | Last day of class--no registration changes can be made after the last day of class |
+|  4/21/2021| Reading day, no classes |
+|  5/5/2021 | Last day of class--no registration changes can be made after the last day of class |
