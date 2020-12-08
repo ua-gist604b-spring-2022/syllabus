@@ -27,7 +27,7 @@ on Monday and Tuesday from 6pm to 9:20pm (AZT) from Mon Mar 11 to Monday May 3. 
 |  [1-2 Open Source Discovery](https://classroom.github.com/a/xIYhGgRH) | 3/15 | 3/22 | 20 |
 |  **Module 1: Git and SCM** |  |  |  |
 |  _Lecture 2 (Git and SCM)_ |  |  |  |
-|  [1-3 GitHub Branch](ua-gist-open-source/github-branch) | 3/16 | 3/23 | 20 |
+|  [1-3 GitHub Branch](https://classroom.github.com/a/ymd19aRA) | 3/16 | 3/23 | 20 |
 |  [1-4 GitHub Desktop](https://classroom.github.com/a/WE6RYKjt) | 3/16 | 3/23 | 10 |
 |  * [Project Proposal | 3/16| 3/23 | 50 |
 |  **Module 2: QGIS** |  |  |  |
