@@ -65,10 +65,10 @@ on Monday and Tuesday from 6pm to 9:20pm (AZT) from Mon Mar 11 to Monday May 3. 
 |  [8-5 PostGIS OSM Geoserver]() | 4/20 | 4/27 | 40 |
 |  **Module 9: WebGIS** |  |  |  |
 |  _Lecture (Leaflet)_ |  |  |  |
-|  [9-1 WebGIS - Leaflet]() | 4/21 | 4/28 | 40 |
+|  [9-1 WebGIS - Leaflet]() | 4/26 | 5/3 | 40 |
 |  **Module 10: GDAL/OGR** |  |  |  |
 |  _Lecture (GDAL/OGR)_ |  |  |  |
-|  8-1 GDAL/OGR | 12/1 | 12/8 | 40 |
+|  10-1 GDAL/OGR | 4/27 | 5/4 | 40 |
 |  * Project Presentations | 5/3 | 5/4 | 50 |
 |  * Project Due |  | 5/5 | 50 |
 
@@ -79,10 +79,10 @@ is used in this class. Details are described in [project.md](project.md).
 
 | Name | Due Date | Points |
 | :--- | --- | ---: |
-| Project Proposal | 10/27 |  50  |
-| Project Check-in | 11/12 | 50  |
-| Final Report | 12/9 | 50  |
-| Lightning Talks | 12/2 to 12/9 | 50  |
+| Project Proposal | 3/23 |  50  |
+| Project Check-in | 4/13 | 50  |
+| Lightning Talks | 5/3 to 5/4 | 50  |
+| Final Report | 5/5 | 50  |
 
 ## Official Dates
 See https://www.registrar.arizona.edu/dates-and-deadlines
