@@ -18,6 +18,15 @@ Visit https://covid19.arizona.edu/updates for more updates.
 ### A note on D2L and GitHub
 To be compatible with existing U of A infrastructure and protocols I will handle grades and some limited communication through *D2L* but the majority of the online interaction in this class will involve two different web services: *Slack* and *GitHub*. As a complement to in-class discussion, Slack will be used for chat as well as synchronous and asynchronous collaboration while GitHub will be used to handle assignments and interactions around assignments with the instructor.
 
+### Class requirements
+The following are required in order to complete this class:
+- Computer with following specs:
+  - >= 16 GB RAM
+  - >= 100 GB Disk space
+  - Ability to run docker (Windows Users see https://docs.docker.com/docker-for-windows/install/)
+- Willingness to work with command line (Unix shell or Powershell)
+- Ability to think critically and figure things out when instructions are not clear
+
 ### Getting Started
 You may wonder how to get started. If you login to D2L you will find things a bit bare (The Syllabus is linked there but its home is https://github.com/ua-gist604b-spring-2021/syllabus). You have two initial setup steps to get configured to use the class:
 
