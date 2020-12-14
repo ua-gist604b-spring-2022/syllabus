@@ -24,11 +24,12 @@ on Monday and Tuesday from 6pm to 9:20pm (AZT) from Mon Mar 11 to Monday May 3. 
 |  _Lecture 1 (Introduction and Open Source)_ |  |  |  |
 |  [0-1 Slack](https://classroom.github.com/a/Opx-gjRk) | 3/15 | 3/22 | 10 |
 |  [1-1 GitHub Hello](https://classroom.github.com/a/mkuueFXg) | 3/15 | 3/22 | 10 |
-|  [1-2 Open Source Discovery](https://classroom.github.com/a/xIYhGgRH) | 3/15 | 3/22 | 20 |
+|  [1-2 Class Survey](https://classroom.github.com/a/YDntsZrK) | 3/15 | 3/22 | 100 |
+|  [1-3 Open Source Discovery](https://classroom.github.com/a/xIYhGgRH) | 3/15 | 3/22 | 20 |
 |  **Module 1: Git and SCM** |  |  |  |
 |  _Lecture 2 (Git and SCM)_ |  |  |  |
-|  [1-3 GitHub Branch](https://classroom.github.com/a/ymd19aRA) | 3/16 | 3/23 | 20 |
-|  [1-4 GitHub Desktop](https://classroom.github.com/a/WE6RYKjt) | 3/16 | 3/23 | 10 |
+|  [1-4 GitHub Branch](https://classroom.github.com/a/ymd19aRA) | 3/16 | 3/23 | 20 |
+|  [1-5 GitHub Desktop](https://classroom.github.com/a/WE6RYKjt) | 3/16 | 3/23 | 10 |
 |  * [Project Proposal](https://classroom.github.com/a/-ubj04VP) | 3/16| 3/23 | 50 |
 |  **Module 2: QGIS** |  |  |  |
 |  _Lecture 3 (QGIS)_ |  |  |  |
