@@ -31,7 +31,7 @@ on Monday and Tuesday from 6pm to 9:20pm (AZT) from Mon Mar 11 to Monday May 3. 
 |  [1-4 GitHub Desktop](https://classroom.github.com/a/WE6RYKjt) | 3/16 | 3/23 | 10 |
 |  * [Project Proposal](https://classroom.github.com/a/-ubj04VP) | 3/16| 3/23 | 50 |
 |  **Module 2: QGIS** |  |  |  |
-|  _Lecture 3 (QGIS)_]() |  |  |  |
+|  _Lecture 3 (QGIS)_ |  |  |  |
 |  2-1 QGIS Tutorials (Intro) | 3/22 | 3/29 | 30 |
 |  2-2 QGIS Hurricane Sergio | 3/22 | 3/29 | 40 |
 |  _Lecture 4 (QGIS)_ |  |  |  |
