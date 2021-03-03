@@ -27,6 +27,11 @@ The following are required in order to complete this class:
 - Willingness to work with command line (Unix shell or Powershell)
 - Ability to think critically and figure things out when instructions are not clear
 
+### Software that will be installed over the course of the semester
+- GitHub Desktop
+- QGIS Desktop
+- Docker Desktop
+
 ### Getting Started
 You may wonder how to get started. If you login to D2L you will find things a bit bare (The Syllabus is linked there but its home is https://github.com/ua-gist604b-spring-2021/syllabus). You have two initial setup steps to get configured to use the class:
 
