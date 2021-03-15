@@ -21,13 +21,13 @@ on Monday and Tuesday from 6pm to 9:20pm (AZT) from Mon Mar 11 to Monday May 3. 
 |  **Name** | **Start Date** | **Due Date** | **Points** |
 | --- | --- | --- | --- |
 |  Module 0: Introduction and Open Source |  |  |  |
-|  _Lecture 1 (Introduction and Open Source)_ |  |  |  |
+|  _[Lecture 1 (Introduction and Open Source)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=919a1d53-49a6-4882-b3ff-ace20037dba9)_ |  |  |  |
 |  [0-1 Slack](https://classroom.github.com/a/Opx-gjRk) | 3/15 | 3/22 | 10 |
 |  [1-1 GitHub Hello](https://classroom.github.com/a/mkuueFXg) | 3/15 | 3/22 | 10 |
 |  [1-2 Class Survey](https://classroom.github.com/a/YDntsZrK) | 3/15 | 3/22 | 100 |
 |  [1-3 Open Source Discovery](https://classroom.github.com/a/xIYhGgRH) | 3/15 | 3/22 | 20 |
 |  **Module 1: Git and SCM** |  |  |  |
-|  _Lecture 2 (Git and SCM)_ |  |  |  |
+|  _[Lecture 2 (Git and SCM)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f1a13e1f-58c2-41c8-9551-ace200587df8)_ |  |  |  |
 |  [1-4 GitHub Branch](https://classroom.github.com/a/ymd19aRA) | 3/16 | 3/23 | 20 |
 |  [1-5 GitHub Desktop](https://classroom.github.com/a/WE6RYKjt) | 3/16 | 3/23 | 10 |
 |  * [Project Proposal](https://classroom.github.com/a/-ubj04VP) | 3/16| 3/23 | 50 |
