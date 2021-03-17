@@ -7,11 +7,6 @@ This class is logically divided into units to be completed over a seven-week tim
 - Class begins: March 11, 2021
 - Last day of classes:  May 5, 2021
 
-### Weekly Schedule TBD
-Due to COVID-19-related closures, the in-person activities will be held remotely. The weekly in-person lab will be conducted via "zoom" 
-on Monday and Tuesday from 6pm to 9:20pm (AZT) from Mon Mar 11 to Monday May 3. The permanent link for the recurring zoom meeting is:
-- https://arizona.zoom.us/j/84715427326 (Update?)
-
 ### Project Dates
 - Proposal Due: Mar 23
 - Proposal Check-in: Apr 13
