@@ -27,8 +27,9 @@ This class is logically divided into units to be completed over a seven-week tim
 |  [1-5 GitHub Desktop](https://classroom.github.com/a/WE6RYKjt) | 3/16 | 3/23 | 10 |
 |  * [Project Proposal](https://classroom.github.com/a/-ubj04VP) | 3/16| 3/23 | 50 |
 |  **Module 2: QGIS** |  |  |  |
-|  _[Lecture 3 (QGIS)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4cb63b52-f69c-4503-9c9a-acf001718270)_ |  |  |  |
+|  _[Lecture 3A (QGIS)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4cb63b52-f69c-4503-9c9a-acf001718270)_ |  |  |  |
 |  [2-1 QGIS Tutorials (Intro)](https://classroom.github.com/a/PnNH7GNI) | 3/22 | 3/29 | 30 |
+|  _[Lecture 3b (QGIS)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5f45239c-2b66-4ec6-baea-acf1003fc8ec)_ |  |  |  |
 |  [2-2 QGIS Hurricane Sergio](https://classroom.github.com/a/WgQJdCiQ) | 3/22 | 3/29 | 40 |
 |  _Lecture 4 (QGIS)_ |  |  |  |
 |  [2-3 QGIS Tutorials (Intermediate)](https://classroom.github.com/a/9mQoOsqR) | 3/23 | 3/30 | 30 |
