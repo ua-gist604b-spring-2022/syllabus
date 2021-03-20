@@ -27,31 +27,31 @@ This class is logically divided into units to be completed over a seven-week tim
 |  [1-5 GitHub Desktop](https://classroom.github.com/a/WE6RYKjt) | 3/16 | 3/23 | 10 |
 |  * [Project Proposal](https://classroom.github.com/a/-ubj04VP) | 3/16| 3/23 | 50 |
 |  **Module 2: QGIS** |  |  |  |
-|  _[Lecture 3A (QGIS)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4cb63b52-f69c-4503-9c9a-acf001718270)_ |  |  |  |
+|  _[Lecture 3 (QGIS)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4cb63b52-f69c-4503-9c9a-acf001718270)_ |  |  |  |
 |  [2-1 QGIS Tutorials (Intro)](https://classroom.github.com/a/PnNH7GNI) | 3/22 | 3/29 | 30 |
-|  _[Lecture 3b (QGIS)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5f45239c-2b66-4ec6-baea-acf1003fc8ec)_ |  |  |  |
+|  _[Lecture 4 (QGIS)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5f45239c-2b66-4ec6-baea-acf1003fc8ec)_ |  |  |  |
 |  [2-2 QGIS Hurricane Sergio](https://classroom.github.com/a/WgQJdCiQ) | 3/22 | 3/29 | 40 |
-|  _Lecture 4 (QGIS)_ |  |  |  |
+|  _Lecture (QGIS)_ |  |  |  |
 |  [2-3 QGIS Tutorials (Intermediate)](https://classroom.github.com/a/9mQoOsqR) | 3/23 | 3/30 | 30 |
 |  [2-4 QGIS Tutorials (Advanced)](https://classroom.github.com/a/n9YjJ8ek) | 3/23 | 3/30 | 30 |
 |  [2-5 QGIS Secret Mutant Hero Team](https://classroom.github.com/a/EsVz7edL) | 3/23 | 3/30 | 40 |
 |  **Module 3: Docker** |  |  |  |
-|  _Lecture 5 (Docker)_ |  |  |  |
+|  _Lecture (Docker)_ |  |  |  |
 |  [3-1 Docker](https://classroom.github.com/a/58-Il0SS) | 3/29 | 4/5 | 60 |
 |  **Module 4: Python** |  |  |  |
-|  _Lecture 6 (Python GIS)_ |  |  |  |
+|  _Lecture (Python GIS)_ |  |  |  |
 |  4-1 Python GIS Part 1 | 3/30 | 4/6 | 40 |
-|  _Lecture 7 (Python GIS)_ |  |  |  |
+|  _Lecture (Python GIS)_ |  |  |  |
 |  4-2 Python GIS Part 2 | 4/5 | 4/12 | 40 |
-|  _Lecture 8 (Jupyter Notebooks)_ |  |  |  
+|  _Lecture (Jupyter Notebooks)_ |  |  |  
 |  * Project Check-in | 4/6 | 4/13 | 50 |
 |  4-3 Jupyter Notebooks | 4/6 | 4/13 | 50 |
 |  **Module 5: Geoserver** |  |  |  |
-|  _Lecture 9 (Docker and Geoserver)_ |  |  |  |
+|  _Lecture (Docker and Geoserver)_ |  |  |  |
 |  5-1 Geoserver Docker | 4/12 | 4/19 | 40 |
 |  5-2 Geoserver I | 4/12 | 4/19 | 30 |
 |  **Module 6: PostGIS** |  |  |  |
-|  _Lecture 10 (Docker and PostGIS)_ |  |  |  |
+|  _Lecture (Docker and PostGIS)_ |  |  |  |
 |  6-1 PostGIS Docker | 4/13 | 4/20 | 40 |
 |  6-2 PostGIS Tutorial | 4/13 | 4/20 | 40 |
 |  **Module 7: Docker Compose** |  |  |  |
