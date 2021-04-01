@@ -23,16 +23,13 @@ You will be able to write basic PostGIS queries with the assistance of postgis.n
 You will be able to create a webpage containing interactive GIS maps that allow you to add/edit/remove data, switch data sources, and a variety of complex web mapping tasks.
 
 ## Participation
-Interactive participation through Slack, Piazza, and Zoom are encouraged but not graded. You will get more out of the class and your career by engaging your colleagues. 
+Interactive participation through Slack and Zoom are encouraged but not graded. You will get more out of the class and your career by engaging your colleagues. 
 
 As it is a course about Open Source, we will emphasize the open source tools or practices where possible, although ultimately we are bound by the U of A and you will be receiving official grades through d2l. 
 
 ## Slack
 [Slack](https://slack.com/) is an online collaboration hub through which we will maintain ongoing chats and interactions
 about the class. The `MS-GIST` Slack workspace has a channel, `#604b-osgeo` to facilitate online communication.
-
-## Piazza
-[Piazza](https://piazza.com/arizona/fall2020/gist604b) is used to organize Q&A on lectures, class logistics, and homework. Users can post by name or anonymously to get help. 
 
 ## GitHub
 [GitHub](https://github.com) is a cloud-based code repository and collaborative development suite. You will need to create
