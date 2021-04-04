@@ -40,7 +40,7 @@ This class is logically divided into units to be completed over a seven-week tim
 |  [3-1 Docker](https://classroom.github.com/a/58-Il0SS) | 3/29 | 4/5 | 60 |
 |  **Module 4: Python** |  |  |  |
 |  _Lecture (Python GIS)_ |  |  |  |
-|  4-1 Python GIS Part 1 | 3/30 | 4/6 | 40 |
+|  [4-1 Python GIS Part 1](https://classroom.github.com/a/K1ymquXP) | 3/30 | 4/6 | 40 |
 |  _Lecture (Python GIS)_ |  |  |  |
 |  4-2 Python GIS Part 2 | 4/5 | 4/12 | 40 |
 |  _Lecture (Jupyter Notebooks)_ |  |  |  
