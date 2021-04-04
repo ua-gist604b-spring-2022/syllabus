@@ -37,10 +37,10 @@ This class is logically divided into units to be completed over a seven-week tim
 |  [2-5 QGIS Secret Mutant Hero Team](https://classroom.github.com/a/EsVz7edL) | 3/23 | 3/30 | 40 |
 |  **Module 3: Docker** |  |  |  |
 |  _[Lecture (Docker)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=68d6f0b5-800f-41b8-910e-acfd00866fa7)_ |  |  |  |
-|  [3-1 Docker](https://classroom.github.com/a/58-Il0SS) | 3/29 | 4/5 | 60 |
+|  [3-1 Docker](https://classroom.github.com/a/58-Il0SS) | 4/3 | 4/10 | 60 |
 |  **Module 4: Python** |  |  |  |
 |  _Lecture (Python GIS)_ |  |  |  |
-|  [4-1 Python GIS Part 1](https://classroom.github.com/a/K1ymquXP) | 3/30 | 4/6 | 40 |
+|  [4-1 Python GIS Part 1](https://classroom.github.com/a/K1ymquXP) | 4/3 | 4/10 | 40 |
 |  _Lecture (Python GIS)_ |  |  |  |
 |  4-2 Python GIS Part 2 | 4/5 | 4/12 | 40 |
 |  _Lecture (Jupyter Notebooks)_ |  |  |  
