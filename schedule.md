@@ -31,15 +31,15 @@ This class is logically divided into units to be completed over a seven-week tim
 |  [2-1 QGIS Tutorials (Intro)](https://classroom.github.com/a/PnNH7GNI) | 3/22 | 3/29 | 30 |
 |  _[Lecture 4 (QGIS)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5f45239c-2b66-4ec6-baea-acf1003fc8ec)_ |  |  |  |
 |  [2-2 QGIS Hurricane Sergio](https://classroom.github.com/a/WgQJdCiQ) | 3/22 | 3/29 | 40 |
-|  _Lecture (QGIS)_ |  |  |  |
 |  [2-3 QGIS Tutorials (Intermediate)](https://classroom.github.com/a/9mQoOsqR) | 3/23 | 3/30 | 30 |
 |  [2-4 QGIS Tutorials (Advanced)](https://classroom.github.com/a/n9YjJ8ek) | 3/23 | 3/30 | 30 |
 |  [2-5 QGIS Secret Mutant Hero Team](https://classroom.github.com/a/EsVz7edL) | 3/23 | 3/30 | 40 |
 |  **Module 3: Docker** |  |  |  |
-|  _[Lecture (Docker)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=68d6f0b5-800f-41b8-910e-acfd00866fa7)_ |  |  |  |
+|  _[Lecture 5 (Docker)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=68d6f0b5-800f-41b8-910e-acfd00866fa7)_ |  |  |  |
 |  [3-1 Docker](https://classroom.github.com/a/58-Il0SS) | 4/3 | 4/10 | 60 |
 |  **Module 4: Python** |  |  |  |
-|  _[Lecture (Python GIS)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1c1fa177-a7dd-4504-9c17-ad0000519b0c)_ |  |  |  |
+|  _[Lecture 6 (Python)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1c1fa177-a7dd-4504-9c17-ad0000519b0c)_ |  |  |  |
+|  _[Lecture 7 (Python GIS - GeoPandas)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d4cd2ed0-befd-493c-8bd7-ad000062a945)_ |  |  |  |
 |  [4-1 Python GIS Part 1](https://classroom.github.com/a/K1ymquXP) | 4/3 | 4/10 | 40 |
 |  _Lecture (Python GIS)_ |  |  |  |
 |  4-2 Python GIS Part 2 | 4/5 | 4/12 | 40 |
