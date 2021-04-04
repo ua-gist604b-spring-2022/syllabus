@@ -36,7 +36,7 @@ This class is logically divided into units to be completed over a seven-week tim
 |  [2-4 QGIS Tutorials (Advanced)](https://classroom.github.com/a/n9YjJ8ek) | 3/23 | 3/30 | 30 |
 |  [2-5 QGIS Secret Mutant Hero Team](https://classroom.github.com/a/EsVz7edL) | 3/23 | 3/30 | 40 |
 |  **Module 3: Docker** |  |  |  |
-|  _Lecture (Docker)_ |  |  |  |
+|  _(Lecture (Docker))[https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=68d6f0b5-800f-41b8-910e-acfd00866fa7]_ |  |  |  |
 |  [3-1 Docker](https://classroom.github.com/a/58-Il0SS) | 3/29 | 4/5 | 60 |
 |  **Module 4: Python** |  |  |  |
 |  _Lecture (Python GIS)_ |  |  |  |
