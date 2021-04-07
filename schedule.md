@@ -41,7 +41,7 @@ This class is logically divided into units to be completed over a seven-week tim
 |  _[Lecture 6 (Python)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1c1fa177-a7dd-4504-9c17-ad0000519b0c)_ |  |  |  |
 |  _[Lecture 7 (Python GIS - GeoPandas)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d4cd2ed0-befd-493c-8bd7-ad000062a945)_ |  |  |  |
 |  [4-1 Python GIS Part 1](https://classroom.github.com/a/K1ymquXP) | 4/3 | 4/10 | 40 |
-|  _Lecture (Python GIS)_ |  |  |  |
+|  _[Lecture 8 (Python GIS - Rasterio)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=480a6464-1439-4db1-b4d8-ad0300625448)_ |  |  |  |
 |  [4-2 Python GIS Part 2](https://classroom.github.com/a/0pWzXY8a) | 4/5 | 4/12 | 40 |
 |  _Lecture (Jupyter Notebooks)_ |  |  |  
 |  * Project Check-in | 4/6 | 4/13 | 50 |
