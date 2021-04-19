@@ -43,29 +43,24 @@ This class is logically divided into units to be completed over a seven-week tim
 |  [4-1 Python GIS Part 1](https://classroom.github.com/a/K1ymquXP) | 4/3 | 4/10 | 40 |
 |  _[Lecture 8 (Python GIS - Rasterio)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=480a6464-1439-4db1-b4d8-ad0300625448)_ |  |  |  |
 |  [4-2 Python GIS Part 2](https://classroom.github.com/a/0pWzXY8a) | 4/5 | 4/12 | 40 |
-|  _Lecture (Jupyter Notebooks)_ |  |  |  
 |  * Project Check-in | 4/6 | 4/13 | 50 |
 |  **Module 5: Docker Compose** |  |  |  |
 |  _Lecture (Docker Compose and PostGIS OSM Load)_ |  |  |  |
 |  [5-1 Docker Compose](https://classroom.github.com/a/9QMwu7qn) | 4/19 | 4/26 | 40 |
 |  **Module 6: Geoserver** |  |  |  |
 |  _Lecture (Docker and Geoserver)_ |  |  |  |
-|  6-1 Geoserver Docker | 4/12 | 4/19 | 40 |
-|  6-2 Geoserver I | 4/12 | 4/19 | 30 |
+|  6-1 Geoserver Docker | 4/19 | 4/26 | 40 |
+|  6-2 Geoserver I | 4/19 | 4/26 | 30 |
 |  **Module 7: PostGIS** |  |  |  |
 |  _Lecture (Docker and PostGIS)_ |  |  |  |
-|  7-1 PostGIS Docker | 4/13 | 4/20 | 40 |
-|  7-2 PostGIS Tutorial | 4/13 | 4/20 | 40 |
+|  7-1 PostGIS Docker | 4/22 | 4/27 | 40 |
+|  7-2 PostGIS Tutorial | 4/22 | 4/27 | 40 |
 |  **Module 8: Sevice Orchestration** |  |  |  |
-|  8-4 PostGIS OSM Load | 4/19 | 4/26 | 50 |
 |  _Lecture (PostGIS OSM Geoserver)_ |  |  |  |
-|  8-5 PostGIS OSM Geoserver | 4/20 | 4/27 | 40 |
+|  8-1 PostGIS OSM Geoserver | 4/24 | 5/1 | 40 |
 |  **Module 9: WebGIS** |  |  |  |
 |  _Lecture (Docker Compose and Leaflet)_ |  |  |  |
 |  9-1 WebGIS - Leaflet | 4/26 | 5/3 | 40 |
-|  **Module 10: GDAL/OGR** |  |  |  |
-|  _Lecture (GDAL/OGR)_ |  |  |  |
-|  10-1 GDAL/OGR | 4/27 | 5/4 | 40 |
 |  * Project Presentations | 5/3 | 5/4 | 50 |
 |  * Project Due |  | 5/5 | 50 |
 
