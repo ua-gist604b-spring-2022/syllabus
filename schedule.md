@@ -48,18 +48,17 @@ This class is logically divided into units to be completed over a seven-week tim
 |  _Lecture (Docker Compose and PostGIS OSM Load)_ |  |  |  |
 |  [5-1 Docker Compose](https://classroom.github.com/a/9QMwu7qn) | 4/19 | 4/26 | 40 |
 |  **Module 6: Geoserver** |  |  |  |
-|  _Lecture (Docker and Geoserver)_ |  |  |  |
-|  6-1 Geoserver Docker | 4/19 | 4/26 | 40 |
-|  6-2 Geoserver I | 4/19 | 4/26 | 30 |
+|  _Lecture (Geoserver)_ |  |  |  |
+|  [6-1 Geoserver Docker](https://classroom.github.com/a/5p-yHPDW) | 4/19 | 4/26 | 40 |
 |  **Module 7: PostGIS** |  |  |  |
-|  _Lecture (Docker and PostGIS)_ |  |  |  |
+|  _Lecture (PostGIS)_ |  |  |  |
 |  7-1 PostGIS Docker | 4/22 | 4/27 | 40 |
 |  7-2 PostGIS Tutorial | 4/22 | 4/27 | 40 |
 |  **Module 8: Sevice Orchestration** |  |  |  |
-|  _Lecture (PostGIS OSM Geoserver)_ |  |  |  |
-|  8-1 PostGIS OSM Geoserver | 4/24 | 5/1 | 40 |
+|  _Lecture (PostGIS and Geoserver)_ |  |  |  |
+|  8-1 PostGIS and Geoserver | 4/24 | 5/1 | 40 |
 |  **Module 9: WebGIS** |  |  |  |
-|  _Lecture (Docker Compose and Leaflet)_ |  |  |  |
+|  _Lecture (PostGIS, Geoserver, and Leaflet)_ |  |  |  |
 |  9-1 WebGIS - Leaflet | 4/26 | 5/3 | 40 |
 |  * Project Presentations | 5/3 | 5/4 | 50 |
 |  * Project Due |  | 5/5 | 50 |
