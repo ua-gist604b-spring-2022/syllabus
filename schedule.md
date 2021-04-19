@@ -45,18 +45,17 @@ This class is logically divided into units to be completed over a seven-week tim
 |  [4-2 Python GIS Part 2](https://classroom.github.com/a/0pWzXY8a) | 4/5 | 4/12 | 40 |
 |  _Lecture (Jupyter Notebooks)_ |  |  |  
 |  * Project Check-in | 4/6 | 4/13 | 50 |
-|  4-3 Jupyter Notebooks | 4/6 | 4/13 | 50 |
-|  **Module 5: Geoserver** |  |  |  |
-|  _Lecture (Docker and Geoserver)_ |  |  |  |
-|  5-1 Geoserver Docker | 4/12 | 4/19 | 40 |
-|  5-2 Geoserver I | 4/12 | 4/19 | 30 |
-|  **Module 6: PostGIS** |  |  |  |
-|  _Lecture (Docker and PostGIS)_ |  |  |  |
-|  6-1 PostGIS Docker | 4/13 | 4/20 | 40 |
-|  6-2 PostGIS Tutorial | 4/13 | 4/20 | 40 |
-|  **Module 7: Docker Compose** |  |  |  |
+|  **Module 5: Docker Compose** |  |  |  |
 |  _Lecture (Docker Compose and PostGIS OSM Load)_ |  |  |  |
-|  7-1 Docker Compose | 4/19 | 4/26 | 40 |
+|  [5-1 Docker Compose](https://classroom.github.com/a/9QMwu7qn) | 4/19 | 4/26 | 40 |
+|  **Module 6: Geoserver** |  |  |  |
+|  _Lecture (Docker and Geoserver)_ |  |  |  |
+|  6-1 Geoserver Docker | 4/12 | 4/19 | 40 |
+|  6-2 Geoserver I | 4/12 | 4/19 | 30 |
+|  **Module 7: PostGIS** |  |  |  |
+|  _Lecture (Docker and PostGIS)_ |  |  |  |
+|  7-1 PostGIS Docker | 4/13 | 4/20 | 40 |
+|  7-2 PostGIS Tutorial | 4/13 | 4/20 | 40 |
 |  **Module 8: Sevice Orchestration** |  |  |  |
 |  8-4 PostGIS OSM Load | 4/19 | 4/26 | 50 |
 |  _Lecture (PostGIS OSM Geoserver)_ |  |  |  |
