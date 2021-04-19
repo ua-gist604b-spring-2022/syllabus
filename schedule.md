@@ -45,7 +45,7 @@ This class is logically divided into units to be completed over a seven-week tim
 |  [4-2 Python GIS Part 2](https://classroom.github.com/a/0pWzXY8a) | 4/5 | 4/12 | 40 |
 |  * Project Check-in | 4/6 | 4/13 | 50 |
 |  **Module 5: Docker Compose** |  |  |  |
-|  _Lecture (Docker Compose and PostGIS OSM Load)_ |  |  |  |
+|  _[Lecture 9 (Docker Compose and PostGIS OSM Load)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=343a2696-29e4-4003-8906-ad0f00f3ca9c)_ |  |  |  |
 |  [5-1 Docker Compose](https://classroom.github.com/a/9QMwu7qn) | 4/19 | 4/26 | 40 |
 |  **Module 6: Geoserver** |  |  |  |
 |  _Lecture (Geoserver)_ |  |  |  |
