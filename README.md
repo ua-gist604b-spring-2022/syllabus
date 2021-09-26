@@ -1,13 +1,13 @@
 # GIST604B Open Source GIS
-### Course starts: March 11, 2021
-### Course ends: May 5, 2021
+### Course starts: October 14, 2021
+### Course ends: December 8, 2021
 
 ## WELCOME!
 
 Greetings from GIST 604B, Open Source GIS! I'm Aaryn Olsson, the instructor for this course. 
 
 ### About Me
-I am a software engineer at Planet Labs where I help build analytic products with 3-5 meter imagery taken of the entire earth every single day (See this great visualization!). Besides teaching this course, I moonlight with the Arizona-Sonoran Desert Museum in the regional fight against buffelgrass. Formerly, I spent 3.5 years with Boundless Spatial, a company that specialized in development and consulting around open source geospatial software (seems relevant). Going back in time: I've worked at the National Geospatial Intelligence Agency, Northern Arizona University, and spent many years at the University of Arizona where I received my PhD. in Arid Lands Resource Sciences. I have four kids, love to run trails, and travel with my family.
+I am a software engineer at Planet Labs where I support the computational workflow components that deliver daily global imagery to all of Planet's customers.. Besides teaching this course, I moonlight with the Arizona-Sonoran Desert Museum in the regional fight against buffelgrass. Formerly, I spent 3.5 years with Boundless Spatial, a company that specialized in development and consulting around open source geospatial software (seems relevant). Going back in time: I've worked at the National Geospatial Intelligence Agency, Northern Arizona University, and spent many years at the University of Arizona where I received my PhD. in Arid Lands Resource Sciences. I have four kids, love to run trails, watch competitive swimming, and travel with my family. I recently renovated a 1972 Airstream and have been traveling throughout the states with my family. 
 
 This course is a brief introduction to a number of open source GIS software applications and tools as well as an introduction to the philosophy of open source. Students entering this class already have a strong foundation in the principles of GIS but their experiences may be limited to a small number of commercial GIS software providers. The aim of this class is to expose students to alternative technologies and methodologies for practicing GIS and give them the experience to objectively evaluate open source alternatives for both geospatial and non-geospatial applications as they pursue their careers.
 
@@ -37,14 +37,14 @@ The following are required in order to complete this class:
 - Docker Hub
 
 ### Getting Started
-You may wonder how to get started. If you login to D2L you will find things a bit bare (The Syllabus is linked there but its home is https://github.com/ua-gist604b-spring-2021/syllabus). You have two initial setup steps to get configured to use the class:
+You may wonder how to get started. If you login to D2L you will find things a bit bare (The Syllabus is linked there but its home is https://github.com/ua-gist604b-fall-2021/syllabus). You have two initial setup steps to get configured to use the class:
 
 1) Sign up for Slack with [this link](https://join.slack.com/t/uagist/shared_invite/enQtNTI1MjMzNzAxOTA3LTM2ZmRmOTY0ZTk1YTRkOWEyYWNlN2Q2OTkxZDkzMzViODYyYTdiNWRmZTFiYzA5MTk0MWNiOWI5ZWE5ZTYwOTk)
 
 2) Create a GitHub.com account if you do not already have one with [this link](https://github.com/join). 
 
 3) Review this GitHub repository:
-  - https://github.com/ua-gist604b-spring-2021/syllabus
+  - https://github.com/ua-gist604b-fall-2021/syllabus
   You will see that it contains three files:
     - this document: [README.md](README.md) 
     - the syllabus: [syllabus.md](syllabus.md)
