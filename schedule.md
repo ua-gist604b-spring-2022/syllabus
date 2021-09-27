@@ -44,7 +44,7 @@ This class is logically divided into units to be completed over a seven-week tim
 |  5.1.0 PostGIS Tutorial | 11/13 | 11/20 | 40 |
 |  5.2.0 PostGIS OSM Load | 11/18 | 11/25 | 50 |
 |  **Module 6: Docker Compose** |  |  |  |
-|  _Lecture 9 (Docker Compose and PostGIS OSM Load)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=343a2696-29e4-4003-8906-ad0f00f3ca9c)_ |  |  |  |
+|  _Lecture 9 (Docker Compose and PostGIS OSM Load)_ |  |  |  |
 |  6.0.0 Docker Compose | 11/19 | 11/26 | 40 |
 |  **Module 7: Geoserver** |  |  |  |
 |  _Lecture (Geoserver)_ |  |  |  |
