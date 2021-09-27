@@ -12,39 +12,40 @@ This class is logically divided into units to be completed over a seven-week tim
 |  **Name** | **Start Date** | **Due Date** | **Points** |
 | --- | --- | --- | --- |
 |  **Module 0: Introduction and Open Source** |  |  |  |
-|  _Lecture 1 (Introduction and Open Source)_ |  |  |  |
+|  _Lecture (Introduction and Open Source)_ |  |  |  |
 |  0.1.0 Slack | 10/18 | 10/25 | 10 |
 |  0.2.0 GitHub Hello | 10/18 | 10/25 | 10 |
 |  0.3.0 Class Survey | 10/18 | 10/25 | 100 |
 |  0.4.0 Open Source Discovery | 10/18 | 10/28 | 20 |
 |  **Module 1: Git and SCM** |  |  |  |
-|  _Lecture 2 (Git and SCM)_ |  |  |  |
+|  _Lecture (Git and SCM)_ |  |  |  |
 |  1.0.0 GitHub Branch | 10/19 | 10/26 | 20 |
 |  1.1.0 GitHub Desktop | 10/19 | 10/26 | 10 |
 |  **Module 2: QGIS** |  |  |  |
-|  _Lecture 3 (QGIS)_ |  |  |  |
+|  _Lecture (QGIS)_ |  |  |  |
 |  2.0.0 QGIS Tutorials (Intro) | 10/25 | 11/1 | 30 |
-|  _Lecture 4 (QGIS)_ |  |  |  |
+|  _Lecture (QGIS)_ |  |  |  |
 |  2.1.0 QGIS Hurricane Sergio | 10/25 | 11/1 | 40 |
 |  2.2.0 QGIS Tutorials (Intermediate) | 10/26 | 11/2 | 30 |
 |  2.3.0 QGIS Tutorials (Advanced) | 10/26 | 11/2 | 30 |
 |  2.4.0 QGIS Secret Mutant Hero Team | 10/27 | 11/3 | 40 |
 |  **Module 3: Docker** |  |  |  |
-|  _Lecture 5 (Docker)_ |  |  |  |
+|  _Lecture (Docker)_ |  |  |  |
 |  3.0.0 Docker | 11/1 | 11/8 | 60 |
 |  **Module 4: Python** |  |  |  |
-|  _Lecture 6 (Python)_ |  |  |  |
-|  _Lecture 7 (Python GIS - GeoPandas)_ |  |  |  |
+|  _Lecture (Python)_ |  |  |  |
+|  _Lecture (Python GIS - GeoPandas)_ |  |  |  |
 |  4.0.0 Python GIS Part 1 | 11/2 | 11/9 | 40 |
-|  _Lecture 8 (Python GIS - Rasterio)_ |  |  |  |
+|  _Lecture (Python GIS - Rasterio)_ |  |  |  |
 |  4.1.0 Python GIS Part 2 | 11/8 | 11/14 | 40 |
 |  **Module 5: PostGIS** |  |  |  |
+|  _Lecture (Client-Server Architecture)_ |  |  |  |
 |  _Lecture (PostGIS)_ |  |  |  |
 |  5.0.0 PostGIS Intro | 11/12 | 11/19 | 40 |
 |  5.1.0 PostGIS Tutorial | 11/13 | 11/20 | 40 |
 |  5.2.0 PostGIS OSM Load | 11/18 | 11/25 | 50 |
 |  **Module 6: Docker Compose** |  |  |  |
-|  _Lecture 9 (Docker Compose and PostGIS OSM Load)_ |  |  |  |
+|  _Lecture (Docker Compose and PostGIS OSM Load)_ |  |  |  |
 |  6.0.0 Docker Compose | 11/19 | 11/26 | 40 |
 |  **Module 7: Geoserver** |  |  |  |
 |  _Lecture (Geoserver)_ |  |  |  |
