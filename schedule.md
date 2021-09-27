@@ -28,34 +28,40 @@ This class is logically divided into units to be completed over a seven-week tim
 |  [2-1 QGIS Hurricane Ida](https://classroom.github.com/a/tAQR7TOZ) | 10/25 | 11/1 | 40 |
 |  [2-2 QGIS Tutorials (Intermediate)](https://classroom.github.com/a/lptNxvrc) | 10/26 | 11/2 | 30 |
 |  [2-3 QGIS Tutorials (Advanced)](https://classroom.github.com/a/Dvb93Udc) | 10/26 | 11/2 | 30 |
-|  2-4 QGIS Secret Mutant Hero Team | 10/27 | 11/3 | 40 |
-|  **Module 3: Docker** |  |  |  |
-|  _Lecture (Docker)_ |  |  |  |
-|  3-0 Docker | 11/1 | 11/8 | 60 |
-|  **Module 4: Python** |  |  |  |
+|  [2-4 QGIS Secret Mutant Hero Team](https://classroom.github.com/a/Bii9aMCr) | 10/27 | 11/3 | 40 |
+|  **Module 3: Python** |  |  |  |
 |  _Lecture (Python)_ |  |  |  |
+|  _Lecture (Python GIS - Pandas)_ |  |  |  |
+|  [3-0 Python Pandas](https://classroom.github.com/a/fVcakB78) | 11/2 | 11/9 | 40 |
 |  _Lecture (Python GIS - GeoPandas)_ |  |  |  |
-|  4-0 Python GIS Part 1 | 11/2 | 11/9 | 40 |
+|  [3-1 Python GeoPandas](https://classroom.github.com/a/vqDR8c7B) | 11/3 | 11/10 | 40 |
 |  _Lecture (Python GIS - Rasterio)_ |  |  |  |
-|  4-1 Python GIS Part 2 | 11/8 | 11/14 | 40 |
+|  [3-2 Python Rasterio]() | 11/4 | 11/11 | 40 |
+|  **Module 4: Docker** |  |  |  |
+|  _Lecture (Docker)_ |  |  |  |
+|  [4-0 Docker](https://classroom.github.com/a/l2XkkM4R) | 11/1 | 11/8 | 60 |
 |  **Module 5: PostGIS** |  |  |  |
 |  _Lecture (Client-Server Architecture)_ |  |  |  |
 |  _Lecture (PostGIS)_ |  |  |  |
 |  5-0 PostGIS Intro | 11/12 | 11/19 | 40 |
+|  _Lecture (PostGIS Tutorial)_ |  |  |  |
 |  5-1 PostGIS Tutorial | 11/13 | 11/20 | 40 |
+|  _Lecture (PostGIS OSM Load)_ |  |  |  |
 |  5-2 PostGIS OSM Load | 11/18 | 11/25 | 50 |
 |  **Module 6: Docker Compose** |  |  |  |
 |  _Lecture (Docker Compose and PostGIS OSM Load)_ |  |  |  |
 |  6-0 Docker Compose | 11/19 | 11/26 | 40 |
 |  **Module 7: Geoserver** |  |  |  |
 |  _Lecture (Geoserver)_ |  |  |  |
+|  _Lecture (Geoserver Docker)_ |  |  |  |
 |  7-0 Geoserver Docker | 11/20 | 11/27 | 40 |
-|  7-1 Geoserver I | 11/27 | 12/4 | 30 |
+|  7-1 Geoserver | 11/27 | 12/4 | 30 |
 |  **Module 8: Sevice Orchestration with PostGIS and Geoserver** |  |  |  |
 |  _Lecture (PostGIS and Geoserver)_ |  |  |  |
 |  8-0 PostGIS and Geoserver] | 11/28 | 12/5 | 40 |
 |  **Module 9: WebGIS** |  |  |  |
-|  _Lecture (PostGIS, Geoserver, and Leaflet)_ |  |  |  |
+|  _Lecture (Docker Compose with PostGIS, Geoserver, and Leaflet)_ |  |  |  |
+|  _Lecture (Leaflet GIS)_ |  |  |  |
 |  9-0 WebGIS - Leaflet | 11/29 | 12/6 | 40 |
 
 ## Official Dates
