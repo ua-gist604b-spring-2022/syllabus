@@ -11,7 +11,7 @@ This class is logically divided into units to be completed over a seven-week tim
 
 |  **Name** | **Start Date** | **Due Date** | **Points** |
 | --- | --- | --- | --- |
-|  Module 0: Introduction and Open Source |  |  |  |
+|  **Module 0: Introduction and Open Source** |  |  |  |
 |  _Lecture 1 (Introduction and Open Source)_ |  |  |  |
 |  0.1.0 Slack | 10/18 | 10/25 | 10 |
 |  0.2.0 GitHub Hello | 10/18 | 10/25 | 10 |
