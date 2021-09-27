@@ -13,21 +13,21 @@ This class is logically divided into units to be completed over a seven-week tim
 | --- | --- | --- | --- |
 |  **Module 0: Introduction and Open Source** |  |  |  |
 |  _Lecture (Introduction and Open Source)_ |  |  |  |
-|  0-1 Slack | 10/18 | 10/25 | 10 |
-|  0-2 GitHub Hello | 10/18 | 10/25 | 10 |
-|  0-3 Class Survey | 10/18 | 10/25 | 100 |
-|  0-4 Open Source Discovery | 10/18 | 10/28 | 20 |
+|  [0-0 Slack](https://classroom.github.com/a/qZ3g_NFJ) | 10/18 | 10/25 | 10 |
+|  [0-1 GitHub Hello](https://classroom.github.com/a/IIlfr4O1) | 10/18 | 10/25 | 10 |
+|  [0-2 Class Survey](https://classroom.github.com/a/5Zlm-FCi) | 10/18 | 10/25 | 100 |
+|  [0-3 Open Source Discovery](https://classroom.github.com/a/yCQXUlSo) | 10/18 | 10/28 | 20 |
 |  **Module 1: Git and SCM** |  |  |  |
 |  _Lecture (Git and SCM)_ |  |  |  |
-|  1-0 GitHub Branch | 10/19 | 10/26 | 20 |
-|  1-1 GitHub Desktop | 10/19 | 10/26 | 10 |
+|  [1-0 GitHub Branch](https://classroom.github.com/a/39Hsnkkf) | 10/19 | 10/26 | 20 |
+|  [1-1 GitHub Desktop](https://classroom.github.com/a/L8_n_Awz) | 10/19 | 10/26 | 10 |
 |  **Module 2: QGIS** |  |  |  |
 |  _Lecture (QGIS)_ |  |  |  |
-|  2-0 QGIS Tutorials (Intro) | 10/25 | 11/1 | 30 |
+|  [2-0 QGIS Tutorials (Intro)](https://classroom.github.com/a/jT5JEYGE) | 10/25 | 11/1 | 30 |
 |  _Lecture (QGIS)_ |  |  |  |
-|  2-1 QGIS Hurricane Sergio | 10/25 | 11/1 | 40 |
-|  2-2 QGIS Tutorials (Intermediate) | 10/26 | 11/2 | 30 |
-|  2-3 QGIS Tutorials (Advanced) | 10/26 | 11/2 | 30 |
+|  [2-1 QGIS Hurricane Ida](https://classroom.github.com/a/tAQR7TOZ) | 10/25 | 11/1 | 40 |
+|  [2-2 QGIS Tutorials (Intermediate)](https://classroom.github.com/a/lptNxvrc) | 10/26 | 11/2 | 30 |
+|  [2-3 QGIS Tutorials (Advanced)](https://classroom.github.com/a/Dvb93Udc) | 10/26 | 11/2 | 30 |
 |  2-4 QGIS Secret Mutant Hero Team | 10/27 | 11/3 | 40 |
 |  **Module 3: Docker** |  |  |  |
 |  _Lecture (Docker)_ |  |  |  |
