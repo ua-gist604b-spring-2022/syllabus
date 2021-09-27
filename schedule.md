@@ -33,36 +33,38 @@ This class is logically divided into units to be completed over a seven-week tim
 |  _Lecture (Python)_ |  |  |  |
 |  _Lecture (Python GIS - Pandas)_ |  |  |  |
 |  [3-0 Python Pandas](https://classroom.github.com/a/fVcakB78) | 11/2 | 11/9 | 40 |
-|  _Lecture (Python GIS - GeoPandas)_ |  |  |  |
-|  [3-1 Python GeoPandas](https://classroom.github.com/a/vqDR8c7B) | 11/3 | 11/10 | 40 |
+|  _Lecture (Python GIS - Anaconda and GeoPandas)_ |  |  |  |
+|  [3-1 Python GeoPandas Intro](https://classroom.github.com/a/qqkd4P50) | 11/3 | 11/10 | 40 |
+|  [3-2 Python GeoPandas Join](https://classroom.github.com/a/vqDR8c7B) | 11/4 | 11/11 | 40 |
 |  _Lecture (Python GIS - Rasterio)_ |  |  |  |
-|  [3-2 Python Rasterio]() | 11/4 | 11/11 | 40 |
+|  [3-3 Python Rasterio](https://classroom.github.com/a/hDxhv9rG) | 11/9 | 11/16 | 40 |
+|  [3-4 Python Rasterstats](https://classroom.github.com/a/E_NHA4KC) | 11/10 | 11/17 | 40 |
 |  **Module 4: Docker** |  |  |  |
 |  _Lecture (Docker)_ |  |  |  |
-|  [4-0 Docker](https://classroom.github.com/a/l2XkkM4R) | 11/1 | 11/8 | 60 |
+|  [4-0 Docker](https://classroom.github.com/a/l2XkkM4R) | 11/16 | 11/23 | 60 |
 |  **Module 5: PostGIS** |  |  |  |
 |  _Lecture (Client-Server Architecture)_ |  |  |  |
 |  _Lecture (PostGIS)_ |  |  |  |
-|  5-0 PostGIS Intro | 11/12 | 11/19 | 40 |
+|  5-0 PostGIS Intro | 11/17 | 11/24 | 40 |
 |  _Lecture (PostGIS Tutorial)_ |  |  |  |
-|  5-1 PostGIS Tutorial | 11/13 | 11/20 | 40 |
-|  _Lecture (PostGIS OSM Load)_ |  |  |  |
-|  5-2 PostGIS OSM Load | 11/18 | 11/25 | 50 |
+|  5-1 PostGIS Tutorial | 11/18 | 11/25 | 40 |
 |  **Module 6: Docker Compose** |  |  |  |
 |  _Lecture (Docker Compose and PostGIS OSM Load)_ |  |  |  |
-|  6-0 Docker Compose | 11/19 | 11/26 | 40 |
+|  6-0 Docker Compose | 11/23 | 11/30 | 40 |
+|  _Lecture (PostGIS OSM Load)_ |  |  |  |
+|  6-1 PostGIS OSM Load | 11/23 | 11/30 | 50 |
 |  **Module 7: Geoserver** |  |  |  |
 |  _Lecture (Geoserver)_ |  |  |  |
 |  _Lecture (Geoserver Docker)_ |  |  |  |
-|  7-0 Geoserver Docker | 11/20 | 11/27 | 40 |
-|  7-1 Geoserver | 11/27 | 12/4 | 30 |
+|  7-0 Geoserver Docker | 11/24 | 12/1 | 40 |
+|  7-1 Geoserver | 11/25 | 12/2 | 30 |
 |  **Module 8: Sevice Orchestration with PostGIS and Geoserver** |  |  |  |
 |  _Lecture (PostGIS and Geoserver)_ |  |  |  |
-|  8-0 PostGIS and Geoserver] | 11/28 | 12/5 | 40 |
+|  8-0 PostGIS and Geoserver] | 11/30 | 12/7 | 40 |
 |  **Module 9: WebGIS** |  |  |  |
 |  _Lecture (Docker Compose with PostGIS, Geoserver, and Leaflet)_ |  |  |  |
 |  _Lecture (Leaflet GIS)_ |  |  |  |
-|  9-0 WebGIS - Leaflet | 11/29 | 12/6 | 40 |
+|  9-0 WebGIS - Leaflet | 12/1 | 12/8 | 40 |
 
 ## Official Dates
 See https://www.registrar.arizona.edu/dates-and-deadlines
