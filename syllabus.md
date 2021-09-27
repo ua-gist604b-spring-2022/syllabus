@@ -1,10 +1,11 @@
 # GIST 604B 
 ## Open Source Geographic Information Systems
 ## University of Arizona
-## March 16, 2020, to May 6, 2020
+## October 14, 2021, to December 8, 2021
 
 ### Instructor: Dr. Aaryn Olsson 
 ### Email: aaryn@email.arizona.edu
+### Availability by email and through slack
 
 ## Course Description
 In this course you will learn about the open source software paradigm including how open source software is developed, released, and maintained. You will be introduced to three core open source GIS software technologies: QGIS, PostGIS, Geoserver, and OpenLayers
@@ -20,12 +21,14 @@ You will be comfortable performing basic administration of geoserver, including 
 You will be able to visualize data stored in PostGIS, geoserver, and shapefiles 
 You will have foundational knowledge and experience using PostGIS.
 You will be able to write basic PostGIS queries with the assistance of postgis.net and other docs.
-You will be able to create a webpage containing interactive GIS maps that allow you to add/edit/remove data, switch data sources, and a variety of complex web mapping tasks.
+You will be familiar with docker and containerization concepts.
+You will understand core client-server architecture concepts and understand which GIS components belong to which class.
+You will be able to create a webpage containing interactive GIS maps that allow you to add/edit/remove data, switch data sources, and a variety of web mapping tasks.
 
 ## Participation
 Interactive participation through Slack and Zoom are encouraged but not graded. You will get more out of the class and your career by engaging your colleagues. 
 
-As it is a course about Open Source, we will emphasize the open source tools or practices where possible, although ultimately we are bound by the U of A and you will be receiving official grades through d2l. 
+As it is a course about Open Source, we will emphasize the open source tools or practices where possible. Course content will be delivered through GitHub some course content will be available through d2l.
 
 ## Slack
 [Slack](https://slack.com/) is an online collaboration hub through which we will maintain ongoing chats and interactions
@@ -53,7 +56,7 @@ policies which are available at https://catalog.arizona.edu/policy/grades-and-gr
 https://catalog.arizona.edu/policy/grades-and-grading-system#Withdrawal, respectively.
 
 ## Assignments 
-Assignments are assigned and available through the class schedule: [schedule.md](schedule.md). Assignments are assigned daily and are due within one week of being assigned.
+Assignments are assigned and available through the class schedule: [schedule.md](schedule.md). Assignments are assigned daily and are due within one week of being assigned. Late work is not accepted. As this class is immersive into new technologies, grading emphasis is on completion first, and then on thoroughness and effort. Incomplete assignments are eligible to receive full credit when technological or other circumstances arise if the student has diligently worked through reasonable avenues. As this is a technology course, emphasis is on problem solving when things don't go according to plan.
 
 ## Class Project 
 In addition to assignments, you are expected to complete a class project. Details for the class project are available on the schedule: [schedule.md](schedule.md)
@@ -69,7 +72,7 @@ holidays or special events observed by organized religions will be honored for t
 who show affiliation with that particular religion. Notify your instructor(s) prior to your absence.
 
 ## Accessibility and Accommodations
-It is the University’s goal that learning experiences be as accessible as possible. If you anticipate or experience physical or academic barriers based on disability or pregnancy, please let me know immediately so that we can discuss options. You are also welcome to contact Disability Resources (520-621-3268) to establish reasonable accommodations. For additional information on Disability Resources and reasonable accommodations, please visit http://drc.arizona.edu/. If you have reasonable accommodations, please plan to meet with me by appointment or during office hours to discuss accommodations and how my course requirements and activities may impact your ability to fully participate.
+**At the University of Arizona, we strive to make learning experiences as accessible as possible. If you anticipate or experience barriers based on disability or pregnancy, please contact the Disability Resource Center (520-621-3268, https://drc.arizona.edu/) to establish reasonable accommodations.**
 
 ## Student Code of Academic Integrity
 Students are encouraged to share intellectual views and discuss freely the principles and
