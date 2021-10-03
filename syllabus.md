@@ -58,9 +58,6 @@ https://catalog.arizona.edu/policy/grades-and-grading-system#Withdrawal, respect
 ## Assignments 
 Assignments are assigned and available through the class schedule: [schedule.md](schedule.md). Assignments are assigned daily and are due within one week of being assigned. Late work is not accepted. As this class is immersive into new technologies, grading emphasis is on completion first, and then on thoroughness and effort. Incomplete assignments are eligible to receive full credit when technological or other circumstances arise if the student has diligently worked through reasonable avenues. As this is a technology course, emphasis is on problem solving when things don't go according to plan.
 
-## Class Project 
-In addition to assignments, you are expected to complete a class project. Details for the class project are available on the schedule: [schedule.md](schedule.md)
-
 ## Late Work Policy
 As a rule, work will not be accepted late except in case of documented emergency or illness. You may petition the professor in writing for an exception if you feel you have a compelling reason for turning work in late. 
 
