@@ -59,7 +59,13 @@ This class is logically divided into units to be completed over a seven-week tim
 |  **Module 7: WebGIS** |  |  |  |
 |  _Lecture (Docker Compose with PostGIS, Geoserver, and Leaflet)_ |  |  |  |
 |  _Lecture (Leaflet GIS)_ |  |  |  |
-|  [7-0 WebGIS - Leaflet](https://classroom.github.com/a/ZhslVqXK) | 11/29 | 12/6 | 40 |
+|  [7-0 WebGIS - Leaflet I](https://classroom.github.com/a/ZhslVqXK) | 11/29 | 12/6 | 40 |
+|  [7-1 WebGIS - Leaflet II]() | 11/30 | 12/7 | 40 |
+|  **Module 8: GDAL/OGR** |  |  |  |
+|  _Lecture (Docker Compose with PostGIS, Geoserver, and Leaflet)_ |  |  |  |
+|  _Lecture (Leaflet GIS)_ |  |  |  |
+|  [8-0 GDAL]() | 12/1 | 12/8 | 40 |
+|  [8-1 OGR](K) | 12/1 | 12/8 | 40 |
 
 ## Official Dates
 See https://www.registrar.arizona.edu/dates-and-deadlines
