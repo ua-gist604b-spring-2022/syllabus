@@ -13,13 +13,13 @@ This class is logically divided into units to be completed over a seven-week tim
 | --- | --- | --- | --- |
 |  **Module 0: Introduction and Open Source** |  |  |  |
 |  _Lecture [(Introduction and Open Source)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=04cc21d5-9af4-4a82-aecf-adb6013f6654) [slides](https://d2l.arizona.edu/d2l/le/content/1023359/viewContent/11543920/View)_ |  |  |  |
-|  _Lecture [(Class Github Repo)]()_ |  |  |  |
+|  _Lecture [(Module 0)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9fc4f48b-d92c-4e88-b50a-adb6015c4e8d)_ |  |  |  |
 |  [0-0 Slack](https://classroom.github.com/a/qZ3g_NFJ) | 10/18 | 10/25 | 10 |
 |  [0-1 Class Survey](https://classroom.github.com/a/5Zlm-FCi) | 10/18 | 10/25 | 100 |
 |  [0-2 GitHub Hello](https://classroom.github.com/a/IIlfr4O1) | 10/18 | 10/25 | 10 |
 |  [0-3 Open Source Discovery](https://classroom.github.com/a/yCQXUlSo) | 10/19 | 10/27 | 20 |
 |  **Module 1: Git and SCM** |  |  |  |
-|  _Lecture (Git and SCM)_ |  |  |  |
+|  _[Lecture (Git and SCM)]() [slides]()_ |  |  |  |
 |  [1-0 GitHub Branch](https://classroom.github.com/a/39Hsnkkf) | 10/20 | 10/28 | 20 |
 |  [1-1 GitHub Desktop](https://classroom.github.com/a/L8_n_Awz) | 10/21 | 10/28 | 10 |
 |  **Module 2: QGIS** |  |  |  |
