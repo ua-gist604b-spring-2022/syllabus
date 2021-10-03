@@ -12,7 +12,8 @@ This class is logically divided into units to be completed over a seven-week tim
 |  **Name** | **Start Date** | **Due Date** | **Points** |
 | --- | --- | --- | --- |
 |  **Module 0: Introduction and Open Source** |  |  |  |
-|  _Lecture (Introduction and Open Source)_ |  |  |  |
+|  _Lecture [(Introduction and Open Source)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=04cc21d5-9af4-4a82-aecf-adb6013f6654) [slides](https://d2l.arizona.edu/d2l/le/content/1023359/viewContent/11543920/View)_ |  |  |  |
+|  _Lecture [(Class Github Repo)]()_ |  |  |  |
 |  [0-0 Slack](https://classroom.github.com/a/qZ3g_NFJ) | 10/18 | 10/25 | 10 |
 |  [0-1 GitHub Hello](https://classroom.github.com/a/IIlfr4O1) | 10/18 | 10/25 | 10 |
 |  [0-2 Class Survey](https://classroom.github.com/a/5Zlm-FCi) | 10/18 | 10/25 | 100 |
