@@ -23,7 +23,7 @@ This class is logically divided into units to be completed over a seven-week tim
 |  [1-0 GitHub Branch](https://classroom.github.com/a/39Hsnkkf) | 10/20 | 10/28 | 20 |
 |  [1-1 GitHub Desktop](https://classroom.github.com/a/L8_n_Awz) | 10/21 | 10/28 | 10 |
 |  **Module 2: QGIS** |  |  |  |
-|  _Lecture (QGIS)_ |  |  |  |
+|  _[Lecture (QGIS)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2ac7bcc7-072e-4d1d-821f-adc7005075f1)_ |  |  |  |
 |  [2-0 QGIS Tutorials (Intro)](https://classroom.github.com/a/jT5JEYGE) | 10/25 | 11/1 | 30 |
 |  _Lecture (QGIS)_ |  |  |  |
 |  [2-1 QGIS Hurricane Ida](https://classroom.github.com/a/tAQR7TOZ) | 10/26 | 11/2 | 40 |
