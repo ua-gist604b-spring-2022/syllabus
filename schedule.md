@@ -49,9 +49,9 @@ This class is logically divided into units to be completed over a seven-week tim
 |  **Module 5: PostGIS** |  |  |  |
 |  _Lecture (Client-Server Architecture)_ |  |  |  |
 |  _Lecture (PostGIS)_ |  |  |  |
-|  [5-0 PostGIS Intro](https://classroom.github.com/a/KdNl_bmO) | 11/17 | 11/24 | 40 |
+|  [5-0 PostGIS Intro](https://classroom.github.com/a/BnBclPzj) | 11/17 | 11/24 | 40 |
 |  _Lecture (PostGIS Tutorial)_ |  |  |  |
-|  [5-1 PostGIS OSM Data Load](https://classroom.github.com/a/BnBclPzj) | 11/19 | 11/26 | 40 |
+|  [5-1 PostGIS OSM Data Load](https://classroom.github.com/a/RG4IVOBL) | 11/19 | 11/26 | 40 |
 |  **Module 6: Geoserver** |  |  |  |
 |  _Lecture (Geoserver)_ |  |  |  |
 |  [6-0 Geoserver](https://classroom.github.com/a/uYSYVSu6) | 11/22 | 11/29 | 30 |
