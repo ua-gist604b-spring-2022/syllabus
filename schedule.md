@@ -25,7 +25,7 @@ This class is logically divided into units to be completed over a seven-week tim
 |  **Module 2: QGIS** |  |  |  |
 |  _[Lecture (QGIS)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2ac7bcc7-072e-4d1d-821f-adc7005075f1)_ |  |  |  |
 |  [2-0 QGIS Tutorials (Intro)](https://classroom.github.com/a/jT5JEYGE) | 10/25 | 11/1 | 30 |
-|  _Lecture (QGIS)_ |  |  |  |
+|  _[Lecture (QGIS)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b7db86bd-439d-4fbd-9501-adcc00320743)_ |  |  |  |
 |  [2-1 QGIS Hurricane Ida](https://classroom.github.com/a/tAQR7TOZ) | 10/26 | 11/2 | 40 |
 |  [2-2 QGIS Tutorials (Intermediate)](https://classroom.github.com/a/lptNxvrc) | 10/27 | 11/3 | 30 |
 |  [2-3 QGIS Tutorials (Advanced)](https://classroom.github.com/a/Dvb93Udc) | 10/28 | 11/4 | 30 |
