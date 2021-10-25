@@ -33,34 +33,34 @@ This class is logically divided into units to be completed over a seven-week tim
 |  **Module 3: Python** |  |  |  |
 |  _Lecture (Python)_ |  |  |  |
 |  _Lecture (Python GIS - Pandas)_ |  |  |  |
-|  [3-0 Python Pandas](https://classroom.github.com/a/fVcakB78) | 11/1 | 11/8 | 40 |
+|  3-0 Python Pandas | 11/1 | 11/8 | 40 |
 |  _Lecture (Python GIS - Anaconda and GeoPandas)_ |  |  |  |
-|  [3-1 Python GeoPandas Intro](https://classroom.github.com/a/qqkd4P50) | 11/3 | 11/10 | 40 |
-|  [3-2 Python GeoPandas Join](https://classroom.github.com/a/vqDR8c7B) | 11/5 | 11/12 | 40 |
+|  3-1 Python GeoPandas Intro | 11/3 | 11/10 | 40 |
+|  3-2 Python GeoPandas Join | 11/5 | 11/12 | 40 |
 |  _Lecture (Python GIS - Rasterio)_ |  |  |  |
-|  [3-3 Python Rasterio](https://classroom.github.com/a/hDxhv9rG) | 11/8 | 11/15 | 40 |
-|  [3-4 Python Rasterstats](https://classroom.github.com/a/E_NHA4KC) | 11/10 | 11/17 | 40 |
-|  [3-5 Jupyter Notebooks](https://classroom.github.com/a/mEkI3--k) | 11/12 | 11/19 | 40 |
+|  3-3 Python Rasterio | 11/8 | 11/15 | 40 |
+|  3-4 Python Rasterstats | 11/10 | 11/17 | 40 |
+|  3-5 Jupyter Notebooks | 11/12 | 11/19 | 40 |
 |  **Module 4: Docker** |  |  |  |
 |  _Lecture (Docker)_ |  |  |  |
-|  [4-0 Docker](https://classroom.github.com/a/l2XkkM4R) | 11/15 | 11/22 | 60 |
+|  4-0 Docker | 11/15 | 11/22 | 60 |
 |  _Lecture (Docker Compose)_ |  |  |  |
-|  [4-1 Docker Compose](https://classroom.github.com/a/HHJt938Z) | 11/16 | 11/23 | 40 |
+|  4-1 Docker Compose | 11/16 | 11/23 | 40 |
 |  **Module 5: PostGIS** |  |  |  |
 |  _Lecture (Client-Server Architecture)_ |  |  |  |
 |  _Lecture (PostGIS)_ |  |  |  |
-|  [5-0 PostGIS Intro](https://classroom.github.com/a/BnBclPzj) | 11/17 | 11/24 | 40 |
+|  5-0 PostGIS Intro | 11/17 | 11/24 | 40 |
 |  _Lecture (PostGIS Tutorial)_ |  |  |  |
-|  [5-1 PostGIS OSM Data Load](https://classroom.github.com/a/RG4IVOBL) | 11/19 | 11/26 | 40 |
+|  5-1 PostGIS OSM Data Load | 11/19 | 11/26 | 40 |
 |  **Module 6: Geoserver** |  |  |  |
 |  _Lecture (Geoserver)_ |  |  |  |
-|  [6-0 Geoserver](https://classroom.github.com/a/uYSYVSu6) | 11/22 | 11/29 | 30 |
+|  6-0 Geoserver | 11/22 | 11/29 | 30 |
 |  _Lecture (PostGIS and Geoserver)_ |  |  |  |
-|  [6-1 PostGIS and Geoserver](https://classroom.github.com/a/ICp-SGYJ) | 11/24 | 12/1 | 40 |
+|  6-1 PostGIS and Geoserver | 11/24 | 12/1 | 40 |
 |  **Module 7: WebGIS** |  |  |  |
 |  _Lecture (Docker Compose with PostGIS, Geoserver, and Leaflet)_ |  |  |  |
 |  _Lecture (Leaflet GIS)_ |  |  |  |
-|  [7-0 WebGIS - Leaflet I](https://classroom.github.com/a/ZhslVqXK) | 11/29 | 12/6 | 40 |
+|  7-0 WebGIS - Leaflet I | 11/29 | 12/6 | 40 |
 |  7-1 WebGIS - Leaflet II | 11/30 | 12/7 | 40 |
 |  **Module 8: GDAL/OGR** |  |  |  |
 |  _Lecture (Docker Compose with PostGIS, Geoserver, and Leaflet)_ |  |  |  |
