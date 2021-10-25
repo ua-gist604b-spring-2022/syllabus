@@ -32,7 +32,7 @@ This class is logically divided into units to be completed over a seven-week tim
 |  [2-4 QGIS Secret Mutant Hero Team](https://classroom.github.com/a/Bii9aMCr) | 10/29 | 11/5 | 40 |
 |  **Module 3: Python** |  |  |  |
 |  _Lecture [(Python)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=83304fba-424f-430f-87e1-adcc00448e6e) [slides](https://d2l.arizona.edu/d2l/le/content/1094533/viewContent/11628054/View)_ |  |  |  |
-|  _Lecture (Python GIS - Pandas)_ |  |  |  |
+|  _Lecture (Python - Spyder and Pandas)_ |  |  |  |
 |  [3-0 Python Pandas](https://classroom.github.com/a/fVcakB78) | 11/1 | 11/8 | 40 |
 |  _Lecture (Python GIS - Anaconda and GeoPandas)_ |  |  |  |
 |  [3-1 Python GeoPandas Intro](https://classroom.github.com/a/qqkd4P50) | 11/3 | 11/10 | 40 |
