@@ -12,14 +12,14 @@ This class is logically divided into units to be completed over a seven-week tim
 |  **Name** | **Start Date** | **Due Date** | **Points** |
 | --- | --- | --- | --- |
 |  **Module 0: Introduction and Open Source** |  |  |  |
-|  _Lecture [(Introduction and Open Source)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=04cc21d5-9af4-4a82-aecf-adb6013f6654) [slides](https://docs.google.com/presentation/d/1FGNTisqx0IPc5MA2D1MSbp9G2RGPgNRWU0akR91QVAs/edit?usp=sharing)_ |  |  |  |
-|  _Lecture [(Module 0 Assignments)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9fc4f48b-d92c-4e88-b50a-adb6015c4e8d)_ |  |  |  |
+|  _[Lecture (Introduction and Open Source)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=04cc21d5-9af4-4a82-aecf-adb6013f6654) [slides](https://docs.google.com/presentation/d/1FGNTisqx0IPc5MA2D1MSbp9G2RGPgNRWU0akR91QVAs/edit?usp=sharing)_ |  |  |  |
+|  _[Lecture (Module 0 Assignments)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9fc4f48b-d92c-4e88-b50a-adb6015c4e8d)_ |  |  |  |
 |  [0-0 Slack](https://classroom.github.com/a/qZ3g_NFJ) | 10/18 | 10/25 | 10 |
 |  [0-1 Class Survey](https://classroom.github.com/a/5Zlm-FCi) | 10/18 | 10/25 | 100 |
 |  [0-2 GitHub Hello](https://classroom.github.com/a/IIlfr4O1) | 10/18 | 10/25 | 10 |
 |  [0-3 Open Source Discovery](https://classroom.github.com/a/yCQXUlSo) | 10/19 | 10/27 | 20 |
 |  **Module 1: Git and SCM** |  |  |  |
-|  _Lecture [(Git and SCM)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d3b504fb-e46c-4e5b-8fea-adb700515188) [slides](https://docs.google.com/presentation/d/1FyhN4Zb7QYgusHxbhNjKpusEC9mP6_7Q_BpCo34AH8g/edit?usp=sharing)_ |  |  |  |
+|  _[Lecture (Git and SCM)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d3b504fb-e46c-4e5b-8fea-adb700515188) [slides](https://docs.google.com/presentation/d/1FyhN4Zb7QYgusHxbhNjKpusEC9mP6_7Q_BpCo34AH8g/edit?usp=sharing)_ |  |  |  |
 |  [1-0 GitHub Branch](https://classroom.github.com/a/39Hsnkkf) | 10/20 | 10/28 | 20 |
 |  [1-1 GitHub Desktop](https://classroom.github.com/a/L8_n_Awz) | 10/21 | 10/28 | 10 |
 |  **Module 2: QGIS** |  |  |  |
@@ -31,8 +31,8 @@ This class is logically divided into units to be completed over a seven-week tim
 |  [2-3 QGIS Tutorials (Advanced)](https://classroom.github.com/a/Dvb93Udc) | 10/28 | 11/4 | 30 |
 |  [2-4 QGIS Secret Mutant Hero Team](https://classroom.github.com/a/Bii9aMCr) | 10/29 | 11/5 | 40 |
 |  **Module 3: Python** |  |  |  |
-|  _Lecture [(Python)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=83304fba-424f-430f-87e1-adcc00448e6e) [slides](https://d2l.arizona.edu/d2l/le/content/1094533/viewContent/11628054/View)_ |  |  |  |
-|  _Lecture [(Python - Anaconda, Spyder and Pandas)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=724a9842-c1d7-462b-be0c-add4004b113e) [slides](https://d2l.arizona.edu/d2l/le/content/1094533/viewContent/11656475/View)_ |  |  |  |
+|  _[Lecture (Python)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=83304fba-424f-430f-87e1-adcc00448e6e) [slides](https://d2l.arizona.edu/d2l/le/content/1094533/viewContent/11628054/View)_ |  |  |  |
+|  _[Lecture (Python - Anaconda, Spyder and Pandas)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=724a9842-c1d7-462b-be0c-add4004b113e) [slides](https://d2l.arizona.edu/d2l/le/content/1094533/viewContent/11656475/View)_ |  |  |  |
 |  [3-0 Python Pandas](https://classroom.github.com/a/fVcakB78) | 11/1 | 11/8 | 40 |
 |  _Lecture (Python GIS - GeoPandas)_ |  |  |  |
 |  3-1 Python GeoPandas Intro | 11/3 | 11/10 | 40 |
