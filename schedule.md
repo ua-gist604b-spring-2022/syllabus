@@ -31,9 +31,10 @@ This class is logically divided into units to be completed over a seven-week tim
 |  [2-3 QGIS Tutorials (Advanced)](https://classroom.github.com/a/Dvb93Udc) | 10/28 | 11/4 | 30 |
 |  [2-4 QGIS Secret Mutant Hero Team](https://classroom.github.com/a/Bii9aMCr) | 10/29 | 11/5 | 40 |
 |  **Module 3: Python** |  |  |  |
-|  _Lecture [(Python)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=83304fba-424f-430f-87e1-adcc00448e6e) [slides](https://d2l.arizona.edu/d2l/le/content/1094533/viewContent/11628054/View)_ |  |  |  ||  _Lecture (Python GIS - Pandas)_ |  |  |  |
-|  3-0 Python Pandas | 11/1 | 11/8 | 40 |
-|  _Lecture (Python GIS - Anaconda and GeoPandas)_ |  |  |  |
+|  _Lecture [(Python)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=83304fba-424f-430f-87e1-adcc00448e6e) [slides](https://d2l.arizona.edu/d2l/le/content/1094533/viewContent/11628054/View)_ |  |  |  |
+|  _Lecture [(Python - Anaconda, Spyder and Pandas)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=724a9842-c1d7-462b-be0c-add4004b113e) [slides](https://d2l.arizona.edu/d2l/le/content/1094533/viewContent/11656475/View)_ |  |  |  |
+|  [3-0 Python Pandas](https://classroom.github.com/a/fVcakB78) | 11/1 | 11/8 | 40 |
+|  _Lecture (Python GIS - GeoPandas)_ |  |  |  |
 |  3-1 Python GeoPandas Intro | 11/3 | 11/10 | 40 |
 |  3-2 Python GeoPandas Join | 11/5 | 11/12 | 40 |
 |  _Lecture (Python GIS - Rasterio)_ |  |  |  |
