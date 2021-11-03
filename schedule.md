@@ -34,9 +34,9 @@ This class is logically divided into units to be completed over a seven-week tim
 |  _[Lecture (Python)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=83304fba-424f-430f-87e1-adcc00448e6e) [slides](https://d2l.arizona.edu/d2l/le/content/1094533/viewContent/11628054/View)_ |  |  |  |
 |  _[Lecture (Python - Anaconda, Spyder and Pandas)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=724a9842-c1d7-462b-be0c-add4004b113e) [slides](https://d2l.arizona.edu/d2l/le/content/1094533/viewContent/11656475/View)_ |  |  |  |
 |  [3-0 Python Pandas](https://classroom.github.com/a/fVcakB78) | 11/1 | 11/8 | 40 |
-|  _Lecture (Python GIS - GeoPandas)_ |  |  |  |
-|  3-1 Python GeoPandas Intro | 11/3 | 11/10 | 40 |
-|  3-2 Python GeoPandas Join | 11/5 | 11/12 | 40 |
+|  _[Lecture (Python GIS - GeoPandas)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=98d80d3b-6c09-4734-b520-add5006228ad)_ |  |  |  |
+|  [3-1 Python GeoPandas Intro](https://classroom.github.com/a/qqkd4P50) | 11/3 | 11/10 | 40 |
+|  [3-2 Python GeoPandas Join](https://classroom.github.com/a/vqDR8c7B) | 11/5 | 11/12 | 40 |
 |  _Lecture (Python GIS - Rasterio)_ |  |  |  |
 |  3-3 Python Rasterio | 11/8 | 11/15 | 40 |
 |  3-4 Python Rasterstats | 11/10 | 11/17 | 40 |
