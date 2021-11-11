@@ -39,8 +39,8 @@ This class is logically divided into units to be completed over a seven-week tim
 |  [3-2 Python GeoPandas Join](https://classroom.github.com/a/vqDR8c7B) | 11/5 | 11/12 | 40 |
 |  _[Lecture (Python GIS - Rasterio)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9ce148fe-a9c5-4db4-b30a-adda004f64f0)_ |  |  |  |
 |  [3-3 Python Rasterio](https://classroom.github.com/a/hDxhv9rG) | 11/8 | 11/15 | 40 |
-|  _Lecture (Python GIS - Rasterstats)_ |  |  |  |
-|  3-4 Python Rasterstats | 11/10 | 11/17 | 40 |
+|  _[Lecture (Python GIS - Rasterstats)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f9276c68-2ad1-4d61-81fe-addd00675de5)_ |  |  |  |
+|  [3-4 Python Rasterstats](https://classroom.github.com/a/E_NHA4KC) | 11/10 | 11/17 | 40 |
 |  _Lecture (Python GIS - Jupyter Notebooks)_ |  |  |  |
 |  3-5 Jupyter Notebooks | 11/12 | 11/19 | 40 |
 |  **Module 4: Docker** |  |  |  |
