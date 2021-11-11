@@ -70,6 +70,8 @@ This class is logically divided into units to be completed over a seven-week tim
 |  8-0 GDAL | 12/1 | 12/8 | 40 |
 |  8-1 OGR | 12/1 | 12/8 | 40 |
 
+[VM Test](https://classroom.github.com/a/6mYiDRKm)
+
 ## Official Dates
 See https://www.registrar.arizona.edu/dates-and-deadlines
 
