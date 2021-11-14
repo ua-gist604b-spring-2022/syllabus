@@ -43,7 +43,9 @@ This class is logically divided into units to be completed over a seven-week tim
 |  [3-4 Python Rasterstats](https://classroom.github.com/a/E_NHA4KC) | 11/11 | 11/18 | 40 |
 |  _Lecture (Jupyter Notebooks) [Part 1](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=83058cd5-b723-44ef-a403-ade000666538)_ |  |  |  |
 |  _Lecture (Jupyter Notebooks) [Part 2](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=57680476-c2d8-4d15-813f-ade0006684c0)_ |  |  |  |
+|  _Lecture (Jupyter Notebooks) [Part 3](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d1ecf2ef-453f-4477-9aba-ade001315860)_ |  |  |  |
 |  [3-5 Jupyter Notebooks](https://classroom.github.com/a/mEkI3--k) | 11/13 | 11/20 | 40 |
+
 |  **Module 4: Docker** |  |  |  |
 |  _Lecture (Docker)_ |  |  |  |
 |  4-0 Docker | 11/15 | 11/22 | 60 |
