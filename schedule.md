@@ -40,9 +40,10 @@ This class is logically divided into units to be completed over a seven-week tim
 |  _[Lecture (Python GIS - Rasterio)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9ce148fe-a9c5-4db4-b30a-adda004f64f0)_ |  |  |  |
 |  [3-3 Python Rasterio](https://classroom.github.com/a/hDxhv9rG) | 11/8 | 11/15 | 40 |
 |  _[Lecture (Python GIS - Rasterstats)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f9276c68-2ad1-4d61-81fe-addd00675de5)_ |  |  |  |
-|  [3-4 Python Rasterstats](https://classroom.github.com/a/E_NHA4KC) | 11/10 | 11/17 | 40 |
-|  _Lecture (Python GIS - Jupyter Notebooks)_ |  |  |  |
-|  3-5 Jupyter Notebooks | 11/12 | 11/19 | 40 |
+|  [3-4 Python Rasterstats](https://classroom.github.com/a/E_NHA4KC) | 11/11 | 11/18 | 40 |
+|  _Lecture (Jupyter Notebooks)[Part 1](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=83058cd5-b723-44ef-a403-ade000666538)_ |  |  |  |
+|  _Lecture (Jupyter Notebooks)[Part 2](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=57680476-c2d8-4d15-813f-ade0006684c0)_ |  |  |  |
+|  [3-5 Jupyter Notebooks](https://classroom.github.com/a/mEkI3--k) | 11/13 | 11/20 | 40 |
 |  **Module 4: Docker** |  |  |  |
 |  _Lecture (Docker)_ |  |  |  |
 |  4-0 Docker | 11/15 | 11/22 | 60 |
