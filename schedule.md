@@ -46,8 +46,10 @@ This class is logically divided into units to be completed over a seven-week tim
 |  _Lecture (Jupyter Notebooks) [Part 3](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d1ecf2ef-453f-4477-9aba-ade001315860)_ |  |  |  |
 |  [3-5 Jupyter Notebooks](https://classroom.github.com/a/mEkI3--k) | 11/13 | 11/20 | 40 |
 |  **Module 4: Docker** |  |  |  |
-|  _Lecture (Docker)_ |  |  |  |
-|  4-0 Docker | 11/15 | 11/22 | 60 |
+|  _Lecture (Docker) [Part 1](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6af3c251-fc52-48f1-8950-ade00153d47a)_ |  |  |  |
+|  _Lecture (Docker) [Part 2](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a567ebaa-91fc-4d1c-be18-ade00153d47e)_ |  |  |  |
+|  _Lecture (Docker) [Part 3 - VM Only](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c98fa9f7-1125-4b67-9708-ade00161fdac)_ |  |  |  |
+|  [4-0 Docker](https://classroom.github.com/a/l2XkkM4R) | 11/15 | 11/22 | 60 |
 |  _Lecture (Docker Compose)_ |  |  |  |
 |  4-1 Docker Compose | 11/16 | 11/23 | 40 |
 |  **Module 5: PostGIS** |  |  |  |
