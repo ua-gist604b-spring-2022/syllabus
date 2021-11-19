@@ -50,14 +50,14 @@ This class is logically divided into units to be completed over a seven-week tim
 |  _Lecture (Docker) [Part 2](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a567ebaa-91fc-4d1c-be18-ade00153d47e)_ |  |  |  |
 |  _Lecture (Docker) [Part 3 - VM Only](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c98fa9f7-1125-4b67-9708-ade00161fdac)_ |  |  |  |
 |  [4-0 Docker](https://classroom.github.com/a/l2XkkM4R) | 11/15 | 11/22 | 60 |
-|  _Lecture (Docker Compose)_ |  |  |  |
-|  4-1 Docker Compose | 11/16 | 11/23 | 40 |
 |  **Module 5: PostGIS** |  |  |  |
-|  _Lecture (Client-Server Architecture)_ |  |  |  |
-|  _Lecture (PostGIS)_ |  |  |  |
-|  5-0 PostGIS Intro | 11/17 | 11/24 | 40 |
-|  _Lecture (PostGIS Tutorial)_ |  |  |  |
-|  5-1 PostGIS OSM Data Load | 11/19 | 11/26 | 40 |
+|  _[Lecture (PostGIS Docker Setup)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=94896c0d-3bb6-4587-90ff-ade5004c8f4b)_ |  |  |  |
+|  [5-0 PostGIS Docker Setup](https://classroom.github.com/a/Ltw_mDLo) | 11/18 | 11/25 | 40 |
+|  _[Lecture (PostgreSQL Intro)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=909d3ccb-6090-4ef7-9957-ade50056bb35)_ |  |  |  |
+|  _[Lecture (PostGIS Intro)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f5a0fe6e-b1f8-475f-99ed-ade5005f60f0)_ |  |  |  |
+|  _[Lecture (PostGIS Intro Assignment)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=340dc04b-dcfa-4ac4-8a5f-ade500717f39)_ |  |  |  |
+|  [5-1 PostGIS Intro](https://classroom.github.com/a/BnBclPzj) | 11/18 | 11/25 | 40 |
+|  5-2 PostGIS OSM Data Load | 11/19 | 11/26 | 40 |
 |  **Module 6: Geoserver** |  |  |  |
 |  _Lecture (Geoserver)_ |  |  |  |
 |  6-0 Geoserver | 11/22 | 11/29 | 30 |
