@@ -56,11 +56,10 @@ This class is logically divided into units to be completed over a seven-week tim
 |  _[Lecture (PostgreSQL Intro)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=909d3ccb-6090-4ef7-9957-ade50056bb35)_ |  |  |  |
 |  _[Lecture (PostGIS Intro)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f5a0fe6e-b1f8-475f-99ed-ade5005f60f0)_ |  |  |  |
 |  _[Lecture (PostGIS Intro Assignment)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=340dc04b-dcfa-4ac4-8a5f-ade500717f39)_ |  |  |  |
-|  [5-1 PostGIS Intro](https://classroom.github.com/a/BnBclPzj) | 11/18 | 11/25 | 40 |
-|  5-2 PostGIS OSM Data Load | 11/19 | 11/26 | 40 |
+|  [5-1 PostGIS Intro](https://classroom.github.com/a/BnBclPzj) | 11/19| 11/26| 40 |
 |  **Module 6: Geoserver** |  |  |  |
 |  _Lecture (Geoserver)_ |  |  |  |
-|  6-0 Geoserver | 11/22 | 11/29 | 30 |
+|  6-0 Geoserver | 11/23 11/30 30 |
 |  _Lecture (PostGIS and Geoserver)_ |  |  |  |
 |  6-1 PostGIS and Geoserver | 11/24 | 12/1 | 40 |
 |  **Module 7: WebGIS** |  |  |  |
