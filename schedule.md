@@ -62,7 +62,7 @@ This class is logically divided into units to be completed over a seven-week tim
 |  [6-0 Geoserver Setup](https://classroom.github.com/a/uTL4e5gm) | 11/29 | 12/6 | 30 |
 |  [6-1 Geoserver Intro](https://classroom.github.com/a/uYSYVSu6) | 11/29 | 12/6 | 30 |
 |  _Lecture (PostGIS and Geoserver)_ |  |  |  |
-|  6-2 PostGIS and Geoserver | 11/30 | 12/8 | 40 |
+|  [6-2 PostGIS and Geoserver](https://classroom.github.com/a/ICp-SGYJ) | 11/30 | 12/8 | 40 |
 |  **Module 7: WebGIS** |  |  |  |
 |  _Lecture (Docker Compose with PostGIS, Geoserver, and Leaflet)_ |  |  |  |
 |  _Lecture (Leaflet GIS)_ |  |  |  |
