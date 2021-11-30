@@ -59,8 +59,8 @@ This class is logically divided into units to be completed over a seven-week tim
 |  [5-1 PostGIS Intro](https://classroom.github.com/a/BnBclPzj) | 11/19| 11/26| 40 |
 |  **Module 6: Geoserver** |  |  |  |
 |  _[Lecture (Geoserver Docker Setup)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=654e17cf-44f3-46f0-8823-adf0005de336)_ |  |  |  |
-|  [6-0 Geoserver Setup](https://classroom.github.com/a/uTL4e5gm) | 11/29 12/6 30 |
-|  [6-1 Geoserver Intro](https://classroom.github.com/a/uYSYVSu6) | 11/29 12/6 30 |
+|  [6-0 Geoserver Setup](https://classroom.github.com/a/uTL4e5gm) | 11/29 | 12/6 30 |
+|  [6-1 Geoserver Intro](https://classroom.github.com/a/uYSYVSu6) | 11/29 | 12/6 30 |
 |  _Lecture (PostGIS and Geoserver)_ |  |  |  |
 |  6-2 PostGIS and Geoserver | 11/30 | 12/8 | 40 |
 |  **Module 7: WebGIS** |  |  |  |
