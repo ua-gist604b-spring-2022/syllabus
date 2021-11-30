@@ -58,20 +58,16 @@ This class is logically divided into units to be completed over a seven-week tim
 |  _[Lecture (PostGIS Intro Assignment)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=340dc04b-dcfa-4ac4-8a5f-ade500717f39)_ |  |  |  |
 |  [5-1 PostGIS Intro](https://classroom.github.com/a/BnBclPzj) | 11/19| 11/26| 40 |
 |  **Module 6: Geoserver** |  |  |  |
-|  _Lecture (Geoserver)_ |  |  |  |
-|  6-0 Geoserver | 11/23 11/30 30 |
+|  _[Lecture (Geoserver Docker Setup)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=654e17cf-44f3-46f0-8823-adf0005de336)_ |  |  |  |
+|  [6-0 Geoserver Setup](https://classroom.github.com/a/uTL4e5gm) | 11/29 12/6 30 |
+|  [6-1 Geoserver Intro](https://classroom.github.com/a/uYSYVSu6) | 11/29 12/6 30 |
 |  _Lecture (PostGIS and Geoserver)_ |  |  |  |
-|  6-1 PostGIS and Geoserver | 11/24 | 12/1 | 40 |
+|  6-2 PostGIS and Geoserver | 11/30 | 12/8 | 40 |
 |  **Module 7: WebGIS** |  |  |  |
 |  _Lecture (Docker Compose with PostGIS, Geoserver, and Leaflet)_ |  |  |  |
 |  _Lecture (Leaflet GIS)_ |  |  |  |
-|  7-0 WebGIS - Leaflet I | 11/29 | 12/6 | 40 |
-|  7-1 WebGIS - Leaflet II | 11/30 | 12/7 | 40 |
-|  **Module 8: GDAL/OGR** |  |  |  |
-|  _Lecture (Docker Compose with PostGIS, Geoserver, and Leaflet)_ |  |  |  |
-|  _Lecture (Leaflet GIS)_ |  |  |  |
-|  8-0 GDAL | 12/1 | 12/8 | 40 |
-|  8-1 OGR | 12/1 | 12/8 | 40 |
+|  7-0 WebGIS - Leaflet I | 12/1 | 12/8 | 40 |
+|  7-1 WebGIS - Leaflet II | 12/1 | 12/8 | 40 |
 
 [VM Test](https://classroom.github.com/a/6mYiDRKm)
 
