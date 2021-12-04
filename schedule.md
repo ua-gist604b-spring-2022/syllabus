@@ -66,8 +66,7 @@ This class is logically divided into units to be completed over a seven-week tim
 |  **Module 7: WebGIS** |  |  |  |
 |  _Lecture (Docker Compose with PostGIS, Geoserver, and Leaflet)_ |  |  |  |
 |  _Lecture (Leaflet GIS)_ |  |  |  |
-|  7-0 WebGIS - Leaflet I | 12/1 | 12/8 | 40 |
-|  7-1 WebGIS - Leaflet II | 12/1 | 12/8 | 40 |
+|  [7-0 WebGIS](https://classroom.github.com/a/ZhslVqXK) - Leaflet I | 12/1 | 12/8 | 40 |
 
 [VM Test](https://classroom.github.com/a/6mYiDRKm)
 
