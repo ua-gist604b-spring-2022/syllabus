@@ -68,8 +68,6 @@ This class is logically divided into units to be completed over a seven-week tim
 |  **Module 8: Guest Unit** |  |  |  |
 |  [8-1 Mystery]() - Mystery | 4/28 | | 40 |
 
-[VM Test](https://classroom.github.com/a/6mYiDRKm)
-
 ## Official Dates
 See https://www.registrar.arizona.edu/dates-and-deadlines
 
