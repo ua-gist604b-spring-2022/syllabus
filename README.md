@@ -1,6 +1,6 @@
 # GIST604B Open Source GIS
-### Course starts: October 14, 2021
-### Course ends: December 8, 2021
+### Course starts: March 14, 2022
+### Course ends: May 4, 2022
 
 ## WELCOME!
 
@@ -19,32 +19,36 @@ Visit https://covid19.arizona.edu/updates for more updates.
 To be compatible with existing U of A infrastructure and protocols I will handle grades and some limited communication through *D2L* but the majority of the online interaction in this class will involve two different web services: *Slack* and *GitHub*. As a complement to in-class discussion, Slack will be used for chat as well as synchronous and asynchronous collaboration while GitHub will be used to handle assignments and interactions around assignments with the instructor.
 
 ### Class requirements
-The following are required in order to complete this class:
+All students:
+- Willingness to work with command line (Unix shell or Powershell)
+- Ability to think critically and figure things out when instructions are not clear
+
+Remote students: The following are required in order to complete this class remotely:
 - Computer with following specs:
   - >= 16 GB RAM
   - >= 100 GB Disk space
   - Ability to run docker (Windows Users see https://docs.docker.com/docker-for-windows/install/)
-- Willingness to work with command line (Unix shell or Powershell)
-- Ability to think critically and figure things out when instructions are not clear
 
-#### Software that will be installed over the course of the semester
+#### Software that will be installed over the course of the semester (Remote)
 - GitHub Desktop
 - QGIS Desktop
 - Docker Desktop
+- pgAdmin
+- Anaconda Navigator
 
 #### Accounts that you will make over the course of the semester
 - GitHub
 - Docker Hub
 
 ### Getting Started
-You may wonder how to get started. If you login to D2L you will find things a bit bare (The Syllabus is linked there but its home is https://github.com/ua-gist604b-fall-2021/syllabus). You have two initial setup steps to get configured to use the class:
+You may wonder how to get started. If you login to D2L you will find things a bit bare (The Syllabus is linked there but its home is https://github.com/ua-gist604b-spring-2022/syllabus). You have two initial setup steps to get configured to use the class:
 
 1) Sign up for Slack with [this link](https://join.slack.com/t/uagist/shared_invite/enQtNTI1MjMzNzAxOTA3LTM2ZmRmOTY0ZTk1YTRkOWEyYWNlN2Q2OTkxZDkzMzViODYyYTdiNWRmZTFiYzA5MTk0MWNiOWI5ZWE5ZTYwOTk)
 
 2) Create a GitHub.com account if you do not already have one with [this link](https://github.com/join). 
 
 3) Review this GitHub repository:
-  - https://github.com/ua-gist604b-fall-2021/syllabus
+  - https://github.com/ua-gist604b-spring-2022/syllabus
   You will see that it contains three files:
     - this document: [README.md](README.md) 
     - the syllabus: [syllabus.md](syllabus.md)
