@@ -4,7 +4,7 @@
 This class is logically divided into units to be completed over a seven-week time frame. All homework is due exactly one week after it is assigned. Note that the class builds on itself and content from early modules will be used in later modules.
 
 ### Key Dates (see https://catalog.arizona.edu/spring-2022-semester)
-- Class begins: January 12, 2022
+- Class begins: March 15, 2022
 - Last day of classes:  May 4, 2022
 
 |  **Name** | **Start Date** | **Due Date** | **Points** |
