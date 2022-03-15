@@ -42,11 +42,11 @@ This class is logically divided into units to be completed over a seven-week tim
 |  _Lecture (Jupyter Notebooks) [Part 1]_ |  |  |  |
 |  _Lecture (Jupyter Notebooks) [Part 2]_ |  |  |  |
 |  _Lecture (Jupyter Notebooks) [Part 3]_ |  |  |  |
-|  3-5 Jupyter Notebooks]() | 4/5 |  | 40 |
+|  3-5 Jupyter Notebooks | 4/5 |  | 40 |
 |  **Module 4: Docker** |  |  |  |
 |  _Lecture (Docker) [Part 1]_ |  |  |  |
 |  _Lecture (Docker) [Part 2]_ |  |  |  |
-|  4-0 Docker]() | 4/6 |  | 60 |
+|  4-0 Docker | 4/6 |  | 60 |
 |  **Module 5: PostGIS** |  |  |  |
 |  _Lecture (PostGIS Docker Setup)_ |  |  |  |
 |  5-0 PostGIS Docker Setup | 4/11 |  | 40 |
