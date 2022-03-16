@@ -10,7 +10,7 @@ This class is logically divided into units to be completed over a seven-week tim
 |  **Name** | **Start Date** | **Due Date** | **Points** |
 | --- | --- | --- | --- |
 |  **Module 0: Introduction and Open Source** |  |  |  |
-|  _Lecture (Introduction and Open Source)_ |  |  |  |
+|  _[Lecture (Introduction and Open Source)](https://arizona.zoom.us/rec/play/e9MudBgC-k27zuxMXBYK-9T8kzoNddXl7EglVMJ1Ky7PcHsNz9-8zL3Kkf8dqXiFhT0OeyiIZErQ18mp.f_en9TOmbMIuC6cI)_ |  |  |  |
 |  _Lecture (Module 0 Assignments)_ |  |  |  |
 |  [0-0 Slack - Remote Only](https://classroom.github.com/a/JFJL3_On) | 3/15 | | 10 |
 |  [0-1 Class Survey - Remote Only](https://classroom.github.com/a/HLKVnADy) | 3/15 | | 100 |
