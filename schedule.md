@@ -7,6 +7,8 @@ This class is logically divided into units to be completed over a seven-week tim
 - Class begins: March 15, 2022
 - Last day of classes:  May 4, 2022
 
+### Live lecture link: [https://arizona.zoom.us/j/85422983004](https://arizona.zoom.us/j/85422983004)
+
 |  **Name** | **Start Date** | **Due Date** | **Points** |
 | --- | --- | --- | --- |
 |  **Module 0: Introduction and Open Source** |  |  |  |
