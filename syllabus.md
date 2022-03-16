@@ -6,6 +6,7 @@
 ### Instructor: Dr. Aaryn Olsson 
 ### Email: aaryn@email.arizona.edu
 ### Availability by email and through slack
+### Live Lecture: [https://arizona.zoom.us/j/85422983004](https://arizona.zoom.us/j/85422983004)
 
 ## Course Description
 In this course you will learn about the open source software paradigm including how open source software is developed, released, and maintained. You will be introduced to three core open source GIS software technologies: QGIS, PostGIS, Geoserver, and OpenLayers
