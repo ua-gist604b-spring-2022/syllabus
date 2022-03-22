@@ -12,14 +12,13 @@ This class is logically divided into units to be completed over a seven-week tim
 |  **Name** | **Start Date** | **Due Date** | **Points** |
 | --- | --- | --- | --- |
 |  **Module 0: Introduction and Open Source** |  |  |  |
-|  _[Lecture (Introduction and Open Source)](https://arizona.zoom.us/rec/play/e9MudBgC-k27zuxMXBYK-9T8kzoNddXl7EglVMJ1Ky7PcHsNz9-8zL3Kkf8dqXiFhT0OeyiIZErQ18mp.f_en9TOmbMIuC6cI)_ |  |  |  |
-|  _Lecture (Module 0 Assignments)_ |  |  |  |
+|  _[Lecture 3/15 (Introduction and Open Source)](https://arizona.zoom.us/rec/play/e9MudBgC-k27zuxMXBYK-9T8kzoNddXl7EglVMJ1Ky7PcHsNz9-8zL3Kkf8dqXiFhT0OeyiIZErQ18mp.f_en9TOmbMIuC6cI)_ |  |  |  |
 |  [0-0 Slack - Remote Only](https://classroom.github.com/a/JFJL3_On) | 3/15 | | 10 |
 |  [0-1 Class Survey - Remote Only](https://classroom.github.com/a/HLKVnADy) | 3/15 | | 100 |
 |  [0-2 GitHub Hello](https://classroom.github.com/a/F91EweWk) | 3/15 | | 10 |
 |  [0-3 Open Source Discovery](https://classroom.github.com/a/RzIaaqRM) | 3/15 | | 20 |
 |  **Module 1: Git and SCM** |  |  |  |
-|  _Lecture (Git and SCM)_ |  |  |  |
+|  _[Lecture 3/17 (Git and SCM)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=780e3e9d-eb34-4987-8354-ae5c00284667)_ |  |  |  |
 |  [1-0 GitHub Branch](https://classroom.github.com/a/HV1k3ULZ) | 3/17 | | 20 |
 |  [1-1 GitHub Desktop](https://classroom.github.com/a/OIaQJYtX) | 3/17 | | 10 |
 |  **Module 2: QGIS** |  |  |  |
