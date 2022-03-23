@@ -23,12 +23,12 @@ This class is logically divided into units to be completed over a seven-week tim
 |  [1-1 GitHub Desktop](https://classroom.github.com/a/OIaQJYtX) | 3/17 | | 10 |
 |  **Module 2: QGIS** |  |  |  |
 |  _Lecture (QGIS)_ |  |  |  |
-|  2-0 QGIS Tutorials (Intro) | 3/22 |  | 30 |
+|  [2-0 QGIS Tutorials (Intro)](https://classroom.github.com/a/CB_2ZJPS) | 3/22 |  | 30 |
 |  _[Lecture (QGIS)_ |  |  |  |
-|  2-1 QGIS Hurricane Ida | 3/22 |  | 40 |
-|  2-2 QGIS Tutorials (Intermediate) | 3/22 |  | 30 |
-|  2-3 QGIS Tutorials (Advanced) | 3/22 | | 30 |
-|  2-4 QGIS Secret Mutant Hero Team | 3/22 | | 40 |
+|  [2-1 QGIS Hurricane](https://classroom.github.com/a/N08V0q66) | 3/22 |  | 40 |
+|  [2-2 QGIS Tutorials (Intermediate)](https://classroom.github.com/a/-EbJF5Ga) | 3/22 |  | 30 |
+|  [2-3 QGIS Tutorials (Advanced)](https://classroom.github.com/a/EQRXMkIV) | 3/22 | | 30 |
+|  [2-4 QGIS Secret Mutant Hero Team](https://classroom.github.com/a/8jHl7kOO) | 3/22 | | 40 |
 |  **Module 3: Python** |  |  |  |
 |  _Lecture (Python)_ |  |  |  |
 |  _Lecture (Python - Anaconda, Spyder and Pandas)_ |  |  |  |
