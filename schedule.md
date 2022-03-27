@@ -29,20 +29,19 @@ This class is logically divided into units to be completed over a seven-week tim
 |  [2-3 QGIS Tutorials (Advanced)](https://classroom.github.com/a/EQRXMkIV) | 3/22 | | 30 |
 |  [2-4 QGIS Secret Mutant Hero Team](https://classroom.github.com/a/8jHl7kOO) | 3/22 | | 40 |
 |  **Module 3: Python** |  |  |  |
-|  _Lecture (Python)_ |  |  |  |
-|  _Lecture (Python - Anaconda, Spyder and Pandas)_ |  |  |  |
-|  3-0 Python Pandas | 3/29 |  | 40 |
-|  _Lecture (Python GIS - GeoPandas)_ |  |  |  |
-|  3-1 Python GeoPandas Intro | 3/29 | | 40 |
-|  3-2 Python GeoPandas Join | 3/31 |  | 40 |
-|  _Lecture (Python GIS - Rasterio)_ |  |  |  |
-|  3-3 Python Rasterio | 3/31 | | 40 |
-|  _Lecture (Python GIS - Rasterstats)_ |  |  |  |
-|  3-4 Python Rasterstats | 4/5 |  | 40 |
-|  _Lecture (Jupyter Notebooks) [Part 1]_ |  |  |  |
-|  _Lecture (Jupyter Notebooks) [Part 2]_ |  |  |  |
-|  _Lecture (Jupyter Notebooks) [Part 3]_ |  |  |  |
-|  3-5 Jupyter Notebooks | 4/5 |  | 40 |
+|  _[Lecture (Python)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=83304fba-424f-430f-87e1-adcc00448e6e)_ |  |  |  |
+|  _[Lecture (Python - Anaconda, Spyder and Pandas)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=724a9842-c1d7-462b-be0c-add4004b113e)_ |  |  |  |
+|  [3-0 Python Pandas](https://classroom.github.com/a/_jcebcb-) | 3/29 |  | 40 |
+|  _[Lecture (Python GIS - GeoPandas)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=98d80d3b-6c09-4734-b520-add5006228ad)_ |  |  |  |
+|  [3-1 Python GeoPandas Intro](https://classroom.github.com/a/sMInJWmS) | 3/29 | | 40 |
+|  [3-2 Python GeoPandas Join](https://classroom.github.com/a/Dq5IKYPj) | 3/31 |  | 40 |
+|  _[Lecture (Python GIS - Rasterio)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9ce148fe-a9c5-4db4-b30a-adda004f64f0)_ |  |  |  |
+|  [3-3 Python Rasterio](https://classroom.github.com/a/dEARx1fn) | 3/31 | | 40 |
+|  _[Lecture (Python GIS - Rasterstats)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f9276c68-2ad1-4d61-81fe-addd00675de5)_ |  |  |  |
+|  [3-4 Python Rasterstats](https://classroom.github.com/a/pjrD95yD) | 4/5 |  | 40 |
+|  _[Lecture (Jupyter Notebooks) [Part 1]](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=83058cd5-b723-44ef-a403-ade000666538)_ |  |  |  |
+|  _[Lecture (Jupyter Notebooks) [Part 2]](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=57680476-c2d8-4d15-813f-ade0006684c0)_ |  |  |  |
+|  [3-5 Jupyter Notebooks](https://classroom.github.com/a/cWn5D9dy) | 4/5 |  | 40 |
 |  **Module 4: Docker** |  |  |  |
 |  _Lecture (Docker) [Part 1]_ |  |  |  |
 |  _Lecture (Docker) [Part 2]_ |  |  |  |
