@@ -30,6 +30,7 @@ This class is logically divided into units to be completed over a seven-week tim
 |  [2-3 QGIS Tutorials (Advanced)](https://classroom.github.com/a/EQRXMkIV) | 3/22 | | 30 |
 |  [2-4 QGIS Secret Mutant Hero Team](https://classroom.github.com/a/8jHl7kOO) | 3/22 | | 40 |
 |  **Module 3: Python** |  |  |  |
+|  _[Lecture 3/29 (Python)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0dd631d5-4022-422c-89c8-ae680036907b)_ |  |  |  |
 |  _[Lecture (Python)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=83304fba-424f-430f-87e1-adcc00448e6e)_ |  |  |  |
 |  _[Lecture (Python - Anaconda, Spyder and Pandas)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=724a9842-c1d7-462b-be0c-add4004b113e)_ |  |  |  |
 |  [3-0 Python Pandas](https://classroom.github.com/a/_jcebcb-) | 3/29 |  | 40 |
