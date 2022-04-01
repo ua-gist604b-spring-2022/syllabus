@@ -37,6 +37,7 @@ This class is logically divided into units to be completed over a seven-week tim
 |  _[Lecture (Python GIS - GeoPandas)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=98d80d3b-6c09-4734-b520-add5006228ad)_ |  |  |  |
 |  [3-1 Python GeoPandas Intro](https://classroom.github.com/a/sMInJWmS) | 3/29 | | 40 |
 |  [3-2 Python GeoPandas Join](https://classroom.github.com/a/Dq5IKYPj) | 3/31 |  | 40 |
+|  [Lecture 3/31 (Python)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7b2090b5-65d7-434b-8645-ae6a00329439) | 3/31 |  | 40 |
 |  _[Lecture (Python GIS - Rasterio)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9ce148fe-a9c5-4db4-b30a-adda004f64f0)_ |  |  |  |
 |  [3-3 Python Rasterio](https://classroom.github.com/a/dEARx1fn) | 3/31 | | 40 |
 |  _[Lecture (Python GIS - Rasterstats)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f9276c68-2ad1-4d61-81fe-addd00675de5)_ |  |  |  |
