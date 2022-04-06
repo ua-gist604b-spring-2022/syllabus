@@ -19,56 +19,56 @@ This class is logically divided into units to be completed over a seven-week tim
 |  [0-3 Open Source Discovery](https://classroom.github.com/a/RzIaaqRM) | 3/15 | | 20 |
 |  **Module 1: Git and SCM** |  |  |  |
 |  _[Lecture 3/17 (Git and SCM)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=780e3e9d-eb34-4987-8354-ae5c00284667)_ |  |  |  |
-|  [1-0 GitHub Branch](https://classroom.github.com/a/HV1k3ULZ) | 3/17 | | 20 |
-|  [1-1 GitHub Desktop](https://classroom.github.com/a/OIaQJYtX) | 3/17 | | 10 |
+|  [1-0 GitHub Branch](https://classroom.github.com/a/HV1k3ULZ) | 3/17 | 4/12 | 20 |
+|  [1-1 GitHub Desktop](https://classroom.github.com/a/OIaQJYtX) | 3/17 | 4/12 | 10 |
 |  **Module 2: QGIS** |  |  |  |
 |  _[Lecture 3/22 (QGIS)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=02494902-a98b-4538-8534-ae61003ac769)_ |  |  |  |
 |  _[Lecture 3/24 (QGIS)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2e596e6a-ff1d-45d7-8606-ae6300269475)_ |  |  |  |
-|  [2-0 QGIS Tutorials (Intro)](https://classroom.github.com/a/CB_2ZJPS) | 3/22 |  | 30 |
-|  [2-1 QGIS Hurricane](https://classroom.github.com/a/N08V0q66) | 3/22 |  | 40 |
-|  [2-2 QGIS Tutorials (Intermediate)](https://classroom.github.com/a/-EbJF5Ga) | 3/22 |  | 30 |
-|  [2-3 QGIS Tutorials (Advanced)](https://classroom.github.com/a/EQRXMkIV) | 3/22 | | 30 |
-|  [2-4 QGIS Secret Mutant Hero Team](https://classroom.github.com/a/8jHl7kOO) | 3/22 | | 40 |
+|  [2-0 QGIS Tutorials (Intro)](https://classroom.github.com/a/CB_2ZJPS) | 3/22 |  4/12 | 30 |
+|  [2-1 QGIS Hurricane](https://classroom.github.com/a/N08V0q66) | 3/22 |  4/12 | 40 |
+|  [2-2 QGIS Tutorials (Intermediate)](https://classroom.github.com/a/-EbJF5Ga) | 3/22 |  4/12 | 30 |
+|  [2-3 QGIS Tutorials (Advanced)](https://classroom.github.com/a/EQRXMkIV) | 3/22 | 4/12 | 30 |
+|  [2-4 QGIS Secret Mutant Hero Team](https://classroom.github.com/a/8jHl7kOO) | 3/22 | 4/12 | 40 |
 |  **Module 3: Python** |  |  |  |
 |  _[Lecture 3/29 (Python)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0dd631d5-4022-422c-89c8-ae680036907b)_ |  |  |  |
 |  _[Lecture (Python)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=83304fba-424f-430f-87e1-adcc00448e6e)_ |  |  |  |
 |  _[Lecture (Python - Anaconda, Spyder and Pandas)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=724a9842-c1d7-462b-be0c-add4004b113e)_ |  |  |  |
-|  [3-0 Python Pandas](https://classroom.github.com/a/_jcebcb-) | 3/29 |  | 40 |
+|  [3-0 Python Pandas](https://classroom.github.com/a/_jcebcb-) | 3/29 |  4/12 | 40 |
 |  _[Lecture (Python GIS - GeoPandas)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=98d80d3b-6c09-4734-b520-add5006228ad)_ |  |  |  |
-|  [3-1 Python GeoPandas Intro](https://classroom.github.com/a/sMInJWmS) | 3/29 | | 40 |
-|  [3-2 Python GeoPandas Join](https://classroom.github.com/a/Dq5IKYPj) | 3/31 |  | 40 |
+|  [3-1 Python GeoPandas Intro](https://classroom.github.com/a/sMInJWmS) | 3/29 | 4/12 | 40 |
+|  [3-2 Python GeoPandas Join](https://classroom.github.com/a/Dq5IKYPj) | 3/31 |  4/12 | 40 |
 |  [Lecture 3/31 (Python)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7b2090b5-65d7-434b-8645-ae6a00329439) | 3/31 |  | 40 |
 |  _[Lecture (Python GIS - Rasterio)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9ce148fe-a9c5-4db4-b30a-adda004f64f0)_ |  |  |  |
-|  [3-3 Python Rasterio](https://classroom.github.com/a/dEARx1fn) | 3/31 | | 40 |
+|  [3-3 Python Rasterio - READ ONLY (NOT DUE)](https://classroom.github.com/a/dEARx1fn) | 3/31 | 4/12 | 0 |
 |  _[Lecture (Python GIS - Rasterstats)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f9276c68-2ad1-4d61-81fe-addd00675de5)_ |  |  |  |
-|  [3-4 Python Rasterstats](https://classroom.github.com/a/pjrD95yD) | 4/5 |  | 40 |
+|  [3-4 Python Rasterstats](https://classroom.github.com/a/pjrD95yD) | 4/5 | 4/12 | 40 |
 |  _[Lecture (Jupyter Notebooks) [Part 1]](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=83058cd5-b723-44ef-a403-ade000666538)_ |  |  |  |
 |  _[Lecture (Jupyter Notebooks) [Part 2]](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=57680476-c2d8-4d15-813f-ade0006684c0)_ |  |  |  |
-|  [3-5 Jupyter Notebooks](https://classroom.github.com/a/cWn5D9dy) | 4/5 |  | 40 |
+|  [3-5 Jupyter Notebooks](https://classroom.github.com/a/cWn5D9dy) | 4/5 | 4/12 | 40 |
 |  **Module 4: Docker** |  |  |  |
 |  _Lecture (Docker) [Part 1]_ |  |  |  |
 |  _Lecture (Docker) [Part 2]_ |  |  |  |
-|  4-0 Docker | 4/6 |  | 60 |
+|  4-0 Docker | 4/6 | 4/13 | 60 |
 |  **Module 5: PostGIS** |  |  |  |
 |  _Lecture (PostGIS Docker Setup)_ |  |  |  |
-|  5-0 PostGIS Docker Setup | 4/11 |  | 40 |
+|  5-0 PostGIS Docker Setup | 4/11 | 4/18  | 40 |
 |  _Lecture (PostgreSQL Intro)_ |  |  |  |
 |  _Lecture (PostGIS Intro)_ |  |  |  |
 |  _Lecture (PostGIS Intro Assignment)_ |  |  |  |
-|  5-1 PostGIS Intro]() | 4/11| | 40 |
+|  5-1 PostGIS Intro]() | 4/11| 4/18 | 40 |
 |  **Module 6: Geoserver** |  |  |  |
 |  _Lecture (Geoserver Docker Setup)_ |  |  |  |
-|  6-0 Geoserver Setup | 4/16 |  | 30 |
-|  6-1 Geoserver Intro | 4/16| | 30 |
+|  6-0 Geoserver Setup | 4/16 | 4/23 | 30 |
+|  6-1 Geoserver Intro | 4/16| 4/23 | 30 |
 |  _Lecture (PostGIS and Geoserver)_ |  |  |  |
-|  6-2 PostGIS and Geoserver | 4/20| | 40 |
+|  6-2 PostGIS and Geoserver | 4/20| 4/27 | 40 |
 |  **Module 7: WebGIS** |  |  |  |
 |  _Lecture (Docker Compose with PostGIS, Geoserver, and Leaflet)_ |  |  |  |
 |  _Lecture (Leaflet GIS)_ |  |  |  |
-|  7-0 WebGIS - Leaflet I | 4/25 | | 40 |
-|  7-1 WebGIS - Leaflet II | 4/25 | | 40 |
-|  **Module 8: Guest Unit** |  |  |  |
-|  8-1 Mystery - Mystery | 4/26 | | 40 |
+|  7-0 WebGIS - Leaflet I | 4/25 | 5/1 | 40 |
+|  7-1 WebGIS - Leaflet II | 4/25 | 5/1 | 40 |
+|  **Module 8: Mystery Unit** |  |  |  |
+|  8-1 Mystery - Mystery | 4/27 |5/3  | 40 |
 
 ## Official Dates
 See https://www.registrar.arizona.edu/dates-and-deadlines
