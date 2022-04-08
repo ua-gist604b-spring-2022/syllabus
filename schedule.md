@@ -47,29 +47,28 @@ This class is logically divided into units to be completed over a seven-week tim
 |  [Lecture 4/5 (Jupyter)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2df8cbda-437b-4602-9b33-ae6f00464a7e) |  |  |  |
 |  [3-5 Jupyter Notebooks](https://classroom.github.com/a/cWn5D9dy) | 4/5 | 4/12 | 40 |
 |  **Module 4: Docker** |  |  |  |
-|  _Lecture (Docker) [Part 1]_ |  |  |  |
-|  _Lecture (Docker) [Part 2]_ |  |  |  |
-|  4-0 Docker | 4/6 | 4/13 | 60 |
-|  **Module 5: PostGIS** |  |  |  |
+|  _Lecture (Docker)_ |  |  |  |
+|  [4-0 Docker](https://classroom.github.com/a/v-jRsy7E) | 4/7 | 4/13 | 60 |
+|  **Module 5: Mystery Unit** |  |  |  |
+|  5-0 Mystery - Mystery | 4/12 |4/19  | 40 |
+|  **Module 6: PostGIS** |  |  |  |
 |  _Lecture (PostGIS Docker Setup)_ |  |  |  |
-|  5-0 PostGIS Docker Setup | 4/11 | 4/18  | 40 |
+|  6-0 PostGIS Docker Setup | 4/14 | 4/21  | 40 |
 |  _Lecture (PostgreSQL Intro)_ |  |  |  |
 |  _Lecture (PostGIS Intro)_ |  |  |  |
 |  _Lecture (PostGIS Intro Assignment)_ |  |  |  |
-|  5-1 PostGIS Intro]() | 4/11| 4/18 | 40 |
-|  **Module 6: Geoserver** |  |  |  |
+|  6-1 PostGIS Intro]() | 4/14| 4/21 | 40 |
+|  **Module 7: Geoserver** |  |  |  |
 |  _Lecture (Geoserver Docker Setup)_ |  |  |  |
-|  6-0 Geoserver Setup | 4/16 | 4/23 | 30 |
-|  6-1 Geoserver Intro | 4/16| 4/23 | 30 |
+|  7-0 Geoserver Setup | 4/19 | 4/23 | 30 |
+|  7-1 Geoserver Intro | 4/19| 4/23 | 30 |
 |  _Lecture (PostGIS and Geoserver)_ |  |  |  |
-|  6-2 PostGIS and Geoserver | 4/20| 4/27 | 40 |
-|  **Module 7: WebGIS** |  |  |  |
+|  7-2 PostGIS and Geoserver | 4/21| 4/27 | 40 |
+|  **Module 8: WebGIS** |  |  |  |
 |  _Lecture (Docker Compose with PostGIS, Geoserver, and Leaflet)_ |  |  |  |
 |  _Lecture (Leaflet GIS)_ |  |  |  |
-|  7-0 WebGIS - Leaflet I | 4/25 | 5/1 | 40 |
-|  7-1 WebGIS - Leaflet II | 4/25 | 5/1 | 40 |
-|  **Module 8: Mystery Unit** |  |  |  |
-|  8-1 Mystery - Mystery | 4/27 |5/3  | 40 |
+|  8-0 WebGIS - Leaflet I | 4/26 | 5/2 | 40 |
+|  8-1 WebGIS - Leaflet II | 4/26 | 5/2 | 40 |
 
 ## Official Dates
 See https://www.registrar.arizona.edu/dates-and-deadlines
