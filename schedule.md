@@ -47,7 +47,7 @@ This class is logically divided into units to be completed over a seven-week tim
 |  [Lecture 4/5 (Jupyter)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2df8cbda-437b-4602-9b33-ae6f00464a7e) |  |  |  |
 |  [3-5 Jupyter Notebooks](https://classroom.github.com/a/cWn5D9dy) | 4/5 | 4/12 | 40 |
 |  **Module 4: Docker** |  |  |  |
-|  _Lecture (Docker)_ |  |  |  |
+|  _[Lecture (Docker)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=80d76503-31e9-4ecb-a925-ae71004e3dd2)_ |  |  |  |
 |  [4-0 Docker](https://classroom.github.com/a/v-jRsy7E) | 4/7 | 4/13 | 60 |
 |  **Module 5: Mystery Unit** |  |  |  |
 |  5-0 Mystery - Mystery | 4/12 |4/19  | 40 |
