@@ -49,7 +49,8 @@ This class is logically divided into units to be completed over a seven-week tim
 |  **Module 4: Docker** |  |  |  |
 |  _[Lecture (Docker)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=80d76503-31e9-4ecb-a925-ae71004e3dd2)_ |  |  |  |
 |  [4-0 Docker](https://classroom.github.com/a/v-jRsy7E) | 4/7 | 4/13 | 60 |
-|  **Module 5: Mystery Unit** |  |  |  |
+|  **Module 5: Mystery Unit: Google Earth Engine** |  |  |  |
+|  _[Guest Lecture (Google Earth Engine)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=11afc87b-6d27-4085-a52c-ae760068b57a)_ |  |  |  |
 |  [5-0 Google Earth Engine](https://classroom.github.com/a/ZpJacK1Z) | 4/12 |4/19  | 40 |
 |  **Module 6: PostGIS** |  |  |  |
 |  _Lecture (PostGIS Docker Setup)_ |  |  |  |
