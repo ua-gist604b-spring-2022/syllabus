@@ -54,11 +54,11 @@ This class is logically divided into units to be completed over a seven-week tim
 |  [5-0 Google Earth Engine](https://classroom.github.com/a/ZpJacK1Z) | 4/12 |4/19  | 40 |
 |  **Module 6: PostGIS** |  |  |  |
 |  _Lecture (PostGIS Docker Setup)_ |  |  |  |
-|  6-0 PostGIS Docker Setup | 4/14 | 4/21  | 40 |
+|  [6-0 PostGIS Docker Setup](https://classroom.github.com/a/7oQc3gXe) | 4/14 | 4/21  | 40 |
 |  _Lecture (PostgreSQL Intro)_ |  |  |  |
 |  _Lecture (PostGIS Intro)_ |  |  |  |
 |  _Lecture (PostGIS Intro Assignment)_ |  |  |  |
-|  6-1 PostGIS Intro]() | 4/14| 4/21 | 40 |
+|  [6-1 PostGIS Intro](https://classroom.github.com/a/TGj_FAM9) | 4/14| 4/21 | 40 |
 |  **Module 7: Geoserver** |  |  |  |
 |  _Lecture (Geoserver Docker Setup)_ |  |  |  |
 |  7-0 Geoserver Setup | 4/19 | 4/23 | 30 |
