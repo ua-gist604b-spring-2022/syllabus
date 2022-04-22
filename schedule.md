@@ -58,17 +58,17 @@ This class is logically divided into units to be completed over a seven-week tim
 |  [6-1 PostGIS Intro](https://classroom.github.com/a/TGj_FAM9) | 4/14| 4/21 | 40 |
 |  [6-2 PostGIS OSM Load](https://classroom.github.com/a/87hC7Ws7) | 4/19| 4/26 | 40 |
 |  **Module 7: Geoserver** |  |  |  |
-|  _Lecture (Geoserver Docker Setup)_ |  |  |  |
-|  7-0 Geoserver Setup | 4/21 | 4/28 | 30 |
-|  7-1 Geoserver Intro | 4/21| 4/28 | 30 |
-|  _Lecture (PostGIS and Geoserver)_ |  |  |  |
-|  7-2 PostGIS and Geoserver | 4/23| 4/30 | 40 |
+|  _Lecture (Geoserver, Docker, Docker Compose)_ |  |  |  |
+|  [7-0 Geoserver Docker Setup](https://classroom.github.com/a/lI8H1joK) | 4/21| 4/28 | 30 |
+|  [7-1 Geoserver Intro](https://classroom.github.com/a/-Ye_2-6F) | 4/21| 4/28 | 30 |
+|  [7-2 Geoserver Setup](https://classroom.github.com/a/Hq5oQYQX) | 4/21 | 4/28 | 30 |
+|  [7-3 PostGIS and Geoserver](https://classroom.github.com/a/gSD2_o7U) | 4/21| 4/28 | 40 |
 |  **Module 8: WebGIS** |  |  |  |
 |  _Lecture (Docker Compose with PostGIS, Geoserver, and Leaflet)_ |  |  |  |
 |  _Lecture (Leaflet GIS)_ |  |  |  |
-|  8-0 WebGIS - Leaflet I | 4/26 | 5/2 | 40 |
-|  8-1 WebGIS - II | 4/26 | 5/2 | 40 |
-|  8-2 WebGIS - III | 4/28 | 5/4 | 40 |
+|  8-0 WebGIS - Leaflet I | 4/25 | 5/2 | 40 |
+|  8-1 WebGIS - II | 4/25 | 5/2 | 40 |
+|  8-2 WebGIS - III | 4/27 | 5/4 | 40 |
 
 ## Official Dates
 See https://www.registrar.arizona.edu/dates-and-deadlines
