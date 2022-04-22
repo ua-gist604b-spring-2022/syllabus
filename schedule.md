@@ -53,9 +53,10 @@ This class is logically divided into units to be completed over a seven-week tim
 |  _[Guest Lecture (Google Earth Engine)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=11afc87b-6d27-4085-a52c-ae760068b57a)_ |  |  |  |
 |  [5-0 Google Earth Engine](https://classroom.github.com/a/ZpJacK1Z) | 4/12 |4/19  | 40 |
 |  **Module 6: PostGIS** |  |  |  |
-|  _[Lecture (PostGIS Docker Setup and Intro)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b5e883bb-916a-483e-9017-ae780047af6f)_ |  |  |  |
+|  _[Lecture (PostGIS Docker Setup)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b5e883bb-916a-483e-9017-ae780047af6f)_ |  |  |  |
 |  [6-0 PostGIS Docker Setup](https://classroom.github.com/a/7oQc3gXe) | 4/14 | 4/21  | 40 |
 |  [6-1 PostGIS Intro](https://classroom.github.com/a/TGj_FAM9) | 4/14| 4/21 | 40 |
+|  _[Lecture (PostGIS Intro)]https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a4a56894-2784-458f-8588-ae7d00668c20)_ |  |  |  |
 |  [6-2 PostGIS OSM Load](https://classroom.github.com/a/87hC7Ws7) | 4/19| 4/26 | 40 |
 |  **Module 7: Geoserver** |  |  |  |
 |  _Lecture (Geoserver, Docker, Docker Compose)_ |  |  |  |
