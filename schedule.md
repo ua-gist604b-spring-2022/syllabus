@@ -59,7 +59,7 @@ This class is logically divided into units to be completed over a seven-week tim
 |  _[Lecture (PostGIS Intro)]https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a4a56894-2784-458f-8588-ae7d00668c20)_ |  |  |  |
 |  [6-2 PostGIS OSM Load](https://classroom.github.com/a/87hC7Ws7) | 4/19| 4/26 | 40 |
 |  **Module 7: Geoserver** |  |  |  |
-|  _Lecture (Geoserver, Docker, Docker Compose)_ |  |  |  |
+|  _[Lecture (Geoserver, Docker, Docker Compose)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8e5a0cf3-523d-4f1a-adb5-ae7f00439ab9)_ |  |  |  |
 |  [7-0 Geoserver Docker Setup](https://classroom.github.com/a/lI8H1joK) | 4/21| 4/28 | 30 |
 |  [7-1 Geoserver Intro](https://classroom.github.com/a/-Ye_2-6F) | 4/21| 4/28 | 30 |
 |  [7-2 Geoserver Docker Compose Setup](https://classroom.github.com/a/Hq5oQYQX) | 4/21 | 4/28 | 30 |
