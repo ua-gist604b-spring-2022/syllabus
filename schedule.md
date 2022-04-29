@@ -69,11 +69,8 @@ This class is logically divided into units to be completed over a seven-week tim
 |  [6-3 PostGIS and OSM with style](https://classroom.github.com/a/aYRK2LQt) | 4/26| 5/2 | 40 |
 |  [7-5 Geoserver and OSM with style](https://classroom.github.com/a/jbXlUm_S) | 4/28| 5/4 | 40 |
 |  **Module 8: WebGIS** |  |  |  |
-|  _Lecture (Docker Compose with PostGIS, Geoserver, and Leaflet)_ |  |  |  |
 |  _Lecture (Leaflet GIS)_ |  |  |  |
-|  8-0 WebGIS - Leaflet I | 4/25 | 5/2 | 40 |
-|  8-1 WebGIS - II | 4/25 | 5/2 | 40 |
-|  8-2 WebGIS - III | 4/27 | 5/4 | 40 |
+|  8-0 WebGIS - Leaflet I | 4/30 | 5/6 | 40 |
 
 ## Official Dates
 See https://www.registrar.arizona.edu/dates-and-deadlines
