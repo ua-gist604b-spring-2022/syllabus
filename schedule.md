@@ -67,6 +67,8 @@ This class is logically divided into units to be completed over a seven-week tim
 |  **Module 6 and 7 revisited: PostGIS and OSM with nice styling** |  |  |  |
 |  _[Lecture (PostGIS and OSM with style)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=26e2e3b7-2666-4b33-aa97-ae8400523292)_ |  |  |  |
 |  [6-3 PostGIS and OSM with style](https://classroom.github.com/a/aYRK2LQt) | 4/26| 5/2 | 40 |
+|  _[Lecture (Geoserver and OSM with style)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a85f77c6-e571-4228-8b81-ae8600347ca6
+)_ |  |  |  |
 |  [7-5 Geoserver and OSM with style](https://classroom.github.com/a/jbXlUm_S) | 4/28| 5/4 | 40 |
 |  **Module 8: WebGIS** |  |  |  |
 |  _Lecture (Leaflet GIS)_ |  |  |  |
