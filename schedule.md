@@ -56,7 +56,7 @@ This class is logically divided into units to be completed over a seven-week tim
 |  _[Lecture (PostGIS Docker Setup)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b5e883bb-916a-483e-9017-ae780047af6f)_ |  |  |  |
 |  [6-0 PostGIS Docker Setup](https://classroom.github.com/a/7oQc3gXe) | 4/14 | 4/21  | 40 |
 |  [6-1 PostGIS Intro](https://classroom.github.com/a/TGj_FAM9) | 4/14| 4/21 | 40 |
-|  _[Lecture (PostGIS Intro)]https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a4a56894-2784-458f-8588-ae7d00668c20)_ |  |  |  |
+|  _[Lecture (PostGIS Intro)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a4a56894-2784-458f-8588-ae7d00668c20)_ |  |  |  |
 |  [6-2 PostGIS OSM Load](https://classroom.github.com/a/87hC7Ws7) | 4/19| 4/26 | 40 |
 |  **Module 7: Geoserver** |  |  |  |
 |  _[Lecture (Geoserver, Docker, Docker Compose)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8e5a0cf3-523d-4f1a-adb5-ae7f00439ab9)_ |  |  |  |
@@ -67,8 +67,7 @@ This class is logically divided into units to be completed over a seven-week tim
 |  **Module 6 and 7 revisited: PostGIS and OSM with nice styling** |  |  |  |
 |  _[Lecture (PostGIS and OSM with style)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=26e2e3b7-2666-4b33-aa97-ae8400523292)_ |  |  |  |
 |  [6-3 PostGIS and OSM with style](https://classroom.github.com/a/aYRK2LQt) | 4/26| 5/2 | 40 |
-|  _[Lecture (Geoserver and OSM with style)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a85f77c6-e571-4228-8b81-ae8600347ca6
-)_ |  |  |  |
+|  _[Lecture (Geoserver and OSM with style)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a85f77c6-e571-4228-8b81-ae8600347ca6)_ |  |  |  |
 |  [7-5 Geoserver and OSM with style](https://classroom.github.com/a/jbXlUm_S) | 4/28| 5/4 | 40 |
 |  **Module 8: WebGIS** |  |  |  |
 |  _Lecture (Leaflet GIS)_ |  |  |  |
