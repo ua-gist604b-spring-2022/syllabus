@@ -71,7 +71,7 @@ This class is logically divided into units to be completed over a seven-week tim
 |  [7-5 Geoserver and OSM with style](https://classroom.github.com/a/jbXlUm_S) | 4/28| 5/4 | 40 |
 |  **Module 8: WebGIS** |  |  |  |
 |  _Lecture (Leaflet GIS)_ |  |  |  |
-|  8-0 WebGIS - Leaflet I | 4/30 | 5/6 | 40 |
+|  [8-0 WebGIS - Leaflet](https://classroom.github.com/a/q2gk8qZh) | 4/30 | 5/6 | 40 |
 
 ## Official Dates
 See https://www.registrar.arizona.edu/dates-and-deadlines
