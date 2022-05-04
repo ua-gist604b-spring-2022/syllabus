@@ -70,7 +70,7 @@ This class is logically divided into units to be completed over a seven-week tim
 |  _[Lecture (Geoserver and OSM with style)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a85f77c6-e571-4228-8b81-ae8600347ca6)_ |  |  |  |
 |  [7-5 Geoserver and OSM with style](https://classroom.github.com/a/jbXlUm_S) | 4/28| 5/4 | 40 |
 |  **Module 8: WebGIS** |  |  |  |
-|  _Lecture (Leaflet GIS)_ |  |  |  |
+|  _[Lecture (Leaflet GIS)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9374e280-5574-4a82-b36d-ae8b002fdd58&start=0)_ |  |  |  |
 |  [8-0 WebGIS - Leaflet](https://classroom.github.com/a/q2gk8qZh) | 4/30 | 5/6 | 40 |
 
 ## Official Dates
