@@ -15,59 +15,60 @@ This class is logically divided into units to be completed over a seven-week tim
 | --- | --- | --- | ---  |
 |  **Module 0: Introduction and Open Source** |  |  |  |
 |  _Lecture 10/13 (Introduction, Open Source, and Source Code Management)_ |  |  |  |
-|  [0-0 Slack - Remote Only]() | 3/15 | | 10 |
-|  [0-1 Class Survey - Remote Only]() | 3/15 | | 100 |
-|  [0-2 GitHub Hello]() | 3/15 | | 10 |
-|  [0-3 Open Source Discovery]() | 3/15 | | 20 |
+|  [0-0 Slack](https://classroom.github.com/a/-vQyIauc) | 10/13 | 10/20 | 10 |
+|  [0-1 Class Survey](https://classroom.github.com/a/22novpzT) | 10/13 | 10/20 | 100 |
+|  [0-2 GitHub Hello](https://classroom.github.com/a/p96kZEe_) | 10/13 | 10/20 | 10 |
+|  [0-3 Open Source Discovery](https://classroom.github.com/a/_n85A30y) | 10/13 | 10/20 | 20 |
 |  **Module 1: Git and SCM** |  |  |  |
-|  [1-0 GitHub Branch]() | 3/17 | 4/12 | 20 |
-|  [1-1 GitHub Desktop]() | 3/17 | 4/12 | 10 |
+|  [1-0 GitHub Branch](https://classroom.github.com/a/4yzs2Cqo) | 10/13 | 10/20 | 20 |
+|  [1-1 GitHub Desktop](https://classroom.github.com/a/RZBgqpGL) | 10/13 | 10/20 | 10 |
 |  **Module 2: QGIS** |  |  |  |
 |  _Lecture 10/18 (QGIS)_ |  |  |  |
 |  _Lecture 10/20 (QGIS)_ |  |  |  |
-|  2-0 QGIS Tutorials (Intro) | 3/22 |  4/12 | 30 |
-|  2-1 QGIS Hurricane | 3/22 |  4/12 | 40 |
-|  2-2 QGIS Tutorials (Intermediate) | 3/22 |  4/12 | 30 |
-|  2-3 QGIS Tutorials (Advanced) | 3/22 | 4/12 | 30 |
-|  2-4 QGIS Secret Mutant Hero Team | 3/22 | 4/12 | 40 |
+|  2-0 QGIS Tutorials (Intro) | 10/18 | 10/25 | 30 |
+|  2-1 QGIS Tutorials (Intermediate) | 10/25 |  4/12 | 30 |
+|  2-2 QGIS Tutorials (Advanced) | 10/18 | 10/25 | 30 |
+|  2-3 QGIS Hurricane | 10/18 |  10/25 | 40 |
+|  2-4 QGIS Secret Mutant Hero Team | 10/18 | 10/25 | 40 |
 |  **Module 3: Python** |  |  |  |
+|  1-2 Codespace Intro | 10/25 | 11/1 | 10 |
 |  _Lecture 10/25 (Python)_ |  |  |  |
-|  3-0 Python Pandas | 3/29 |  4/12 | 40 |
+|  3-0 Python Pandas | 10/25 | 11/1 | 40 |
 |  _Lecture 10/27 (Python GIS - GeoPandas)_ |  |  |  |
-|  3-1 Python GeoPandas Intro] | 3/29 | 4/12 | 40 |
-|  3-2 Python GeoPandas Join] | 3/31 |  4/12 | 40 |
+|  3-1 Python GeoPandas Intro] | 10/25 | 11/1 | 40 |
+|  3-2 Python GeoPandas Join] |10/25 | 11/1 | 40 |
 |  _* Lecture 11/1 (Python GIS - Rasterio)_ |  |  |  |
-|  3-3 Python Rasterio - READ ONLY (NOT DUE) | 3/31 | 4/12 | 0 |
+|  3-3 Python Rasterio  | 10/25 | 11/8 | 0 |
 |  _* Lecture 11/3 (Python GIS - Rasterstats)_ |  |  |  |
-|  3-4 Python Rasterstats | 4/5 | 4/12 | 40 |
+|  3-4 Python Rasterstats | 10/25 | 11/8 | 40 |
 |  _Lecture 11/8 (Jupyter Notebooks)_ |  |  |  |
-|  3-5 Jupyter Notebooks | 4/5 | 4/12 | 40 |
+|  3-5 Jupyter Notebooks | 10/25 | 11/8 | 40 |
 |  **Module 4: Docker** |  |  |  |
 |  _Lecture 11/10 (Docker)_ |  |  |  |
-|  4-0 Docker | 4/7 | 4/13 | 60 |
+|  4-0 Docker | 11/8 | 11/15 | 60 |
 |  **Module 5: Mystery Unit** |  |  |  |
-|  _Guest Lecture (Google Earth Engine)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=11afc87b-6d27-4085-a52c-ae760068b57a)_ |  |  |  |
-|  5-0 ??? | 4/12 |4/19  | 40 |
+|  _Guest Lecture ()_ |  |  |  |
+|  5-0 ??? | 11/8 | 11/22 | 40 |
 |  **Module 6: PostGIS** |  |  |  |
 |  _Lecture (PostGIS Docker Setup)_ |  |  |  |
-|  6-0 PostGIS Docker Setup | 4/14 | 4/21  | 40 |
-|  6-1 PostGIS Intro | 4/14| 4/21 | 40 |
+|  6-0 PostGIS Docker Setup | 11/8 | 11/15 | 40 |
+|  6-1 PostGIS Intro | 11/8 |11/15 | 40 |
 |  _Lecture (PostGIS Intro)_ |  |  |  |
-|  6-2 PostGIS OSM Load | 4/19| 4/26 | 40 |
+|  6-2 PostGIS OSM Load | 11/8 | 11/15 | 40 |
 |  **Module 7: Geoserver** |  |  |  |
 |  _Lecture (Geoserver, Docker, Docker Compose)_ |  |  |  |
-|  7-0 Geoserver Docker Setup | 4/21| 4/28 | 30 |
-|  7-1 Geoserver Intro | 4/21| 4/28 | 30 |
-|  7-2 Geoserver Docker Compose Setup | 4/21 | 4/28 | 30 |
-|  7-3 PostGIS and Geoserver | 4/21| 4/28 | 40 |
+|  7-0 Geoserver Docker Setup | 11/15 | 11/22 | 30 |
+|  7-1 Geoserver Intro | 11/15| 11/22 | 30 |
+|  7-2 Geoserver Docker Compose Setup | 11/15 | 11/22 | 30 |
+|  7-3 PostGIS and Geoserver | 11/15 | 11/22 | 40 |
 |  **Module 8: PostGIS and OSM with nice styling** |  |  |  |
 |  _Lecture (PostGIS and OSM with style)_ |  |  |  |
-|  8-0 PostGIS and OSM with style | 4/26| 5/2 | 40 |
+|  8-0 PostGIS and OSM with style | 11/22 | 11/29 | 40 |
 |  Lecture (Geoserver and OSM with style)_ |  |  |  |
-|  8-1 Geoserver and OSM with style | 4/28| 5/4 | 40 |
+|  8-1 Geoserver and OSM with style | 11/22 |11/29| 40 |
 |  **Module 9: WebGIS** |  |  |  |
 |  _Lecture (Leaflet GIS)_ |  |  |  |
-|  8-0 WebGIS - Leaflet | 4/30 | 5/6 | 40 |
+|  8-0 WebGIS - Leaflet | 11/29 | 12/5 | 40 |
 
 ## Official Dates
 See https://www.registrar.arizona.edu/dates-and-deadlines
