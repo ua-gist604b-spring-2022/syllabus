@@ -1,7 +1,6 @@
 # GIST604B Open Source GIS
-### Course starts: March 14, 2022
-### Course ends: May 4, 2022
-
+### Course starts: October 13, 2022
+### Course ends: December 3, 2022
 ## WELCOME!
 
 Greetings from GIST 604B, Open Source GIS! I'm Aaryn Olsson, the instructor for this course. 
@@ -41,14 +40,14 @@ Remote students: The following are required in order to complete this class remo
 - Docker Hub
 
 ### Getting Started
-You may wonder how to get started. If you login to D2L you will find things a bit bare (The Syllabus is linked there but its home is https://github.com/ua-gist604b-spring-2022/syllabus). You have two initial setup steps to get configured to use the class:
+You may wonder how to get started. If you login to D2L you will find things a bit bare (The Syllabus is linked there but its home is https://github.com/ua-gist604b-f22/syllabus). You have two initial setup steps to get configured to use the class:
 
 1) Sign up for Slack with [this link](https://join.slack.com/t/uagist/shared_invite/enQtNTI1MjMzNzAxOTA3LTM2ZmRmOTY0ZTk1YTRkOWEyYWNlN2Q2OTkxZDkzMzViODYyYTdiNWRmZTFiYzA5MTk0MWNiOWI5ZWE5ZTYwOTk)
 
-2) Create a GitHub.com account if you do not already have one with [this link](https://github.com/join). 
+2) Create a GitHub.com account if you do not already have one with [this link](https://github.com/join). For the sake of class management, please try to pick a username that is close to your NetID or includes your name. 
 
 3) Review this GitHub repository:
-  - https://github.com/ua-gist604b-spring-2022/syllabus
+  - https://github.com/ua-gist604b-f22/syllabus
   You will see that it contains three files:
     - this document: [README.md](README.md) 
     - the syllabus: [syllabus.md](syllabus.md)
