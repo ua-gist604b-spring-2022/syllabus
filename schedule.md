@@ -14,38 +14,36 @@ This class is logically divided into units to be completed over a seven-week tim
 |  **Name** | **Start Date** | **Due Date** | **Points** |
 | --- | --- | --- | ---  |
 |  **Module 0: Introduction and Open Source** |  |  |  |
-|  _Lecture 3/15 (Introduction and Open Source)_ |  |  |  |
+|  _Lecture 10/13 (Introduction, Open Source, and Source Code Management)_ |  |  |  |
 |  [0-0 Slack - Remote Only]() | 3/15 | | 10 |
 |  [0-1 Class Survey - Remote Only]() | 3/15 | | 100 |
 |  [0-2 GitHub Hello]() | 3/15 | | 10 |
 |  [0-3 Open Source Discovery]() | 3/15 | | 20 |
 |  **Module 1: Git and SCM** |  |  |  |
-|  _Lecture 3/17 (Git and SCM)_ |  |  |  |
 |  [1-0 GitHub Branch]() | 3/17 | 4/12 | 20 |
 |  [1-1 GitHub Desktop]() | 3/17 | 4/12 | 10 |
 |  **Module 2: QGIS** |  |  |  |
-|  _Lecture 3/22 (QGIS)_ |  |  |  |
-|  _Lecture 3/24 (QGIS)_ |  |  |  |
+|  _Lecture 10/18 (QGIS)_ |  |  |  |
+|  _Lecture 10/20 (QGIS)_ |  |  |  |
 |  2-0 QGIS Tutorials (Intro) | 3/22 |  4/12 | 30 |
 |  2-1 QGIS Hurricane | 3/22 |  4/12 | 40 |
 |  2-2 QGIS Tutorials (Intermediate) | 3/22 |  4/12 | 30 |
 |  2-3 QGIS Tutorials (Advanced) | 3/22 | 4/12 | 30 |
 |  2-4 QGIS Secret Mutant Hero Team | 3/22 | 4/12 | 40 |
 |  **Module 3: Python** |  |  |  |
-|  _Lecture 3/29 (Python)_ |  |  |  |
+|  _Lecture 10/25 (Python)_ |  |  |  |
 |  3-0 Python Pandas | 3/29 |  4/12 | 40 |
-|  _Lecture (Python GIS - GeoPandas)_ |  |  |  |
+|  _Lecture 10/27 (Python GIS - GeoPandas)_ |  |  |  |
 |  3-1 Python GeoPandas Intro] | 3/29 | 4/12 | 40 |
 |  3-2 Python GeoPandas Join] | 3/31 |  4/12 | 40 |
-|  Lecture 3/31 (Python) | 3/31 |  | 40 |
-|  _Lecture (Python GIS - Rasterio)_ |  |  |  |
+|  _* Lecture 11/1 (Python GIS - Rasterio)_ |  |  |  |
 |  3-3 Python Rasterio - READ ONLY (NOT DUE) | 3/31 | 4/12 | 0 |
-|  _Lecture (Python GIS - Rasterstats)_ |  |  |  |
+|  _* Lecture 11/3 (Python GIS - Rasterstats)_ |  |  |  |
 |  3-4 Python Rasterstats | 4/5 | 4/12 | 40 |
-|  _Lecture (Jupyter Notebooks)_ |  |  |  |
+|  _Lecture 11/8 (Jupyter Notebooks)_ |  |  |  |
 |  3-5 Jupyter Notebooks | 4/5 | 4/12 | 40 |
 |  **Module 4: Docker** |  |  |  |
-|  _Lecture (Docker)_ |  |  |  |
+|  _Lecture 11/10 (Docker)_ |  |  |  |
 |  4-0 Docker | 4/7 | 4/13 | 60 |
 |  **Module 5: Mystery Unit** |  |  |  |
 |  _Guest Lecture (Google Earth Engine)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=11afc87b-6d27-4085-a52c-ae760068b57a)_ |  |  |  |
