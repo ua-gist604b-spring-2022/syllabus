@@ -38,6 +38,7 @@ Remote students: The following are required in order to complete this class remo
 #### Accounts that you will make over the course of the semester
 - GitHub
 - Docker Hub
+- Slack
 
 ### Getting Started
 You may wonder how to get started. If you login to D2L you will find things a bit bare (The Syllabus is linked there but its home is https://github.com/ua-gist604b-f22/syllabus). You have two initial setup steps to get configured to use the class:
@@ -53,9 +54,12 @@ You may wonder how to get started. If you login to D2L you will find things a bi
     - the syllabus: [syllabus.md](syllabus.md)
     - the class schedule: [schedule.md](schedule.md)
 
-4) Review the syllabus
+4) Login to the Piazza workspace: 
+  - https://piazza.com/arizona/fall2022/gist604b/home
+  
+5) Review the syllabus
 
-5) Review the schedule
+6) Review the schedule
 
-6) Accept your first assignment. 
+7) Accept your first assignment. 
 - In the [schedule.md](schedule.md), see the link for `Accept`. This will take you to a `GitHub Classroom` website where you can `Accept this assignment`. When you accept the assignment, a new GitHub repository containing your first assignment will be created under your GitHub account. Feedback on your assignment will be provided through the assignment GitHub repository. However, when you turn in your assignment, your grade will be posted to D2L.
