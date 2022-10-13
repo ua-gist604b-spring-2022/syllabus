@@ -9,7 +9,7 @@ This class is logically divided into units to be completed over a seven-week tim
 - Veteran's Day: November 11, 2022
 - Thanksgiving Recess: November 24-27, 2022
 
-### Live lecture link: [[https://arizona.zoom.us/j/85422983004]([https://arizona.zoom.us/j/87408592707](https://arizona.zoom.us/j/87408592707))](https://arizona.zoom.us/j/85422983004)
+### Live lecture link: [Zoom](https://arizona.zoom.us/j/87408592707)
 
 |  **Name** | **Start Date** | **Due Date** | **Points** |
 | --- | --- | --- | ---  |
