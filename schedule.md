@@ -11,6 +11,8 @@ This class is logically divided into units to be completed over a seven-week tim
 
 ### Live lecture link: [Zoom](https://arizona.zoom.us/j/87408592707)
 
+### [Piazza](https://piazza.com/class/l96iahse4la2gu)
+
 |  **Name** | **Start Date** | **Due Date** | **Points** |
 | --- | --- | --- | ---  |
 |  **Module 0: Introduction and Open Source** |  |  |  |
