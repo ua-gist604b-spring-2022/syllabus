@@ -25,11 +25,11 @@ This class is logically divided into units to be completed over a seven-week tim
 |  **Module 2: QGIS** |  |  |  |
 |  _Lecture 10/18 (QGIS)_ |  |  |  |
 |  _Lecture 10/20 (QGIS)_ |  |  |  |
-|  2-0 QGIS Tutorials (Intro) | 10/18 | 10/25 | 30 |
-|  2-1 QGIS Tutorials (Intermediate) | 10/25 |  4/12 | 30 |
-|  2-2 QGIS Tutorials (Advanced) | 10/18 | 10/25 | 30 |
-|  2-3 QGIS Hurricane | 10/18 |  10/25 | 40 |
-|  2-4 QGIS Secret Mutant Hero Team | 10/18 | 10/25 | 40 |
+|  [2-0 QGIS Tutorials (Intro)](https://classroom.github.com/a/0gW9vwMV) | 10/18 | 10/25 | 30 |
+|  [2-1 QGIS Tutorials (Intermediate)](https://classroom.github.com/a/vs_IsWm5) | 10/18 |  10/25 | 30 |
+|  [2-2 QGIS Tutorials (Advanced)](https://classroom.github.com/a/aEhRtVI7) | 10/18 | 10/25 | 30 |
+|  [2-3 QGIS Hurricane](https://classroom.github.com/a/QO_DRYI8) | 10/18 |  10/25 | 40 |
+|  [2-4 QGIS Secret Mutant Hero Team](https://classroom.github.com/a/SA0zHjbE) | 10/18 | 10/25 | 40 |
 |  **Module 3: Python** |  |  |  |
 |  1-2 Codespace Intro | 10/25 | 11/1 | 10 |
 |  _Lecture 10/25 (Python)_ |  |  |  |
