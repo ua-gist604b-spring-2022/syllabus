@@ -16,7 +16,7 @@ This class is logically divided into units to be completed over a seven-week tim
 |  **Name** | **Start Date** | **Due Date** | **Points** |
 | --- | --- | --- | ---  |
 |  **Module 0: Introduction and Open Source** |  |  |  |
-|  ![zoom icon](media/zoom_icon.png) _[Lecture 10/13 (Introduction, Open Source, and Source Code Management)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=52c49146-69e0-45e5-9238-af2d006fc4fe)_ |  |  |  |
+|  ![zoom icon](./media/zoom_icon.png) _[Lecture 10/13 (Introduction, Open Source, and Source Code Management)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=52c49146-69e0-45e5-9238-af2d006fc4fe)_ |  |  |  |
 |  [0-0 Slack](https://classroom.github.com/a/-vQyIauc) | 10/13 | 10/20 | 10 |
 |  [0-1 Class Survey](https://classroom.github.com/a/22novpzT) | 10/13 | 10/20 | 100 |
 |  [0-2 GitHub Hello](https://classroom.github.com/a/p96kZEe_) | 10/13 | 10/20 | 10 |
