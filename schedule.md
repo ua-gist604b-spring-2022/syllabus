@@ -16,7 +16,7 @@ This class is logically divided into units to be completed over a seven-week tim
 |  **Name** | **Start Date** | **Due Date** | **Points** |
 | --- | --- | --- | ---  |
 |  **Module 0: Introduction and Open Source** |  |  |  |
-|  _[Lecture 10/13 (Introduction, Open Source, and Source Code Management)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=52c49146-69e0-45e5-9238-af2d006fc4fe)_ |  |  |  |
+|  ![zoom icon](media/zoom_icon.png) _[Lecture 10/13 (Introduction, Open Source, and Source Code Management)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=52c49146-69e0-45e5-9238-af2d006fc4fe)_ |  |  |  |
 |  [0-0 Slack](https://classroom.github.com/a/-vQyIauc) | 10/13 | 10/20 | 10 |
 |  [0-1 Class Survey](https://classroom.github.com/a/22novpzT) | 10/13 | 10/20 | 100 |
 |  [0-2 GitHub Hello](https://classroom.github.com/a/p96kZEe_) | 10/13 | 10/20 | 10 |
@@ -25,11 +25,12 @@ This class is logically divided into units to be completed over a seven-week tim
 |  [1-0 GitHub Branch](https://classroom.github.com/a/4yzs2Cqo) | 10/13 | 10/20 | 20 |
 |  [1-1 GitHub Desktop](https://classroom.github.com/a/RZBgqpGL) | 10/13 | 10/20 | 10 |
 |  **Module 2: QGIS** |  |  |  |
-|  _[Lecture 10/16 (QGIS)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=821bcbbd-76eb-467a-b828-af30006a1225)_ |  |  |  |
-|  _Lecture 10/20 (QGIS)_ |  |  |  |
+|  ![zoom icon](media/zoom_icon.png) _[Lecture 10/16 (QGIS)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=821bcbbd-76eb-467a-b828-af30006a1225)_ |  |  |  |
+|  ![zoom icon](media/zoom_icon.png) _Lecture 10/20 (QGIS)_ |  |  |  |
 |  [2-0 QGIS Tutorials (Intro)](https://classroom.github.com/a/0gW9vwMV) | 10/18 | 10/25 | 30 |
 |  [2-1 QGIS Tutorials (Intermediate)](https://classroom.github.com/a/vs_IsWm5) | 10/18 |  10/25 | 30 |
 |  [2-2 QGIS Tutorials (Advanced)](https://classroom.github.com/a/aEhRtVI7) | 10/18 | 10/25 | 30 |
+|  ![zoom icon](media/zoom_icon.png) [partial walkthrough](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0cf2fb68-aabb-4109-9a7e-af370136ce56&edit=true) |  |  |  |
 |  [2-3 QGIS Hurricane](https://classroom.github.com/a/QO_DRYI8) | 10/18 |  10/25 | 40 |
 |  [2-4 QGIS Secret Mutant Hero Team](https://classroom.github.com/a/SA0zHjbE) | 10/18 | 10/25 | 40 |
 |  **Module 3: Python** |  |  |  |
