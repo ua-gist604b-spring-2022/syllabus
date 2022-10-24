@@ -34,18 +34,18 @@ This class is logically divided into units to be completed over a seven-week tim
 |  [2-3 QGIS Hurricane](https://classroom.github.com/a/QO_DRYI8) | 10/18 |  10/25 | 40 |
 |  [2-4 QGIS Secret Mutant Hero Team](https://classroom.github.com/a/SA0zHjbE) | 10/18 | 10/25 | 40 |
 |  **Module 3: Python** |  |  |  |
-|  1-2 Codespace Intro | 10/25 | 11/1 | 10 |
+|  [3-0 Codespace Intro](https://classroom.github.com/a/5dSSPbro) | 10/25 | 11/1 | 10 |
 |  _Lecture 10/25 (Python)_ |  |  |  |
-|  3-0 Python Pandas | 10/25 | 11/1 | 40 |
+|  [3-1 Python Pandas](https://classroom.github.com/a/1uoN9Nhs) | 10/25 | 11/1 | 40 |
 |  _Lecture 10/27 (Python GIS - GeoPandas)_ |  |  |  |
-|  3-1 Python GeoPandas Intro] | 10/25 | 11/1 | 40 |
-|  3-2 Python GeoPandas Join] |10/25 | 11/1 | 40 |
+|  [3-2 Python GeoPandas Intro](https://classroom.github.com/a/qApIF2QN) | 10/25 | 11/1 | 40 |
+|  3-3 Python GeoPandas Join] |10/25 | 11/1 | 40 |
 |  _* Lecture 11/1 (Python GIS - Rasterio)_ |  |  |  |
-|  3-3 Python Rasterio  | 10/25 | 11/8 | 0 |
+|  3-4 Python Rasterio  | 10/25 | 11/8 | 0 |
 |  _* Lecture 11/3 (Python GIS - Rasterstats)_ |  |  |  |
-|  3-4 Python Rasterstats | 10/25 | 11/8 | 40 |
+|  3-5 Python Rasterstats | 10/25 | 11/8 | 40 |
 |  _Lecture 11/8 (Jupyter Notebooks)_ |  |  |  |
-|  3-5 Jupyter Notebooks | 10/25 | 11/8 | 40 |
+|  3-6 Jupyter Notebooks | 10/25 | 11/8 | 40 |
 |  **Module 4: Docker** |  |  |  |
 |  _Lecture 11/10 (Docker)_ |  |  |  |
 |  4-0 Docker | 11/8 | 11/15 | 60 |
