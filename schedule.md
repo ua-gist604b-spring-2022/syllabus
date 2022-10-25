@@ -41,8 +41,7 @@ This class is logically divided into units to be completed over a seven-week tim
 |  [3-2 Python GeoPandas Intro](https://classroom.github.com/a/qApIF2QN) | 10/25 | 11/1 | 40 |
 |  [3-3 Python GeoPandas Join](https://classroom.github.com/a/wa8b-myn) |10/25 | 11/1 | 40 |
 |  _* Lecture Python GIS - Rasterio and Rasterstats)_ |  |  |  |
-|  [3-4 Python Rasterio]() | 10/25 | 11/8 | 0 |
-|  [3-5 Python Rasterstats]() | 10/25 | 11/8 | 40 |
+|  [3-4 Python Rasterio](https://classroom.github.com/a/QFAMZxMP) | 10/25 | 11/8 | 40 |
 |  **Module 4: Docker** |  |  |  |
 |  _Lecture (Docker)_ |  |  |  |
 |  4-0 Docker | 11/8 | 11/15 | 60 |
