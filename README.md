@@ -1,7 +1,6 @@
 # GIST604B Open Source GIS
-### Course starts: March 14, 2022
-### Course ends: May 4, 2022
-
+### Course starts: October 13, 2022
+### Course ends: December 3, 2022
 ## WELCOME!
 
 Greetings from GIST 604B, Open Source GIS! I'm Aaryn Olsson, the instructor for this course. 
@@ -39,24 +38,28 @@ Remote students: The following are required in order to complete this class remo
 #### Accounts that you will make over the course of the semester
 - GitHub
 - Docker Hub
+- Slack
 
 ### Getting Started
-You may wonder how to get started. If you login to D2L you will find things a bit bare (The Syllabus is linked there but its home is https://github.com/ua-gist604b-spring-2022/syllabus). You have two initial setup steps to get configured to use the class:
+You may wonder how to get started. If you login to D2L you will find things a bit bare (The Syllabus is linked there but its home is https://github.com/ua-gist604b-f22/syllabus). You have two initial setup steps to get configured to use the class:
 
 1) Sign up for Slack with [this link](https://join.slack.com/t/uagist/shared_invite/enQtNTI1MjMzNzAxOTA3LTM2ZmRmOTY0ZTk1YTRkOWEyYWNlN2Q2OTkxZDkzMzViODYyYTdiNWRmZTFiYzA5MTk0MWNiOWI5ZWE5ZTYwOTk)
 
-2) Create a GitHub.com account if you do not already have one with [this link](https://github.com/join). 
+2) Create a GitHub.com account if you do not already have one with [this link](https://github.com/join). For the sake of class management, please try to pick a username that is close to your NetID or includes your name. 
 
 3) Review this GitHub repository:
-  - https://github.com/ua-gist604b-spring-2022/syllabus
+  - https://github.com/ua-gist604b-f22/syllabus
   You will see that it contains three files:
     - this document: [README.md](README.md) 
     - the syllabus: [syllabus.md](syllabus.md)
     - the class schedule: [schedule.md](schedule.md)
 
-4) Review the syllabus
+4) Login to the Piazza workspace: 
+  - https://piazza.com/arizona/fall2022/gist604b/home
+  
+5) Review the syllabus
 
-5) Review the schedule
+6) Review the schedule
 
-6) Accept your first assignment. 
+7) Accept your first assignment. 
 - In the [schedule.md](schedule.md), see the link for `Accept`. This will take you to a `GitHub Classroom` website where you can `Accept this assignment`. When you accept the assignment, a new GitHub repository containing your first assignment will be created under your GitHub account. Feedback on your assignment will be provided through the assignment GitHub repository. However, when you turn in your assignment, your grade will be posted to D2L.
