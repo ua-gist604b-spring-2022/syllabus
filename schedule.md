@@ -34,10 +34,11 @@ This class is logically divided into units to be completed over a seven-week tim
 |  [2-3 QGIS Hurricane](https://classroom.github.com/a/QO_DRYI8) | 10/18 |  10/25 | 40 |
 |  [2-4 QGIS Secret Mutant Hero Team](https://classroom.github.com/a/SA0zHjbE) | 10/18 | 10/25 | 40 |
 |  **Module 3: Python** |  |  |  |
-|  [3-0 Codespace Intro](https://classroom.github.com/a/5dSSPbro) | 10/25 | 11/1 | 10 |
 |  ![zoom icon](media/play-icon.png) _[Lecture from the Archive (Intro to Python)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=83304fba-424f-430f-87e1-adcc00448e6e)_ |  |  |  |
+|  ![zoom icon](media/play-icon.png) _[Lecture (Python GIS - Codespaces and Pandas)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c656f99b-674a-45bf-8de5-af3a00048881)_ |  |  |  |
+|  [3-0 Codespace Intro](https://classroom.github.com/a/5dSSPbro) | 10/25 | 11/1 | 10 |
 |  [3-1 Python Pandas](https://classroom.github.com/a/1uoN9Nhs) | 10/25 | 11/1 | 40 |
-|  ![zoom icon](media/play-icon.png) _[Lecture (Python GIS - Pandas and GeoPandas)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c656f99b-674a-45bf-8de5-af3a00048881)_ |  |  |  |
+|  ![zoom icon](media/play-icon.png) _[Lecture (Python GIS - Pandas)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=54148fb7-b980-4d4b-bb8f-af3a0050e06e)_ |  |  |  |
 |  [3-2 Python GeoPandas Intro](https://classroom.github.com/a/qApIF2QN) | 10/25 | 11/1 | 40 |
 |  [3-3 Python GeoPandas Join](https://classroom.github.com/a/wa8b-myn) |10/25 | 11/1 | 40 |
 |  _* Lecture Python GIS - Rasterio and Rasterstats)_ |  |  |  |
