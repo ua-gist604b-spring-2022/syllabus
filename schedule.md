@@ -46,9 +46,6 @@ This class is logically divided into units to be completed over a seven-week tim
 |  **Module 4: Docker** |  |  |  |
 |  _Lecture (Docker)_ |  |  |  |
 |  4-0 Docker | 11/8 | 11/15 | 60 |
-|  **Module 5: Mystery Unit** |  |  |  |
-|  _Guest Lecture ()_ |  |  |  |
-|  5-0 ??? | 11/8 | 11/22 | 40 |
 |  **Module 6: PostGIS** |  |  |  |
 |  _Lecture (PostGIS Docker Setup)_ |  |  |  |
 |  6-0 PostGIS Docker Setup | 11/8 | 11/15 | 40 |
